@@ -1,0 +1,1951 @@
+﻿id_comanda,data_comanda,oras,id_restaurant,produse,nr_produse,valoare_produse,cost_livrare,timp_livrare_min,metoda_plata,rating_client,client_nou
+100001,1/1/2025 15:25,București,18,['Shaorma medie'],1,24,9.99,30,Card,5,TRUE
+100002,1/1/2025 19:41,Brașov,18,"['Shaorma mare', 'Falafel wrap', 'Cartofi prăjiți', 'Ayran']",4,73,12.99,22,Card,,FALSE
+100003,1/1/2025 20:19,București,7,"['Pad Thai', 'Supă Miso', 'Noodles cu pui']",3,92,7.99,47,Cash,,FALSE
+100004,1/2/2025 10:25,București,18,"['Shaorma medie', 'Shaorma mare', 'Falafel wrap']",3,78,9.99,29,Card,4,TRUE
+100005,1/2/2025 13:56,Timișoara,18,"['Shaorma medie', 'Shaorma mare', 'Ayran']",3,60,9.99,29,Card,5,FALSE
+100006,1/2/2025 16:19,București,4,['Cola'],1,8,7.99,42,Card,3,FALSE
+100007,1/2/2025 21:36,București,18,"['Cartofi prăjiți', 'Shaorma medie']",2,36,7.99,38,Card,4,TRUE
+100008,1/2/2025 21:44,Cluj-Napoca,6,"['Burger Clasic', 'Cola']",2,42,7.99,26,Card,,FALSE
+100009,1/3/2025 11:00,București,9,"['Noodles cu pui', 'Sushi Mix 16 buc']",2,101,0,27,Cash,5,TRUE
+100010,1/3/2025 13:05,București,3,['Pizza Quattro Formaggi'],1,42,9.99,38,Card,5,TRUE
+100011,1/3/2025 14:41,Cluj-Napoca,9,"['Supă Miso', 'Pad Thai', 'California Roll']",3,94,9.99,26,Card,5,FALSE
+100012,1/3/2025 14:44,București,1,['Focaccia'],1,18,9.99,28,Card,5,FALSE
+100013,1/3/2025 15:24,Timișoara,12,"['Șnițel cu piure', 'Limonadă', 'Sarmale cu mămăligă', 'Ciorbă de burtă']",4,108,0,32,Card,4,TRUE
+100014,1/3/2025 19:31,București,2,"['Tiramisu', 'Pizza Quattro Formaggi', 'Pizza Margherita', 'Pizza Capricciosa']",4,134,0,42,Card,,TRUE
+100015,1/4/2025 10:32,București,9,"['Noodles cu pui', 'Sushi Mix 16 buc', 'Supă Miso', 'California Roll']",4,154,0,20,Cash,5,TRUE
+100016,1/4/2025 19:07,Cluj-Napoca,18,['Kebab la farfurie'],1,35,12.99,16,Card,5,TRUE
+100017,1/4/2025 20:03,Cluj-Napoca,10,"['Sarmale cu mămăligă', 'Papanași', 'Șnițel cu piure']",3,98,12.99,32,Card,4,FALSE
+100018,1/4/2025 21:16,București,2,"['Pizza Margherita', 'Tiramisu', 'Pizza Quattro Formaggi']",3,93,12.99,49,Card,3,FALSE
+100019,1/4/2025 22:49,București,4,"['Cheeseburger', 'Burger BBQ', 'Burger Clasic']",3,113,0,38,Card,3,FALSE
+100020,1/4/2025 23:57,București,3,"['Pizza Diavola', 'Cola']",2,47,7.99,21,Cash,5,TRUE
+100021,1/5/2025 16:04,București,10,"['Sarmale cu mămăligă', 'Șnițel cu piure']",2,74,9.99,43,Card,4,FALSE
+100022,1/5/2025 16:09,Timișoara,10,"['Limonadă', 'Papanași']",2,0,9.99,36,Card,,FALSE
+100023,1/5/2025 18:55,București,2,"['Pizza Quattro Formaggi', 'Pizza Margherita']",2,74,9.99,30,Card,5,FALSE
+100024,1/5/2025 18:59,București,18,"['Cartofi prăjiți', 'Ayran', 'Kebab la farfurie', 'Shaorma medie']",4,78,9.99,20,Cash,4,FALSE
+100025,1/5/2025 19:18,București,12,['Șnițel cu piure'],1,38,7.99,36,Card,5,FALSE
+100026,1/5/2025 23:50,București,17,"['Falafel wrap', 'Cartofi prăjiți']",2,37,7.99,46,Card,2,FALSE
+100027,1/6/2025 14:31,Cluj-Napoca,1,"['Pizza Capricciosa', 'Tiramisu']",2,60,9.99,18,Card,4,FALSE
+100028,1/6/2025 19:38,București,18,"['Kebab la farfurie', 'Cartofi prăjiți']",2,47,12.99,38,Card,,FALSE
+100029,1/6/2025 19:57,Cluj-Napoca,9,['Sushi Mix 16 buc'],1,65,9.99,35,Cash,,FALSE
+100030,1/6/2025 21:07,Timișoara,2,"['Focaccia', 'Pizza Diavola', 'Pizza Margherita']",3,89,12.99,33,Cash,4,TRUE
+100031,1/6/2025 21:57,Brașov,16,"['Papanași', 'Clătite cu ciocolată']",2,45,9.99,27,Card,5,TRUE
+100032,1/6/2025 22:45,Brașov,1,['Pizza Margherita'],1,32,7.99,14,Card,,FALSE
+100033,1/7/2025 12:08,București,6,"['Cola', 'Onion rings', 'Milkshake', 'Cheeseburger']",4,76,12.99,38,Card,,FALSE
+100034,1/7/2025 14:23,București,18,['Ayran'],1,7,9.99,31,Card,,FALSE
+100035,1/7/2025 19:45,Iași,16,"['Cheesecake', 'Clătite cu ciocolată', 'Înghețată']",3,59,7.99,34,Card,,TRUE
+100036,1/8/2025 13:17,București,6,['Milkshake'],1,17,9.99,43,Card,4,FALSE
+100037,1/8/2025 19:51,București,5,"['Cola', 'Burger Clasic']",2,42,9.99,44,Card,,FALSE
+100038,1/8/2025 20:25,Iași,17,"['Shaorma mare', 'Kebab la farfurie', 'Ayran']",3,71,9.99,40,Card,,FALSE
+100039,1/8/2025 20:37,Cluj-Napoca,10,"['Ciorbă de burtă', 'Sarmale cu mămăligă', 'Mici cu muștar (5 buc)', 'Șnițel cu piure']",4,126,0,35,Card,5,FALSE
+100040,1/8/2025 23:11,Iași,11,['Mici cu muștar (5 buc)'],1,30,9.99,20,Card,5,FALSE
+100041,1/9/2025 14:51,Cluj-Napoca,10,"['Mici cu muștar (5 buc)', 'Papanași', 'Șnițel cu piure']",3,92,7.99,24,Card,4,FALSE
+100042,1/9/2025 18:32,București,12,"['Ciorbă de burtă', 'Limonadă', 'Mici cu muștar (5 buc)']",3,64,9.99,28,Card,4,FALSE
+100043,1/9/2025 18:46,București,16,"['Înghețată', 'Papanași']",2,39,7.99,26,Card,5,FALSE
+100044,1/9/2025 19:26,Cluj-Napoca,13,"['Wrap cu pui', 'Bowl cu somon', 'Salată Caesar', 'Apă plată']",4,119,0,26,Cash,,FALSE
+100045,1/10/2025 12:41,Timișoara,16,"['Clătite cu ciocolată', 'Cheesecake', 'Waffle cu fructe']",3,70,7.99,26,Card,,FALSE
+100046,1/10/2025 14:51,Iași,9,"['Supă Miso', 'Sushi Mix 16 buc']",2,80,9.99,20,Cash,4,TRUE
+100047,1/10/2025 15:04,București,15,"['Clătite cu ciocolată', 'Cheesecake']",2,44,12.99,27,Card,5,TRUE
+100048,1/10/2025 16:38,Cluj-Napoca,8,['Supă Miso'],1,15,7.99,33,Card,4,TRUE
+100049,1/10/2025 19:54,Cluj-Napoca,1,"['Pizza Quattro Formaggi', 'Focaccia']",2,60,9.99,34,Card,,FALSE
+100050,1/10/2025 19:57,Cluj-Napoca,18,"['Cartofi prăjiți', 'Kebab la farfurie']",2,47,12.99,41,Card,4,FALSE
+100051,1/10/2025 21:13,Cluj-Napoca,3,"['Pizza Capricciosa', 'Tiramisu']",2,60,7.99,41,Cash,4,TRUE
+100052,1/11/2025 13:41,București,3,"['Pizza Margherita', 'Pizza Capricciosa', 'Focaccia']",3,91,9.99,37,Cash,,FALSE
+100053,1/11/2025 17:52,Iași,2,['Pizza Capricciosa'],1,41,9.99,17,Card,4,FALSE
+100054,1/11/2025 19:11,Iași,6,['Cola'],1,8,7.99,33,Card,5,FALSE
+100055,1/11/2025 21:18,București,9,"['Ceai verde', 'Noodles cu pui']",2,45,7.99,45,Card,,FALSE
+100056,1/11/2025 23:30,București,2,['Tiramisu'],1,19,12.99,30,Card,4,FALSE
+100057,1/11/2025 23:56,București,9,"['California Roll', 'Supă Miso', 'Ceai verde']",3,62,7.99,34,Cash,4,FALSE
+100058,1/12/2025 12:27,Iași,18,['Kebab la farfurie'],1,35,9.99,34,Card,,FALSE
+100059,1/12/2025 14:42,Cluj-Napoca,5,"['Burger BBQ', 'Onion rings']",2,56,9.99,32,Card,4,FALSE
+100060,1/12/2025 14:46,Cluj-Napoca,10,"['Papanași', 'Mici cu muștar (5 buc)']",2,54,12.99,21,Card,4,FALSE
+100061,1/12/2025 17:18,Iași,2,['Pizza Quattro Formaggi'],1,42,12.99,18,Card,,FALSE
+100062,1/13/2025 10:04,București,10,"['Ciorbă de burtă', 'Șnițel cu piure']",2,60,12.99,57,Card,,FALSE
+100063,1/13/2025 12:06,Cluj-Napoca,4,"['Burger Clasic', 'Cola', 'Burger BBQ']",3,84,7.99,19,Card,5,FALSE
+100064,1/13/2025 14:57,Timișoara,8,"['Noodles cu pui', 'Supă Miso']",2,51,9.99,26,Card,,TRUE
+100065,1/13/2025 18:02,București,10,"['Sarmale cu mămăligă', 'Ciorbă de burtă']",2,58,12.99,,Card,3,FALSE
+100066,1/13/2025 19:18,Cluj-Napoca,9,['Ceai verde'],1,9,9.99,32,Card,5,TRUE
+100067,1/13/2025 19:42,Cluj-Napoca,8,"['Sushi Mix 16 buc', 'Ceai verde', 'California Roll']",3,112,0,35,Card,,FALSE
+100068,1/13/2025 20:04,București,9,"['Noodles cu pui', 'Sushi Mix 16 buc', 'Ceai verde']",3,110,0,44,Card,3,FALSE
+100069,1/13/2025 20:12,București,2,"['Pizza Capricciosa', 'Pizza Quattro Formaggi', 'Pizza Diavola']",3,122,0,42,Card,,FALSE
+100070,1/13/2025 20:23,Timișoara,3,['Pizza Margherita'],1,32,9.99,23,Card,,FALSE
+100071,1/13/2025 22:59,București,8,['California Roll'],1,38,7.99,28,Card,,FALSE
+100072,1/14/2025 15:32,Brașov,4,['Onion rings'],1,14,7.99,23,Card,4,FALSE
+100073,1/14/2025 16:39,Iași,17,"['Shaorma mare', 'Cartofi prăjiți']",2,41,7.99,28,Cash,4,TRUE
+100074,1/14/2025 22:25,Iași,6,"['Burger Clasic', 'Milkshake', 'Burger BBQ']",3,93,9.99,12,Card,,FALSE
+100075,1/14/2025 23:06,Timișoara,3,['Pizza Capricciosa'],1,41,12.99,12,Cash,4,FALSE
+100076,1/15/2025 19:58,Brașov,4,"['Burger Clasic', 'Milkshake', 'Onion rings']",3,65,9.99,36,Cash,5,FALSE
+100077,1/15/2025 20:59,București,9,"['Pad Thai', 'Noodles cu pui', 'Supă Miso', 'Sushi Mix 16 buc']",4,157,0,,Card,,FALSE
+100078,1/16/2025 12:29,Cluj-Napoca,1,['Pizza Diavola'],1,39,7.99,25,Card,5,FALSE
+100079,1/16/2025 18:57,Brașov,2,"['Pizza Margherita', 'Cola']",2,40,12.99,23,Cash,4,FALSE
+100080,1/16/2025 20:55,Cluj-Napoca,13,"['Bowl vegan', 'Wrap cu pui', 'Salată Caesar']",3,104,0,30,Card,,FALSE
+100081,1/16/2025 21:01,București,15,"['Cafea', 'Înghețată', 'Waffle cu fructe']",3,51,9.99,39,Cash,,FALSE
+100082,1/17/2025 13:01,Timișoara,10,"['Limonadă', 'Sarmale cu mămăligă']",2,48,9.99,33,Cash,5,FALSE
+100083,1/17/2025 19:27,Brașov,13,"['Apă plată', 'Wrap cu pui', 'Bowl vegan']",3,76,9.99,34,Card,5,FALSE
+100084,1/17/2025 19:58,Brașov,2,"['Pizza Margherita', 'Pizza Capricciosa', 'Cola']",3,81,9.99,34,Card,5,FALSE
+100085,1/17/2025 20:02,Cluj-Napoca,11,['Ciorbă de burtă'],1,22,9.99,,Card,,FALSE
+100086,1/17/2025 20:03,București,4,"['Cola', 'Cheeseburger']",2,45,9.99,45,Card,4,FALSE
+100087,1/17/2025 20:07,Timișoara,14,"['Smoothie', 'Bowl cu somon']",2,66,12.99,40,Cash,4,FALSE
+100088,1/17/2025 20:22,Brașov,1,"['Pizza Quattro Formaggi', 'Tiramisu']",2,61,7.99,41,Card,,FALSE
+100089,1/17/2025 20:39,Iași,7,"['Pad Thai', 'California Roll']",2,79,9.99,,Cash,,FALSE
+100090,1/17/2025 21:01,Timișoara,12,"['Mici cu muștar (5 buc)', 'Șnițel cu piure', 'Sarmale cu mămăligă', 'Ciorbă de burtă']",4,126,0,25,Card,5,FALSE
+100091,1/17/2025 21:19,Cluj-Napoca,18,"['Falafel wrap', 'Cartofi prăjiți']",2,37,9.99,25,Card,5,FALSE
+100092,1/18/2025 12:55,București,5,"['Cartofi prăjiți', 'Burger BBQ']",2,54,9.99,36,Card,5,FALSE
+100093,1/18/2025 13:43,București,10,"['Șnițel cu piure', 'Sarmale cu mămăligă']",2,74,9.99,54,Card,,FALSE
+100094,1/18/2025 14:35,Timișoara,9,"['Sushi Mix 16 buc', 'Noodles cu pui']",2,101,0,35,Card,4,FALSE
+100095,1/18/2025 16:44,Cluj-Napoca,4,"['Burger BBQ', 'Cheeseburger', 'Onion rings']",3,93,9.99,17,Card,5,TRUE
+100096,1/18/2025 20:07,Cluj-Napoca,6,"['Cartofi prăjiți', 'Onion rings']",2,26,9.99,26,Card,5,FALSE
+100097,1/18/2025 20:16,București,1,"['Tiramisu', 'Pizza Margherita']",2,51,7.99,53,Cash,3,TRUE
+100098,1/18/2025 21:16,Iași,1,"['Focaccia', 'Pizza Quattro Formaggi', 'Tiramisu']",3,79,9.99,44,Cash,4,FALSE
+100099,1/19/2025 12:39,Timișoara,15,"['Waffle cu fructe', 'Înghețată', 'Cafea']",3,51,9.99,36,Card,,FALSE
+100100,1/19/2025 12:49,Iași,7,"['Ceai verde', 'Supă Miso', 'Sushi Mix 16 buc']",3,89,7.99,20,Card,5,TRUE
+100101,1/19/2025 13:31,București,18,"['Falafel wrap', 'Kebab la farfurie', 'Shaorma mare', 'Cartofi prăjiți']",4,101,0,28,Card,4,FALSE
+100102,1/19/2025 16:50,Timișoara,10,"['Șnițel cu piure', 'Mici cu muștar (5 buc)']",2,68,7.99,21,Card,5,FALSE
+100103,1/19/2025 17:27,Cluj-Napoca,4,"['Burger BBQ', 'Cheeseburger', 'Cartofi prăjiți']",3,91,9.99,19,Card,5,FALSE
+100104,1/19/2025 20:02,Cluj-Napoca,17,"['Kebab la farfurie', 'Shaorma medie']",2,59,9.99,38,Card,4,FALSE
+100105,1/19/2025 20:40,București,13,"['Wrap cu pui', 'Bowl cu somon']",2,79,7.99,40,Card,3,TRUE
+100106,1/19/2025 21:29,Brașov,11,['Limonadă'],1,12,7.99,40,Card,4,FALSE
+100107,1/19/2025 22:47,București,12,"['Ciorbă de burtă', 'Sarmale cu mămăligă']",2,58,7.99,28,Cash,4,FALSE
+100108,1/20/2025 19:00,Cluj-Napoca,16,"['Cafea', 'Waffle cu fructe']",2,36,7.99,26,Card,5,FALSE
+100109,1/20/2025 21:04,Iași,2,['Cola'],1,8,9.99,27,Card,5,FALSE
+100110,1/20/2025 21:54,București,9,"['Supă Miso', 'Sushi Mix 16 buc']",2,80,9.99,47,Card,5,TRUE
+100111,1/20/2025 22:44,Cluj-Napoca,17,"['Falafel wrap', 'Shaorma mare']",2,54,7.99,17,Card,4,FALSE
+100112,1/21/2025 13:04,București,4,"['Burger Clasic', 'Cartofi prăjiți', 'Cola']",3,54,9.99,39,Card,,FALSE
+100113,1/21/2025 16:00,București,17,"['Shaorma medie', 'Cartofi prăjiți', 'Kebab la farfurie']",3,71,12.99,16,Card,5,FALSE
+100114,1/21/2025 23:43,Brașov,18,"['Cartofi prăjiți', 'Shaorma mare', 'Falafel wrap']",3,66,12.99,23,Cash,5,FALSE
+100115,1/22/2025 17:32,Brașov,10,['Ciorbă de burtă'],1,22,7.99,31,Card,4,FALSE
+100116,1/22/2025 18:40,București,1,"['Pizza Capricciosa', 'Pizza Margherita']",2,73,7.99,36,Cash,4,FALSE
+100117,1/22/2025 18:59,Timișoara,15,"['Papanași', 'Cheesecake', 'Clătite cu ciocolată']",3,68,9.99,18,Card,4,FALSE
+100118,1/23/2025 13:09,Cluj-Napoca,4,"['Cheeseburger', 'Cartofi prăjiți']",2,49,12.99,23,Card,4,TRUE
+100119,1/23/2025 18:20,Brașov,8,"['Pad Thai', 'Noodles cu pui']",2,77,7.99,27,Card,5,FALSE
+100120,1/23/2025 18:45,Timișoara,9,"['California Roll', 'Supă Miso', 'Pad Thai']",3,94,9.99,12,Card,,FALSE
+100121,1/23/2025 19:00,Iași,1,"['Tiramisu', 'Pizza Diavola', 'Focaccia', 'Pizza Quattro Formaggi']",4,118,0,16,Card,4,FALSE
+100122,1/23/2025 19:34,București,14,"['Apă plată', 'Wrap cu pui', 'Salată Caesar']",3,71,12.99,48,Card,,FALSE
+100123,1/23/2025 21:55,Cluj-Napoca,12,"['Papanași', 'Șnițel cu piure', 'Limonadă', 'Ciorbă de burtă']",4,96,7.99,43,Card,4,FALSE
+100124,1/24/2025 12:12,București,5,"['Onion rings', 'Cola', 'Milkshake']",3,39,9.99,36,Card,,FALSE
+100125,1/24/2025 12:24,Brașov,8,"['Ceai verde', 'Supă Miso', 'California Roll']",3,62,7.99,24,Cash,,TRUE
+100126,1/24/2025 14:10,Timișoara,11,"['Șnițel cu piure', 'Ciorbă de burtă', 'Sarmale cu mămăligă']",3,96,7.99,16,Card,5,TRUE
+100127,1/24/2025 16:28,București,15,"['Waffle cu fructe', 'Cheesecake']",2,49,12.99,32,Cash,4,FALSE
+100128,1/24/2025 17:54,București,1,"['Focaccia', 'Tiramisu']",2,37,7.99,,Cash,,FALSE
+100129,1/24/2025 18:07,Timișoara,18,"['Shaorma mare', 'Ayran']",2,36,12.99,20,Cash,4,TRUE
+100130,1/24/2025 19:22,București,7,"['Noodles cu pui', 'Ceai verde', 'California Roll']",3,83,12.99,40,Card,,FALSE
+100131,1/24/2025 20:34,Timișoara,4,"['Milkshake', 'Cola']",2,25,7.99,29,Cash,5,TRUE
+100132,1/24/2025 20:46,București,3,"['Pizza Quattro Formaggi', 'Pizza Diavola', 'Cola']",3,89,9.99,30,Card,,FALSE
+100133,1/24/2025 21:42,Brașov,4,"['Onion rings', 'Burger BBQ', 'Milkshake']",3,73,7.99,38,Cash,,FALSE
+100134,1/24/2025 21:55,Cluj-Napoca,12,"['Mici cu muștar (5 buc)', 'Șnițel cu piure', 'Ciorbă de burtă', 'Papanași']",4,114,0,32,Card,4,FALSE
+100135,1/24/2025 22:17,București,18,['Ayran'],1,7,7.99,43,Card,,FALSE
+100136,1/24/2025 22:55,Brașov,5,"['Onion rings', 'Burger Clasic']",2,48,7.99,29,Card,,FALSE
+100137,1/25/2025 11:52,București,4,['Cartofi prăjiți'],1,12,9.99,37,Cash,,FALSE
+100138,1/25/2025 12:11,București,11,"['Limonadă', 'Ciorbă de burtă']",2,34,9.99,44,Card,5,TRUE
+100139,1/25/2025 13:46,Cluj-Napoca,3,"['Cola', 'Pizza Capricciosa', 'Pizza Margherita']",3,32,12.99,41,Cash,,TRUE
+100140,1/25/2025 14:09,București,6,"['Cheeseburger', 'Burger Clasic']",2,71,9.99,34,Cash,5,TRUE
+100141,1/25/2025 19:42,Cluj-Napoca,4,"['Onion rings', 'Cheeseburger', 'Burger BBQ']",3,93,7.99,23,Card,5,FALSE
+100142,1/25/2025 20:30,Timișoara,4,"['Cartofi prăjiți', 'Onion rings', 'Burger BBQ']",3,68,9.99,22,Card,3,TRUE
+100143,1/25/2025 21:38,Cluj-Napoca,13,['Apă plată'],1,6,9.99,24,Card,4,TRUE
+100144,1/26/2025 11:09,București,18,['Ayran'],1,7,9.99,35,Cash,5,FALSE
+100145,1/26/2025 12:29,Brașov,15,['Cafea'],1,10,7.99,40,Card,5,FALSE
+100146,1/26/2025 14:13,București,4,"['Cola', 'Cartofi prăjiți']",2,20,12.99,25,Card,5,FALSE
+100147,1/26/2025 15:06,Brașov,13,['Apă plată'],1,6,12.99,23,Card,5,FALSE
+100148,1/26/2025 18:28,Cluj-Napoca,10,"['Mici cu muștar (5 buc)', 'Papanași']",2,54,9.99,32,Card,,TRUE
+100149,1/26/2025 19:03,București,13,"['Wrap cu pui', 'Bowl cu somon']",2,79,7.99,33,Card,5,FALSE
+100150,1/26/2025 19:06,București,14,['Salată Caesar'],1,34,12.99,38,Card,3,FALSE
+100151,1/26/2025 19:41,Brașov,17,"['Falafel wrap', 'Shaorma medie']",2,49,7.99,24,Card,5,FALSE
+100152,1/26/2025 20:16,Timișoara,17,"['Falafel wrap', 'Ayran']",2,32,7.99,26,Card,,FALSE
+100153,1/26/2025 20:41,Timișoara,9,"['California Roll', 'Sushi Mix 16 buc', 'Pad Thai', 'Ceai verde']",4,153,0,41,Card,5,FALSE
+100154,1/26/2025 21:30,București,3,"['Pizza Diavola', 'Pizza Capricciosa', 'Focaccia', 'Pizza Quattro Formaggi']",4,140,0,32,Card,5,FALSE
+100155,1/26/2025 21:41,București,11,"['Mici cu muștar (5 buc)', 'Șnițel cu piure', 'Ciorbă de burtă', 'Papanași']",4,114,0,34,Card,,TRUE
+100156,1/26/2025 21:51,Iași,11,"['Sarmale cu mămăligă', 'Șnițel cu piure']",2,74,9.99,36,Card,5,TRUE
+100157,1/27/2025 12:01,Timișoara,6,['Cola'],1,8,9.99,29,Card,,TRUE
+100158,1/27/2025 16:46,București,3,['Tiramisu'],1,19,9.99,41,Cash,4,FALSE
+100159,1/27/2025 17:37,București,9,"['Pad Thai', 'Supă Miso']",2,56,7.99,33,Card,,FALSE
+100160,1/27/2025 20:32,Brașov,2,"['Pizza Quattro Formaggi', 'Focaccia']",2,60,12.99,14,Cash,,TRUE
+100161,1/27/2025 20:50,București,13,"['Wrap cu pui', 'Bowl vegan']",2,70,12.99,48,Cash,4,FALSE
+100162,1/28/2025 12:08,București,10,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă', 'Papanași']",3,90,12.99,51,Cash,5,FALSE
+100163,1/28/2025 12:24,București,18,"['Cartofi prăjiți', 'Ayran']",2,19,9.99,42,Card,,TRUE
+100164,1/28/2025 16:10,București,4,"['Milkshake', 'Burger Clasic']",2,51,7.99,30,Card,4,FALSE
+100165,1/28/2025 16:41,Iași,17,"['Kebab la farfurie', 'Shaorma mare']",2,64,9.99,25,Card,5,TRUE
+100166,1/28/2025 17:38,Cluj-Napoca,17,"['Falafel wrap', 'Cartofi prăjiți']",2,37,7.99,16,Cash,5,FALSE
+100167,1/28/2025 18:59,București,7,"['Sushi Mix 16 buc', 'Pad Thai', 'California Roll']",3,144,0,44,Cash,4,FALSE
+100168,1/28/2025 20:01,Iași,15,['Clătite cu ciocolată'],1,21,12.99,37,Cash,4,TRUE
+100169,1/28/2025 20:07,Iași,8,"['Noodles cu pui', 'California Roll', 'Supă Miso']",3,89,7.99,39,Cash,,FALSE
+100170,1/28/2025 21:30,Timișoara,3,"['Tiramisu', 'Focaccia']",2,37,12.99,35,Card,,FALSE
+100171,1/29/2025 15:53,București,1,['Pizza Diavola'],1,39,12.99,33,Card,5,TRUE
+100172,1/29/2025 18:24,Cluj-Napoca,1,"['Pizza Capricciosa', 'Focaccia']",2,59,12.99,28,Card,5,TRUE
+100173,1/29/2025 19:25,Brașov,1,"['Pizza Margherita', 'Pizza Quattro Formaggi']",2,74,9.99,22,Cash,,FALSE
+100174,1/29/2025 19:31,Brașov,1,"['Tiramisu', 'Focaccia', 'Cola', 'Pizza Quattro Formaggi']",4,87,12.99,21,Card,4,FALSE
+100175,1/29/2025 21:21,Brașov,16,"['Înghețată', 'Cheesecake', 'Waffle cu fructe', 'Papanași']",4,88,9.99,29,Card,,FALSE
+100176,1/29/2025 21:52,București,6,['Milkshake'],1,17,9.99,28,Cash,4,FALSE
+100177,1/29/2025 22:02,Cluj-Napoca,15,"['Înghețată', 'Cafea']",2,25,7.99,21,Card,5,FALSE
+100178,1/29/2025 22:08,Cluj-Napoca,12,['Papanași'],1,24,7.99,34,Cash,,TRUE
+100179,1/29/2025 22:57,Iași,4,"['Milkshake', 'Burger BBQ', 'Cheeseburger', 'Cartofi prăjiți']",4,108,0,27,Cash,,FALSE
+100180,1/29/2025 23:03,București,7,"['Ceai verde', 'California Roll']",2,47,12.99,39,Card,3,FALSE
+100181,1/30/2025 18:19,București,17,['Cartofi prăjiți'],1,12,7.99,24,Card,,FALSE
+100182,1/30/2025 18:50,Brașov,2,"['Pizza Capricciosa', 'Pizza Diavola']",2,80,9.99,22,Card,4,FALSE
+100183,1/30/2025 19:42,Iași,16,"['Waffle cu fructe', 'Cheesecake']",2,49,7.99,23,Card,3,FALSE
+100184,1/30/2025 21:21,Cluj-Napoca,13,"['Bowl cu somon', 'Salată Caesar']",2,82,9.99,33,Card,4,FALSE
+100185,1/31/2025 12:24,Timișoara,15,['Clătite cu ciocolată'],1,21,9.99,31,Cash,,FALSE
+100186,1/31/2025 12:55,Timișoara,17,"['Cartofi prăjiți', 'Shaorma medie', 'Shaorma mare', 'Kebab la farfurie']",4,100,0,31,Card,,FALSE
+100187,1/31/2025 12:58,Cluj-Napoca,1,"['Pizza Margherita', 'Focaccia']",2,50,7.99,21,Card,,TRUE
+100188,1/31/2025 16:41,Brașov,17,"['Falafel wrap', 'Kebab la farfurie', 'Cartofi prăjiți', 'Shaorma mare']",4,101,0,13,Card,4,FALSE
+100189,1/31/2025 18:18,București,4,"['Milkshake', 'Cola', 'Cartofi prăjiți']",3,37,7.99,40,Cash,,FALSE
+100190,1/31/2025 19:12,Timișoara,18,['Cartofi prăjiți'],1,12,7.99,34,Cash,4,FALSE
+100191,1/31/2025 21:56,Iași,4,"['Cartofi prăjiți', 'Milkshake']",2,29,9.99,33,Cash,4,TRUE
+100192,2/1/2025 12:15,București,4,"['Cartofi prăjiți', 'Milkshake']",2,29,12.99,36,Card,5,FALSE
+100193,2/1/2025 12:15,Iași,12,"['Limonadă', 'Șnițel cu piure', 'Papanași']",3,74,7.99,35,Card,4,FALSE
+100194,2/1/2025 12:17,Brașov,4,['Cartofi prăjiți'],1,12,9.99,16,Card,5,FALSE
+100195,2/1/2025 12:22,Timișoara,2,"['Pizza Diavola', 'Tiramisu']",2,58,12.99,38,Card,,FALSE
+100196,2/1/2025 12:34,Brașov,2,"['Pizza Diavola', 'Pizza Quattro Formaggi']",2,81,9.99,27,Card,4,FALSE
+100197,2/1/2025 13:30,București,12,"['Sarmale cu mămăligă', 'Șnițel cu piure']",2,74,7.99,50,Card,5,TRUE
+100198,2/1/2025 13:46,Timișoara,18,"['Ayran', 'Shaorma medie', 'Kebab la farfurie']",3,66,7.99,25,Card,,TRUE
+100199,2/1/2025 18:20,Iași,8,"['Pad Thai', 'California Roll']",2,79,9.99,12,Card,4,FALSE
+100200,2/1/2025 21:02,București,11,"['Mici cu muștar (5 buc)', 'Papanași']",2,54,9.99,44,Card,4,FALSE
+100201,2/2/2025 12:34,Cluj-Napoca,14,"['Bowl vegan', 'Wrap cu pui']",2,70,9.99,26,Cash,,FALSE
+100202,2/2/2025 13:26,Iași,18,"['Ayran', 'Falafel wrap']",2,32,9.99,34,Cash,5,FALSE
+100203,2/2/2025 13:32,Cluj-Napoca,2,"['Cola', 'Focaccia', 'Pizza Capricciosa']",3,67,7.99,27,Card,5,TRUE
+100204,2/2/2025 13:54,Iași,17,"['Ayran', 'Shaorma medie', 'Kebab la farfurie']",3,66,7.99,22,Cash,5,FALSE
+100205,2/2/2025 14:49,Timișoara,4,"['Burger Clasic', 'Milkshake', 'Onion rings']",3,65,7.99,23,Cash,5,FALSE
+100206,2/2/2025 17:33,București,3,['Focaccia'],1,18,7.99,23,Card,5,FALSE
+100207,2/2/2025 19:31,Cluj-Napoca,17,"['Cartofi prăjiți', 'Kebab la farfurie', 'Falafel wrap', 'Shaorma medie']",4,96,9.99,23,Cash,,FALSE
+100208,2/2/2025 20:02,București,11,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă', 'Șnițel cu piure']",3,104,0,44,Card,3,TRUE
+100209,2/2/2025 21:43,Iași,2,"['Focaccia', 'Tiramisu', 'Pizza Margherita']",3,69,7.99,28,Cash,,FALSE
+100210,2/2/2025 21:53,București,14,"['Salată Caesar', 'Apă plată']",2,40,7.99,40,Cash,4,FALSE
+100211,2/2/2025 22:07,Iași,6,"['Cola', 'Cheeseburger']",2,45,7.99,13,Card,5,TRUE
+100212,2/2/2025 22:37,București,18,"['Falafel wrap', 'Shaorma medie']",2,49,9.99,36,Cash,4,FALSE
+100213,2/3/2025 13:20,Timișoara,4,"['Milkshake', 'Onion rings', 'Burger BBQ']",3,73,12.99,34,Card,,FALSE
+100214,2/3/2025 13:22,București,5,"['Cartofi prăjiți', 'Cheeseburger']",2,49,7.99,34,Cash,,FALSE
+100215,2/3/2025 15:46,Cluj-Napoca,6,"['Cartofi prăjiți', 'Cola']",2,20,9.99,22,Card,5,FALSE
+100216,2/3/2025 19:12,București,18,"['Cartofi prăjiți', 'Ayran', 'Shaorma mare', 'Shaorma medie']",4,72,7.99,48,Cash,,FALSE
+100217,2/3/2025 19:17,Cluj-Napoca,2,"['Pizza Capricciosa', 'Pizza Quattro Formaggi', 'Tiramisu']",3,102,0,23,Cash,,TRUE
+100218,2/3/2025 23:06,București,1,"['Cola', 'Pizza Capricciosa']",2,49,12.99,45,Card,4,TRUE
+100219,2/4/2025 14:48,București,2,"['Pizza Diavola', 'Pizza Capricciosa', 'Pizza Margherita']",3,112,0,20,Card,,FALSE
+100220,2/4/2025 17:20,Brașov,11,"['Papanași', 'Ciorbă de burtă', 'Șnițel cu piure', 'Limonadă']",4,96,7.99,20,Card,5,TRUE
+100221,2/4/2025 18:50,București,11,"['Ciorbă de burtă', 'Sarmale cu mămăligă', 'Șnițel cu piure']",3,96,9.99,31,Card,4,FALSE
+100222,2/4/2025 19:32,Timișoara,13,"['Salată Caesar', 'Wrap cu pui']",2,65,7.99,30,Cash,5,FALSE
+100223,2/4/2025 19:57,București,12,"['Mici cu muștar (5 buc)', 'Limonadă', 'Șnițel cu piure']",3,80,7.99,43,Card,4,TRUE
+100224,2/5/2025 13:21,București,17,['Ayran'],1,7,9.99,39,Cash,,FALSE
+100225,2/5/2025 16:40,București,1,"['Pizza Margherita', 'Tiramisu', 'Pizza Quattro Formaggi']",3,93,12.99,27,Card,5,FALSE
+100226,2/5/2025 18:18,Cluj-Napoca,16,"['Waffle cu fructe', 'Cheesecake', 'Papanași']",3,73,12.99,26,Card,4,TRUE
+100227,2/5/2025 18:21,Brașov,5,"['Burger Clasic', 'Burger BBQ']",2,76,7.99,20,Card,5,TRUE
+100228,2/5/2025 18:23,Iași,7,"['Noodles cu pui', 'Sushi Mix 16 buc', 'Supă Miso', 'Ceai verde']",4,125,0,20,Cash,,FALSE
+100229,2/5/2025 18:50,Timișoara,7,['Sushi Mix 16 buc'],1,65,7.99,14,Card,,TRUE
+100230,2/5/2025 19:53,București,4,['Burger Clasic'],1,34,7.99,33,Card,,TRUE
+100231,2/5/2025 20:23,București,3,['Cola'],1,8,9.99,44,Card,,FALSE
+100232,2/5/2025 20:28,Timișoara,17,['Falafel wrap'],1,25,7.99,17,Cash,5,FALSE
+100233,2/5/2025 20:32,București,14,"['Bowl vegan', 'Bowl cu somon', 'Apă plată']",3,93,7.99,47,Card,,FALSE
+100234,2/5/2025 23:23,București,6,"['Burger BBQ', 'Onion rings']",2,56,9.99,37,Card,,TRUE
+100235,2/6/2025 14:05,Cluj-Napoca,8,"['Supă Miso', 'Ceai verde', 'Noodles cu pui']",3,60,12.99,25,Cash,5,FALSE
+100236,2/6/2025 21:23,Timișoara,15,"['Clătite cu ciocolată', 'Cafea', 'Cheesecake']",3,54,7.99,29,Cash,5,FALSE
+100237,2/6/2025 23:22,Iași,8,['Noodles cu pui'],1,36,7.99,20,Cash,,FALSE
+100238,2/7/2025 13:06,București,1,"['Pizza Quattro Formaggi', 'Pizza Capricciosa', 'Tiramisu']",3,102,0,30,Cash,4,FALSE
+100239,2/7/2025 14:31,Iași,15,"['Înghețată', 'Clătite cu ciocolată', 'Cheesecake']",3,59,9.99,37,Card,,TRUE
+100240,2/7/2025 14:46,București,17,"['Kebab la farfurie', 'Shaorma medie']",2,59,7.99,35,Card,4,TRUE
+100241,2/7/2025 17:21,București,4,"['Cartofi prăjiți', 'Onion rings', 'Milkshake']",3,43,9.99,27,Cash,,FALSE
+100242,2/7/2025 19:10,Timișoara,1,"['Pizza Diavola', 'Pizza Margherita', 'Pizza Capricciosa']",3,112,0,22,Card,,TRUE
+100243,2/7/2025 19:24,Cluj-Napoca,3,"['Pizza Diavola', 'Pizza Margherita']",2,71,9.99,30,Card,5,FALSE
+100244,2/7/2025 20:26,Cluj-Napoca,3,"['Pizza Margherita', 'Pizza Diavola', 'Tiramisu']",3,90,7.99,24,Cash,4,TRUE
+100245,2/7/2025 20:53,Cluj-Napoca,2,['Pizza Margherita'],1,32,9.99,39,Cash,4,FALSE
+100246,2/8/2025 14:41,Timișoara,10,"['Șnițel cu piure', 'Limonadă']",2,50,7.99,36,Card,4,FALSE
+100247,2/8/2025 16:26,Timișoara,12,"['Limonadă', 'Papanași', 'Sarmale cu mămăligă']",3,72,9.99,24,Card,4,TRUE
+100248,2/8/2025 17:10,București,2,"['Cola', 'Pizza Margherita', 'Tiramisu']",3,59,7.99,32,Cash,4,FALSE
+100249,2/8/2025 19:06,Cluj-Napoca,11,"['Limonadă', 'Șnițel cu piure', 'Mici cu muștar (5 buc)']",3,80,7.99,38,Card,4,FALSE
+100250,2/8/2025 19:56,Brașov,1,"['Pizza Margherita', 'Pizza Quattro Formaggi', 'Focaccia']",3,92,9.99,30,Cash,,FALSE
+100251,2/8/2025 20:55,București,5,['Milkshake'],1,17,9.99,,Card,4,FALSE
+100252,2/9/2025 13:29,Timișoara,6,"['Onion rings', 'Cartofi prăjiți']",2,26,9.99,34,Card,4,FALSE
+100253,2/9/2025 13:31,București,3,"['Pizza Quattro Formaggi', 'Focaccia', 'Tiramisu']",3,79,9.99,36,Card,,FALSE
+100254,2/9/2025 19:07,Timișoara,14,"['Wrap cu pui', 'Bowl cu somon']",2,79,12.99,28,Card,5,FALSE
+100255,2/10/2025 13:31,București,12,"['Limonadă', 'Mici cu muștar (5 buc)']",2,42,7.99,44,Card,4,FALSE
+100256,2/10/2025 21:05,București,16,['Papanași'],1,24,7.99,53,Card,4,FALSE
+100257,2/10/2025 22:26,București,17,['Ayran'],1,7,12.99,37,Card,,FALSE
+100258,2/11/2025 11:46,Timișoara,10,"['Limonadă', 'Ciorbă de burtă']",2,34,7.99,22,Card,4,TRUE
+100259,2/11/2025 16:00,București,5,"['Onion rings', 'Burger BBQ', 'Cartofi prăjiți']",3,68,7.99,37,Cash,,FALSE
+100260,2/11/2025 16:21,Cluj-Napoca,16,"['Cafea', 'Clătite cu ciocolată']",2,31,7.99,31,Card,3,FALSE
+100261,2/11/2025 16:46,Timișoara,18,"['Shaorma medie', 'Shaorma mare', 'Ayran']",3,60,7.99,23,Cash,,FALSE
+100262,2/11/2025 20:04,Brașov,2,"['Pizza Quattro Formaggi', 'Pizza Margherita']",2,74,9.99,35,Card,,FALSE
+100263,2/11/2025 20:46,Cluj-Napoca,7,['Noodles cu pui'],1,36,9.99,35,Card,5,TRUE
+100264,2/11/2025 23:35,Iași,5,"['Cartofi prăjiți', 'Cheeseburger']",2,49,7.99,13,Card,4,FALSE
+100265,2/12/2025 10:48,Timișoara,11,"['Ciorbă de burtă', 'Sarmale cu mămăligă', 'Șnițel cu piure']",3,96,7.99,17,Card,4,FALSE
+100266,2/12/2025 12:21,Timișoara,10,"['Șnițel cu piure', 'Papanași']",2,62,7.99,37,Card,5,FALSE
+100267,2/12/2025 12:44,Iași,3,"['Pizza Margherita', 'Cola', 'Pizza Capricciosa']",3,81,7.99,33,Card,3,FALSE
+100268,2/12/2025 13:53,București,14,"['Salată Caesar', 'Wrap cu pui', 'Apă plată', 'Smoothie']",4,89,7.99,45,Card,,FALSE
+100269,2/12/2025 15:25,Iași,4,"['Cartofi prăjiți', 'Cola', 'Onion rings']",3,34,12.99,27,Card,,FALSE
+100270,2/12/2025 20:42,Timișoara,6,"['Burger Clasic', 'Onion rings', 'Cola']",3,56,9.99,34,Card,3,FALSE
+100271,2/12/2025 20:58,București,10,"['Șnițel cu piure', 'Mici cu muștar (5 buc)', 'Ciorbă de burtă']",3,90,7.99,49,Cash,3,FALSE
+100272,2/12/2025 21:27,Timișoara,3,"['Tiramisu', 'Pizza Margherita']",2,51,7.99,38,Card,4,FALSE
+100273,2/12/2025 21:35,Cluj-Napoca,17,"['Cartofi prăjiți', 'Shaorma medie', 'Falafel wrap']",3,61,7.99,15,Card,5,TRUE
+100274,2/12/2025 23:01,București,18,"['Shaorma medie', 'Cartofi prăjiți']",2,36,7.99,27,Card,,FALSE
+100275,2/13/2025 13:44,București,12,"['Sarmale cu mămăligă', 'Limonadă']",2,48,12.99,53,Card,4,FALSE
+100276,2/13/2025 19:16,București,15,"['Înghețată', 'Papanași', 'Clătite cu ciocolată', 'Cheesecake']",4,83,9.99,39,Cash,4,FALSE
+100277,2/13/2025 21:45,București,18,"['Ayran', 'Kebab la farfurie', 'Falafel wrap']",3,67,7.99,59,Card,,TRUE
+100278,2/13/2025 22:53,București,3,"['Pizza Capricciosa', 'Pizza Margherita', 'Pizza Quattro Formaggi', 'Focaccia']",4,133,0,28,Cash,5,FALSE
+100279,2/14/2025 13:24,București,1,['Pizza Margherita'],1,32,12.99,36,Card,3,FALSE
+100280,2/14/2025 14:31,București,3,['Tiramisu'],1,19,7.99,24,Card,5,FALSE
+100281,2/14/2025 17:10,Timișoara,13,"['Wrap cu pui', 'Smoothie']",2,49,12.99,28,Cash,5,FALSE
+100282,2/14/2025 19:05,Cluj-Napoca,9,"['California Roll', 'Supă Miso']",2,53,7.99,38,Card,3,FALSE
+100283,2/14/2025 20:36,Cluj-Napoca,16,['Cafea'],1,10,9.99,27,Cash,,FALSE
+100284,2/14/2025 20:48,Cluj-Napoca,3,"['Cola', 'Pizza Diavola', 'Pizza Capricciosa', 'Pizza Quattro Formaggi']",4,130,0,37,Cash,5,FALSE
+100285,2/14/2025 21:28,Brașov,3,"['Pizza Margherita', 'Pizza Capricciosa']",2,73,9.99,27,Cash,,FALSE
+100286,2/15/2025 13:16,București,2,['Pizza Diavola'],1,39,7.99,49,Card,3,FALSE
+100287,2/15/2025 14:12,Iași,13,"['Smoothie', 'Wrap cu pui']",2,49,7.99,33,Card,4,FALSE
+100288,2/15/2025 16:58,Brașov,11,['Mici cu muștar (5 buc)'],1,30,7.99,21,Card,5,TRUE
+100289,2/15/2025 19:19,Cluj-Napoca,17,"['Cartofi prăjiți', 'Falafel wrap']",2,37,9.99,36,Cash,,FALSE
+100290,2/15/2025 22:02,Cluj-Napoca,18,"['Shaorma mare', 'Shaorma medie', 'Kebab la farfurie']",3,88,7.99,13,Cash,4,FALSE
+100291,2/16/2025 13:37,București,13,"['Smoothie', 'Salată Caesar', 'Wrap cu pui']",3,83,9.99,25,Cash,,FALSE
+100292,2/16/2025 15:58,București,15,"['Papanași', 'Waffle cu fructe', 'Cheesecake']",3,73,7.99,25,Card,5,FALSE
+100293,2/16/2025 17:07,Iași,4,['Burger BBQ'],1,42,7.99,16,Card,4,FALSE
+100294,2/16/2025 19:02,Cluj-Napoca,18,"['Kebab la farfurie', 'Shaorma mare', 'Ayran']",3,71,9.99,13,Card,5,FALSE
+100295,2/17/2025 18:58,Cluj-Napoca,11,"['Mici cu muștar (5 buc)', 'Ciorbă de burtă']",2,52,9.99,27,Card,4,FALSE
+100296,2/17/2025 21:19,Timișoara,16,"['Clătite cu ciocolată', 'Înghețată', 'Waffle cu fructe']",3,62,7.99,41,Cash,,TRUE
+100297,2/18/2025 20:17,Iași,9,['Ceai verde'],1,9,7.99,,Cash,4,TRUE
+100298,2/18/2025 21:52,Cluj-Napoca,16,"['Papanași', 'Waffle cu fructe', 'Cheesecake']",3,73,9.99,31,Cash,3,FALSE
+100299,2/18/2025 22:28,Timișoara,8,"['Ceai verde', 'Pad Thai', 'California Roll', 'Noodles cu pui']",4,124,0,28,Card,4,FALSE
+100300,2/18/2025 22:32,București,12,"['Mici cu muștar (5 buc)', 'Ciorbă de burtă']",2,52,7.99,33,Card,4,TRUE
+100301,2/19/2025 12:41,București,1,"['Cola', 'Tiramisu']",2,27,9.99,41,Cash,,FALSE
+100302,2/19/2025 13:22,Cluj-Napoca,4,"['Cola', 'Onion rings', 'Milkshake', 'Burger BBQ']",4,81,7.99,32,Card,5,FALSE
+100303,2/19/2025 19:51,Cluj-Napoca,6,"['Cheeseburger', 'Burger Clasic', 'Cola', 'Cartofi prăjiți']",4,91,7.99,22,Cash,,FALSE
+100304,2/19/2025 22:04,Cluj-Napoca,2,"['Pizza Margherita', 'Focaccia']",2,50,9.99,23,Card,,TRUE
+100305,2/20/2025 11:29,București,1,"['Pizza Margherita', 'Focaccia']",2,50,7.99,18,Card,,FALSE
+100306,2/20/2025 11:30,Cluj-Napoca,4,['Burger Clasic'],1,34,7.99,18,Card,5,TRUE
+100307,2/20/2025 12:20,Brașov,14,"['Apă plată', 'Bowl vegan', 'Smoothie']",3,63,7.99,31,Card,5,FALSE
+100308,2/20/2025 13:53,Iași,2,"['Pizza Quattro Formaggi', 'Pizza Margherita']",2,74,12.99,40,Card,4,FALSE
+100309,2/20/2025 14:35,Timișoara,6,['Cartofi prăjiți'],1,12,9.99,42,Card,4,FALSE
+100310,2/20/2025 15:14,Timișoara,8,"['California Roll', 'Pad Thai']",2,79,12.99,17,Card,,TRUE
+100311,2/20/2025 16:55,Iași,16,"['Waffle cu fructe', 'Cafea', 'Înghețată']",3,51,7.99,14,Cash,3,TRUE
+100312,2/20/2025 18:54,Iași,7,['Ceai verde'],1,9,9.99,26,Cash,5,FALSE
+100313,2/20/2025 19:04,Cluj-Napoca,2,['Tiramisu'],1,19,9.99,27,Card,,FALSE
+100314,2/20/2025 20:16,București,5,['Onion rings'],1,14,9.99,39,Card,5,TRUE
+100315,2/21/2025 14:33,Iași,3,"['Focaccia', 'Pizza Margherita', 'Cola']",3,58,12.99,29,Card,4,FALSE
+100316,2/21/2025 14:51,Cluj-Napoca,18,"['Ayran', 'Kebab la farfurie', 'Shaorma medie']",3,66,7.99,29,Card,,FALSE
+100317,2/21/2025 15:04,Iași,18,"['Cartofi prăjiți', 'Falafel wrap', 'Kebab la farfurie']",3,72,7.99,12,Cash,4,FALSE
+100318,2/21/2025 21:47,Cluj-Napoca,17,"['Cartofi prăjiți', 'Kebab la farfurie', 'Shaorma medie']",3,71,7.99,35,Card,4,FALSE
+100319,2/22/2025 12:15,București,9,"['Noodles cu pui', 'California Roll', 'Supă Miso']",3,89,12.99,44,Card,4,TRUE
+100320,2/22/2025 12:16,Iași,16,"['Înghețată', 'Papanași']",2,39,7.99,26,Card,4,TRUE
+100321,2/22/2025 13:21,București,2,"['Focaccia', 'Pizza Diavola']",2,57,7.99,57,Card,,FALSE
+100322,2/22/2025 20:06,Cluj-Napoca,8,"['Sushi Mix 16 buc', 'Ceai verde']",2,74,12.99,23,Cash,4,FALSE
+100323,2/22/2025 21:42,Iași,3,"['Cola', 'Tiramisu']",2,27,7.99,28,Cash,4,FALSE
+100324,2/22/2025 22:16,Cluj-Napoca,14,"['Bowl cu somon', 'Apă plată']",2,54,12.99,14,Card,,FALSE
+100325,2/22/2025 22:37,Brașov,1,['Pizza Capricciosa'],1,41,7.99,25,Card,,FALSE
+100326,2/23/2025 10:58,București,18,['Falafel wrap'],1,25,7.99,27,Card,4,FALSE
+100327,2/23/2025 11:27,Timișoara,1,"['Pizza Capricciosa', 'Pizza Diavola', 'Pizza Margherita']",3,112,0,17,Card,5,FALSE
+100328,2/23/2025 13:56,Iași,3,"['Pizza Margherita', 'Pizza Capricciosa']",2,73,12.99,30,Cash,,FALSE
+100329,2/23/2025 17:35,Brașov,6,"['Cartofi prăjiți', 'Milkshake']",2,29,7.99,25,Cash,4,FALSE
+100330,2/23/2025 18:34,București,3,"['Pizza Diavola', 'Focaccia']",2,57,7.99,38,Card,3,FALSE
+100331,2/23/2025 18:43,București,4,"['Cartofi prăjiți', 'Cheeseburger']",2,49,7.99,43,Card,,FALSE
+100332,2/23/2025 20:10,București,12,"['Sarmale cu mămăligă', 'Șnițel cu piure', 'Mici cu muștar (5 buc)']",3,104,0,47,Card,3,FALSE
+100333,2/23/2025 22:52,București,3,"['Cola', 'Pizza Margherita']",2,40,9.99,28,Card,,FALSE
+100334,2/24/2025 12:05,Timișoara,13,"['Bowl vegan', 'Smoothie', 'Salată Caesar']",3,91,12.99,40,Card,4,FALSE
+100335,2/24/2025 12:28,Iași,17,"['Cartofi prăjiți', 'Falafel wrap', 'Ayran']",3,44,9.99,40,Card,4,FALSE
+100336,2/24/2025 14:38,Brașov,11,['Limonadă'],1,12,12.99,26,Card,,TRUE
+100337,2/24/2025 14:52,Cluj-Napoca,1,['Focaccia'],1,18,9.99,21,Card,5,FALSE
+100338,2/24/2025 16:03,Brașov,4,"['Milkshake', 'Burger Clasic', 'Cheeseburger']",3,88,9.99,19,Card,4,FALSE
+100339,2/24/2025 18:03,Cluj-Napoca,13,"['Apă plată', 'Smoothie', 'Wrap cu pui']",3,55,7.99,27,Card,,FALSE
+100340,2/24/2025 18:36,București,6,"['Cheeseburger', 'Onion rings', 'Burger Clasic']",3,85,7.99,26,Card,,FALSE
+100341,2/24/2025 19:03,București,18,['Kebab la farfurie'],1,35,9.99,34,Card,4,TRUE
+100342,2/24/2025 19:27,Cluj-Napoca,18,['Ayran'],1,7,12.99,35,Cash,3,FALSE
+100343,2/24/2025 20:09,Timișoara,1,"['Tiramisu', 'Pizza Capricciosa']",2,60,9.99,39,Card,,FALSE
+100344,2/24/2025 20:15,Iași,1,"['Pizza Diavola', 'Focaccia']",2,57,9.99,36,Cash,4,FALSE
+100345,2/24/2025 20:38,București,1,"['Pizza Diavola', 'Pizza Capricciosa', 'Pizza Quattro Formaggi']",3,122,0,49,Cash,4,FALSE
+100346,2/24/2025 22:24,București,18,['Falafel wrap'],1,25,12.99,29,Cash,5,FALSE
+100347,2/25/2025 13:07,București,13,"['Bowl vegan', 'Wrap cu pui', 'Smoothie']",3,88,9.99,44,Card,4,FALSE
+100348,2/25/2025 18:10,Cluj-Napoca,2,"['Tiramisu', 'Pizza Diavola', 'Pizza Quattro Formaggi', 'Focaccia']",4,118,0,12,Card,5,FALSE
+100349,2/25/2025 19:37,Brașov,17,['Falafel wrap'],1,25,7.99,22,Cash,4,FALSE
+100350,2/25/2025 19:44,Cluj-Napoca,11,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă']",2,66,9.99,43,Card,5,FALSE
+100351,2/25/2025 20:39,București,1,"['Cola', 'Pizza Diavola', 'Pizza Margherita']",3,79,9.99,31,Card,4,FALSE
+100352,2/25/2025 22:52,Cluj-Napoca,17,"['Shaorma mare', 'Cartofi prăjiți']",2,41,12.99,25,Card,4,FALSE
+100353,2/25/2025 23:10,Cluj-Napoca,6,['Cartofi prăjiți'],1,12,12.99,25,Card,5,TRUE
+100354,2/26/2025 11:08,Timișoara,18,['Falafel wrap'],1,25,7.99,30,Card,4,FALSE
+100355,2/26/2025 12:27,Brașov,18,"['Shaorma mare', 'Falafel wrap', 'Ayran']",3,61,12.99,22,Cash,4,TRUE
+100356,2/26/2025 13:35,Iași,11,"['Sarmale cu mămăligă', 'Ciorbă de burtă', 'Șnițel cu piure', 'Mici cu muștar (5 buc)']",4,126,0,23,Card,4,TRUE
+100357,2/26/2025 13:47,București,13,['Wrap cu pui'],1,31,7.99,27,Card,4,FALSE
+100358,2/26/2025 17:37,București,6,"['Cola', 'Cheeseburger', 'Onion rings']",3,59,7.99,29,Cash,,FALSE
+100359,2/26/2025 17:57,București,4,['Burger BBQ'],1,42,9.99,42,Cash,,TRUE
+100360,2/26/2025 20:15,București,10,"['Șnițel cu piure', 'Papanași', 'Sarmale cu mămăligă']",3,98,9.99,,Card,3,FALSE
+100361,2/26/2025 21:32,Iași,12,"['Papanași', 'Sarmale cu mămăligă']",2,60,7.99,36,Cash,4,FALSE
+100362,2/27/2025 13:50,Iași,2,"['Tiramisu', 'Pizza Margherita']",2,51,7.99,27,Card,5,FALSE
+100363,2/27/2025 15:31,Iași,5,['Milkshake'],1,17,12.99,25,Card,4,FALSE
+100364,2/27/2025 18:15,Timișoara,7,"['California Roll', 'Ceai verde']",2,47,7.99,23,Card,5,FALSE
+100365,2/27/2025 19:39,București,9,"['Supă Miso', 'California Roll']",2,53,12.99,38,Card,,TRUE
+100366,2/27/2025 20:44,Iași,11,"['Papanași', 'Mici cu muștar (5 buc)', 'Ciorbă de burtă']",3,76,7.99,31,Card,,FALSE
+100367,2/27/2025 21:23,București,8,"['California Roll', 'Supă Miso']",2,53,7.99,44,Card,5,TRUE
+100368,2/27/2025 22:16,Iași,7,"['Supă Miso', 'Ceai verde']",2,24,12.99,31,Card,,TRUE
+100369,2/28/2025 10:43,Cluj-Napoca,10,['Ciorbă de burtă'],1,22,9.99,36,Card,5,FALSE
+100370,2/28/2025 12:21,Iași,4,"['Cheeseburger', 'Onion rings', 'Cartofi prăjiți']",3,63,12.99,37,Card,4,FALSE
+100371,2/28/2025 13:10,Timișoara,14,"['Apă plată', 'Bowl cu somon']",2,54,12.99,32,Card,4,FALSE
+100372,2/28/2025 13:13,Iași,3,"['Pizza Quattro Formaggi', 'Focaccia']",2,60,9.99,26,Card,4,TRUE
+100373,2/28/2025 13:34,Timișoara,18,"['Cartofi prăjiți', 'Falafel wrap']",2,37,9.99,37,Card,4,FALSE
+100374,2/28/2025 14:07,Timișoara,4,"['Burger Clasic', 'Onion rings']",2,48,7.99,20,Card,4,FALSE
+100375,2/28/2025 17:09,Brașov,14,"['Salată Caesar', 'Smoothie', 'Bowl vegan']",3,91,9.99,17,Card,,FALSE
+100376,2/28/2025 17:59,Brașov,6,"['Burger Clasic', 'Cola']",2,42,12.99,16,Card,,FALSE
+100377,2/28/2025 19:36,Cluj-Napoca,2,"['Tiramisu', 'Pizza Capricciosa', 'Pizza Diavola']",3,99,7.99,31,Card,5,FALSE
+100378,2/28/2025 19:42,București,17,['Cartofi prăjiți'],1,12,7.99,30,Card,5,FALSE
+100379,2/28/2025 20:15,București,6,"['Milkshake', 'Cola']",2,25,9.99,45,Card,,FALSE
+100380,2/28/2025 21:28,Cluj-Napoca,7,['Ceai verde'],1,9,7.99,27,Card,,TRUE
+100381,2/28/2025 21:30,București,17,"['Shaorma mare', 'Kebab la farfurie']",2,64,7.99,42,Card,4,FALSE
+100382,2/28/2025 22:30,Cluj-Napoca,3,['Tiramisu'],1,19,9.99,19,Card,4,TRUE
+100383,2/28/2025 22:31,Brașov,17,"['Falafel wrap', 'Shaorma mare']",2,54,7.99,12,Card,3,FALSE
+100384,2/28/2025 22:37,București,12,"['Sarmale cu mămăligă', 'Papanași']",2,60,9.99,38,Card,,FALSE
+100385,3/1/2025 12:15,Cluj-Napoca,11,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă', 'Limonadă', 'Ciorbă de burtă']",4,100,0,32,Cash,4,FALSE
+100386,3/1/2025 19:40,Timișoara,4,"['Cartofi prăjiți', 'Burger BBQ']",2,54,7.99,42,Card,4,FALSE
+100387,3/1/2025 20:21,București,2,"['Pizza Diavola', 'Cola']",2,47,7.99,33,Card,,FALSE
+100388,3/1/2025 21:24,Timișoara,2,"['Cola', 'Pizza Margherita', 'Pizza Capricciosa', 'Pizza Quattro Formaggi']",4,123,0,25,Card,5,FALSE
+100389,3/1/2025 21:59,Brașov,10,"['Ciorbă de burtă', 'Limonadă', 'Șnițel cu piure', 'Mici cu muștar (5 buc)']",4,102,0,39,Card,3,FALSE
+100390,3/1/2025 22:45,București,1,['Pizza Diavola'],1,39,9.99,34,Card,,FALSE
+100391,3/2/2025 10:49,Iași,7,"['Sushi Mix 16 buc', 'California Roll', 'Ceai verde']",3,112,0,21,Card,,FALSE
+100392,3/2/2025 12:19,Brașov,2,"['Pizza Quattro Formaggi', 'Tiramisu']",2,61,7.99,,Cash,,FALSE
+100393,3/2/2025 18:45,București,1,"['Pizza Quattro Formaggi', 'Focaccia']",2,60,12.99,28,Cash,4,TRUE
+100394,3/2/2025 19:02,Iași,4,['Burger BBQ'],1,42,12.99,22,Card,5,FALSE
+100395,3/2/2025 19:12,Cluj-Napoca,5,"['Cola', 'Cartofi prăjiți', 'Burger Clasic']",3,54,9.99,27,Card,,FALSE
+100396,3/2/2025 19:42,București,15,"['Înghețată', 'Waffle cu fructe', 'Cafea']",3,51,7.99,41,Card,,TRUE
+100397,3/2/2025 20:24,București,3,"['Focaccia', 'Cola']",2,26,12.99,34,Card,4,FALSE
+100398,3/2/2025 20:47,București,15,"['Cheesecake', 'Papanași']",2,47,9.99,46,Card,5,FALSE
+100399,3/2/2025 20:56,Cluj-Napoca,3,"['Pizza Capricciosa', 'Pizza Quattro Formaggi']",2,83,9.99,32,Cash,5,FALSE
+100400,3/2/2025 21:24,Iași,12,['Limonadă'],1,12,9.99,26,Card,5,FALSE
+100401,3/2/2025 22:19,București,4,"['Cheeseburger', 'Burger BBQ']",2,79,7.99,39,Card,3,TRUE
+100402,3/3/2025 14:20,Cluj-Napoca,4,"['Milkshake', 'Cheeseburger']",2,54,12.99,24,Card,,TRUE
+100403,3/3/2025 20:24,Timișoara,10,"['Ciorbă de burtă', 'Sarmale cu mămăligă', 'Șnițel cu piure']",3,96,12.99,38,Card,,TRUE
+100404,3/3/2025 20:42,Timișoara,5,"['Cheeseburger', 'Burger BBQ']",2,79,7.99,29,Card,4,TRUE
+100405,3/4/2025 11:58,Timișoara,4,"['Cola', 'Burger BBQ']",2,50,7.99,12,Card,5,TRUE
+100406,3/4/2025 12:09,Brașov,9,"['Noodles cu pui', 'Ceai verde', 'Sushi Mix 16 buc', 'Supă Miso']",4,125,0,38,Card,5,FALSE
+100407,3/4/2025 12:20,București,6,"['Cartofi prăjiți', 'Burger BBQ', 'Cheeseburger', 'Onion rings']",4,105,0,45,Card,,FALSE
+100408,3/4/2025 13:00,Brașov,8,"['California Roll', 'Sushi Mix 16 buc']",2,103,0,42,Card,3,TRUE
+100409,3/4/2025 17:02,Timișoara,7,"['Noodles cu pui', 'Sushi Mix 16 buc', 'Supă Miso', 'California Roll']",4,154,0,23,Card,4,FALSE
+100410,3/4/2025 20:02,Cluj-Napoca,12,"['Papanași', 'Limonadă', 'Ciorbă de burtă', 'Șnițel cu piure']",4,96,7.99,30,Card,4,FALSE
+100411,3/5/2025 10:44,Cluj-Napoca,5,"['Cheeseburger', 'Milkshake']",2,54,7.99,24,Card,4,FALSE
+100412,3/5/2025 12:05,București,1,"['Pizza Diavola', 'Focaccia']",2,57,9.99,41,Card,4,FALSE
+100413,3/5/2025 14:04,București,18,['Ayran'],1,7,12.99,37,Card,4,FALSE
+100414,3/5/2025 18:37,Iași,7,"['California Roll', 'Supă Miso', 'Sushi Mix 16 buc']",3,118,0,32,Cash,,FALSE
+100415,3/5/2025 20:53,Timișoara,8,"['Supă Miso', 'Sushi Mix 16 buc', 'Ceai verde', 'Pad Thai']",4,130,0,40,Card,4,TRUE
+100416,3/5/2025 22:44,București,7,"['Sushi Mix 16 buc', 'California Roll']",2,103,0,31,Card,4,FALSE
+100417,3/6/2025 14:01,București,13,"['Smoothie', 'Apă plată', 'Salată Caesar']",3,58,7.99,41,Cash,,FALSE
+100418,3/6/2025 14:31,București,13,"['Apă plată', 'Bowl vegan']",2,45,7.99,37,Card,,FALSE
+100419,3/6/2025 19:39,Cluj-Napoca,14,"['Wrap cu pui', 'Bowl cu somon', 'Bowl vegan']",3,118,0,31,Cash,5,TRUE
+100420,3/7/2025 14:40,Brașov,13,['Apă plată'],1,6,7.99,25,Card,5,FALSE
+100421,3/7/2025 14:40,Iași,13,"['Salată Caesar', 'Bowl vegan']",2,73,9.99,37,Card,4,TRUE
+100422,3/7/2025 19:17,Iași,11,"['Sarmale cu mămăligă', 'Mici cu muștar (5 buc)', 'Papanași', 'Limonadă']",4,102,0,38,Card,,FALSE
+100423,3/8/2025 11:23,București,13,['Apă plată'],1,6,7.99,45,Card,3,FALSE
+100424,3/8/2025 12:50,București,7,['Supă Miso'],1,15,9.99,30,Card,4,TRUE
+100425,3/8/2025 13:24,Cluj-Napoca,2,"['Cola', 'Pizza Margherita']",2,40,7.99,31,Cash,5,FALSE
+100426,3/8/2025 13:53,Brașov,16,"['Cheesecake', 'Cafea']",2,33,7.99,22,Card,5,FALSE
+100427,3/8/2025 17:39,București,8,"['Supă Miso', 'California Roll']",2,53,9.99,27,Card,5,FALSE
+100428,3/9/2025 12:30,Cluj-Napoca,6,"['Burger BBQ', 'Cartofi prăjiți']",2,54,9.99,39,Card,4,FALSE
+100429,3/9/2025 12:36,Iași,1,"['Pizza Diavola', 'Pizza Capricciosa', 'Tiramisu']",3,99,9.99,17,Card,5,FALSE
+100430,3/9/2025 13:16,Iași,3,['Pizza Capricciosa'],1,41,12.99,32,Card,4,TRUE
+100431,3/9/2025 15:20,Iași,1,"['Pizza Quattro Formaggi', 'Focaccia']",2,60,7.99,34,Card,5,FALSE
+100432,3/9/2025 19:29,București,16,['Waffle cu fructe'],1,26,9.99,37,Card,4,FALSE
+100433,3/10/2025 19:25,Timișoara,17,"['Shaorma medie', 'Shaorma mare']",2,53,7.99,22,Card,4,FALSE
+100434,3/10/2025 20:30,București,6,"['Cartofi prăjiți', 'Milkshake']",2,29,7.99,30,Card,5,FALSE
+100435,3/10/2025 21:22,Timișoara,6,"['Burger BBQ', 'Cola', 'Burger Clasic', 'Cartofi prăjiți']",4,96,9.99,35,Card,4,FALSE
+100436,3/10/2025 21:29,Iași,2,"['Pizza Quattro Formaggi', 'Tiramisu']",2,61,7.99,40,Cash,,FALSE
+100437,3/10/2025 21:45,Timișoara,4,['Cheeseburger'],1,37,7.99,18,Card,,FALSE
+100438,3/11/2025 12:24,Timișoara,5,"['Burger Clasic', 'Burger BBQ']",2,76,9.99,30,Card,4,FALSE
+100439,3/11/2025 12:40,București,18,"['Shaorma mare', 'Kebab la farfurie', 'Falafel wrap', 'Ayran']",4,96,9.99,35,Cash,4,FALSE
+100440,3/11/2025 13:06,București,3,['Focaccia'],1,18,9.99,29,Card,5,FALSE
+100441,3/11/2025 14:19,București,8,"['Supă Miso', 'Pad Thai', 'Ceai verde']",3,65,7.99,41,Card,3,FALSE
+100442,3/11/2025 14:30,București,14,"['Bowl cu somon', 'Wrap cu pui', 'Apă plată', 'Smoothie']",4,103,0,33,Cash,,TRUE
+100443,3/11/2025 17:08,București,2,"['Tiramisu', 'Focaccia']",2,37,9.99,31,Card,4,FALSE
+100444,3/11/2025 20:28,Brașov,2,"['Pizza Capricciosa', 'Tiramisu']",2,60,12.99,38,Card,4,TRUE
+100445,3/11/2025 20:53,București,7,"['Noodles cu pui', 'Supă Miso', 'Sushi Mix 16 buc', 'Ceai verde']",4,125,0,45,Cash,4,FALSE
+100446,3/12/2025 14:30,București,15,"['Clătite cu ciocolată', 'Cafea']",2,31,12.99,25,Card,5,FALSE
+100447,3/12/2025 14:51,Timișoara,8,"['California Roll', 'Supă Miso', 'Noodles cu pui', 'Ceai verde']",4,98,12.99,34,Card,,FALSE
+100448,3/12/2025 20:04,București,8,"['California Roll', 'Sushi Mix 16 buc']",2,103,0,49,Card,3,TRUE
+100449,3/13/2025 15:00,București,1,"['Pizza Capricciosa', 'Pizza Margherita']",2,73,12.99,36,Card,4,FALSE
+100450,3/13/2025 16:32,București,4,"['Burger Clasic', 'Milkshake', 'Cheeseburger']",3,88,9.99,27,Card,,FALSE
+100451,3/14/2025 12:50,București,3,"['Focaccia', 'Pizza Quattro Formaggi', 'Cola']",3,68,7.99,39,Card,2,FALSE
+100452,3/14/2025 13:27,Timișoara,15,['Clătite cu ciocolată'],1,21,7.99,37,Card,,FALSE
+100453,3/14/2025 14:37,București,5,"['Burger Clasic', 'Onion rings', 'Burger BBQ', 'Milkshake']",4,107,0,33,Cash,,FALSE
+100454,3/14/2025 14:57,București,5,['Cola'],1,8,12.99,27,Card,4,FALSE
+100455,3/14/2025 18:19,Iași,18,"['Falafel wrap', 'Ayran']",2,32,7.99,14,Card,,FALSE
+100456,3/14/2025 20:35,București,11,"['Mici cu muștar (5 buc)', 'Limonadă']",2,42,9.99,42,Card,,FALSE
+100457,3/15/2025 12:22,București,9,"['California Roll', 'Supă Miso']",2,53,12.99,42,Card,4,FALSE
+100458,3/15/2025 20:48,Timișoara,2,['Tiramisu'],1,19,7.99,30,Cash,4,FALSE
+100459,3/15/2025 21:06,Iași,16,"['Cheesecake', 'Înghețată', 'Clătite cu ciocolată']",3,59,7.99,34,Card,,FALSE
+100460,3/15/2025 21:46,București,2,"['Tiramisu', 'Pizza Quattro Formaggi', 'Pizza Margherita']",3,93,9.99,38,Card,4,FALSE
+100461,3/15/2025 22:24,București,9,"['California Roll', 'Sushi Mix 16 buc', 'Ceai verde']",3,112,0,29,Card,5,FALSE
+100462,3/16/2025 10:55,Cluj-Napoca,7,['California Roll'],1,38,7.99,21,Card,5,TRUE
+100463,3/16/2025 14:44,Iași,1,"['Cola', 'Pizza Capricciosa']",2,49,12.99,23,Card,4,TRUE
+100464,3/16/2025 20:33,Cluj-Napoca,5,"['Burger BBQ', 'Milkshake', 'Cola', 'Onion rings']",4,81,9.99,36,Card,4,FALSE
+100465,3/16/2025 21:47,Timișoara,3,['Pizza Quattro Formaggi'],1,42,12.99,38,Cash,3,FALSE
+100466,3/16/2025 22:44,București,3,['Pizza Diavola'],1,39,12.99,30,Card,,TRUE
+100467,3/17/2025 14:19,Brașov,2,"['Pizza Diavola', 'Tiramisu']",2,58,7.99,20,Card,4,FALSE
+100468,3/17/2025 20:40,Iași,1,"['Pizza Capricciosa', 'Focaccia', 'Tiramisu']",3,78,9.99,38,Card,5,FALSE
+100469,3/17/2025 20:47,Timișoara,18,['Cartofi prăjiți'],1,12,12.99,28,Cash,5,TRUE
+100470,3/17/2025 21:30,București,6,"['Milkshake', 'Burger BBQ']",2,59,12.99,37,Cash,4,FALSE
+100471,3/17/2025 22:08,București,7,"['Supă Miso', 'California Roll']",2,53,12.99,53,Card,3,FALSE
+100472,3/18/2025 10:43,București,9,"['California Roll', 'Ceai verde']",2,47,12.99,29,Card,4,FALSE
+100473,3/18/2025 12:05,Iași,15,"['Cafea', 'Cheesecake', 'Papanași']",3,57,9.99,22,Card,4,FALSE
+100474,3/18/2025 14:20,București,18,['Falafel wrap'],1,25,9.99,17,Cash,5,FALSE
+100475,3/18/2025 15:16,București,5,['Milkshake'],1,17,7.99,26,Card,,TRUE
+100476,3/18/2025 21:53,Cluj-Napoca,4,"['Burger Clasic', 'Burger BBQ', 'Cartofi prăjiți']",3,88,12.99,26,Card,4,FALSE
+100477,3/19/2025 11:11,Brașov,6,['Cheeseburger'],1,37,7.99,21,Card,5,FALSE
+100478,3/19/2025 13:05,București,18,"['Ayran', 'Kebab la farfurie', 'Cartofi prăjiți']",3,54,9.99,32,Card,4,FALSE
+100479,3/19/2025 13:40,București,1,"['Pizza Capricciosa', 'Pizza Quattro Formaggi', 'Pizza Diavola']",3,122,0,40,Card,4,FALSE
+100480,3/19/2025 18:16,Iași,13,"['Apă plată', 'Wrap cu pui']",2,37,7.99,26,Card,4,TRUE
+100481,3/19/2025 18:33,București,11,"['Ciorbă de burtă', 'Limonadă', 'Șnițel cu piure', 'Mici cu muștar (5 buc)']",4,102,0,38,Card,4,FALSE
+100482,3/19/2025 18:36,București,18,['Shaorma medie'],1,24,9.99,25,Card,5,FALSE
+100483,3/19/2025 19:25,București,9,['Noodles cu pui'],1,36,7.99,43,Card,,FALSE
+100484,3/19/2025 20:27,Cluj-Napoca,6,"['Burger Clasic', 'Cola']",2,42,7.99,30,Cash,5,FALSE
+100485,3/20/2025 10:36,București,18,['Cartofi prăjiți'],1,12,7.99,36,Card,4,FALSE
+100486,3/20/2025 12:54,Iași,1,"['Pizza Diavola', 'Pizza Margherita']",2,71,9.99,31,Card,5,FALSE
+100487,3/20/2025 14:58,Timișoara,5,"['Onion rings', 'Cartofi prăjiți', 'Milkshake', 'Cheeseburger']",4,80,12.99,16,Card,5,FALSE
+100488,3/20/2025 17:00,București,4,"['Cheeseburger', 'Burger BBQ', 'Burger Clasic']",3,113,0,31,Cash,4,FALSE
+100489,3/20/2025 18:38,Timișoara,6,['Cartofi prăjiți'],1,12,9.99,25,Card,5,FALSE
+100490,3/20/2025 18:53,Iași,11,"['Mici cu muștar (5 buc)', 'Ciorbă de burtă', 'Sarmale cu mămăligă']",3,88,9.99,16,Card,3,FALSE
+100491,3/20/2025 19:16,Cluj-Napoca,2,"['Pizza Quattro Formaggi', 'Tiramisu']",2,61,9.99,28,Card,,TRUE
+100492,3/20/2025 19:21,București,15,['Înghețată'],1,15,7.99,46,Card,,FALSE
+100493,3/20/2025 19:35,București,7,"['California Roll', 'Ceai verde']",2,47,9.99,44,Cash,4,FALSE
+100494,3/20/2025 20:04,Timișoara,1,"['Pizza Diavola', 'Focaccia']",2,57,12.99,39,Card,4,FALSE
+100495,3/20/2025 20:31,București,7,"['California Roll', 'Sushi Mix 16 buc', 'Supă Miso']",3,118,0,52,Cash,4,TRUE
+100496,3/20/2025 22:05,București,12,"['Sarmale cu mămăligă', 'Mici cu muștar (5 buc)', 'Ciorbă de burtă']",3,88,7.99,32,Cash,3,TRUE
+100497,3/20/2025 22:14,Brașov,4,"['Cola', 'Burger Clasic']",2,42,7.99,,Card,,FALSE
+100498,3/20/2025 23:02,Timișoara,12,"['Papanași', 'Mici cu muștar (5 buc)']",2,54,12.99,21,Cash,,FALSE
+100499,3/21/2025 12:29,Brașov,2,"['Pizza Capricciosa', 'Tiramisu']",2,60,9.99,26,Cash,5,FALSE
+100500,3/21/2025 12:31,București,17,"['Falafel wrap', 'Cartofi prăjiți', 'Shaorma medie']",3,61,9.99,44,Card,,FALSE
+100501,3/21/2025 15:38,Iași,1,['Cola'],1,8,12.99,21,Card,,FALSE
+100502,3/21/2025 15:50,Brașov,9,"['Noodles cu pui', 'Sushi Mix 16 buc']",2,101,0,34,Card,,FALSE
+100503,3/21/2025 16:50,Cluj-Napoca,17,['Shaorma mare'],1,29,9.99,17,Card,4,FALSE
+100504,3/21/2025 19:36,București,8,"['Pad Thai', 'California Roll', 'Noodles cu pui', 'Ceai verde']",4,124,0,50,Card,4,FALSE
+100505,3/22/2025 11:21,Brașov,13,"['Bowl cu somon', 'Apă plată', 'Salată Caesar', 'Bowl vegan']",4,127,0,26,Cash,4,FALSE
+100506,3/22/2025 12:21,Timișoara,5,['Onion rings'],1,14,7.99,19,Card,,FALSE
+100507,3/22/2025 14:49,București,1,"['Tiramisu', 'Pizza Margherita']",2,51,9.99,36,Cash,4,FALSE
+100508,3/22/2025 16:13,Timișoara,12,"['Șnițel cu piure', 'Ciorbă de burtă', 'Sarmale cu mămăligă', 'Limonadă']",4,108,0,27,Cash,5,FALSE
+100509,3/22/2025 19:50,Iași,11,"['Sarmale cu mămăligă', 'Șnițel cu piure', 'Ciorbă de burtă']",3,96,7.99,49,Cash,4,FALSE
+100510,3/22/2025 19:56,București,2,"['Pizza Diavola', 'Pizza Quattro Formaggi']",2,81,9.99,43,Cash,3,FALSE
+100511,3/22/2025 20:23,Cluj-Napoca,18,"['Kebab la farfurie', 'Shaorma mare']",2,64,9.99,25,Card,5,FALSE
+100512,3/22/2025 21:42,Brașov,8,"['Pad Thai', 'Sushi Mix 16 buc']",2,106,0,44,Card,4,FALSE
+100513,3/22/2025 21:51,Cluj-Napoca,14,"['Bowl vegan', 'Salată Caesar', 'Apă plată']",3,79,9.99,30,Card,,FALSE
+100514,3/22/2025 22:12,Cluj-Napoca,8,"['Ceai verde', 'Sushi Mix 16 buc', 'Noodles cu pui']",3,110,0,25,Card,,FALSE
+100515,3/23/2025 12:43,Timișoara,4,"['Burger Clasic', 'Cartofi prăjiți']",2,46,7.99,31,Card,,FALSE
+100516,3/23/2025 14:50,București,1,['Pizza Capricciosa'],1,41,12.99,32,Card,,FALSE
+100517,3/23/2025 15:27,București,2,"['Pizza Capricciosa', 'Focaccia', 'Pizza Margherita']",3,91,12.99,35,Card,4,FALSE
+100518,3/23/2025 19:10,București,14,"['Wrap cu pui', 'Salată Caesar', 'Apă plată', 'Smoothie']",4,89,9.99,32,Cash,4,FALSE
+100519,3/23/2025 22:08,București,7,"['Supă Miso', 'Pad Thai', 'California Roll', 'Noodles cu pui']",4,130,0,32,Card,,FALSE
+100520,3/24/2025 11:04,Cluj-Napoca,3,['Focaccia'],1,18,9.99,20,Cash,,FALSE
+100521,3/24/2025 14:42,Iași,12,['Limonadă'],1,12,9.99,25,Cash,,TRUE
+100522,3/24/2025 20:33,Cluj-Napoca,11,['Limonadă'],1,12,9.99,,Card,4,FALSE
+100523,3/24/2025 20:55,Cluj-Napoca,5,['Onion rings'],1,14,9.99,28,Card,5,TRUE
+100524,3/24/2025 21:54,Brașov,8,"['Ceai verde', 'Noodles cu pui', 'California Roll']",3,83,9.99,24,Card,,FALSE
+100525,3/25/2025 12:38,București,14,['Wrap cu pui'],1,31,7.99,35,Card,4,FALSE
+100526,3/25/2025 14:38,Timișoara,5,"['Cartofi prăjiți', 'Cheeseburger', 'Burger BBQ', 'Cola']",4,99,7.99,26,Card,4,FALSE
+100527,3/25/2025 16:02,Cluj-Napoca,5,"['Cheeseburger', 'Milkshake']",2,54,9.99,23,Cash,,TRUE
+100528,3/25/2025 20:46,Iași,12,"['Sarmale cu mămăligă', 'Limonadă']",2,48,7.99,31,Card,,FALSE
+100529,3/25/2025 21:22,Iași,18,['Cartofi prăjiți'],1,12,9.99,20,Card,,FALSE
+100530,3/25/2025 21:45,București,18,"['Falafel wrap', 'Kebab la farfurie']",2,60,9.99,52,Card,3,FALSE
+100531,3/26/2025 10:56,Cluj-Napoca,12,"['Ciorbă de burtă', 'Șnițel cu piure']",2,60,7.99,31,Card,4,TRUE
+100532,3/26/2025 18:47,București,3,"['Pizza Margherita', 'Pizza Capricciosa']",2,73,9.99,41,Card,,FALSE
+100533,3/26/2025 19:14,București,6,"['Cartofi prăjiți', 'Cola', 'Cheeseburger']",3,57,7.99,48,Card,,FALSE
+100534,3/26/2025 20:11,București,3,"['Pizza Capricciosa', 'Tiramisu']",2,60,9.99,49,Cash,3,FALSE
+100535,3/26/2025 21:52,Brașov,2,"['Pizza Quattro Formaggi', 'Focaccia', 'Pizza Margherita']",3,92,7.99,33,Card,5,FALSE
+100536,3/26/2025 22:57,Iași,5,['Cheeseburger'],1,37,12.99,23,Card,4,FALSE
+100537,3/27/2025 18:18,Iași,4,['Burger Clasic'],1,34,9.99,12,Card,5,FALSE
+100538,3/28/2025 11:23,București,6,"['Milkshake', 'Burger BBQ']",2,59,12.99,28,Card,,FALSE
+100539,3/28/2025 13:52,Brașov,5,"['Cartofi prăjiți', 'Onion rings']",2,26,7.99,12,Card,5,FALSE
+100540,3/28/2025 17:39,București,11,"['Șnițel cu piure', 'Limonadă', 'Mici cu muștar (5 buc)']",3,80,9.99,,Card,3,FALSE
+100541,3/28/2025 18:53,București,14,"['Bowl vegan', 'Apă plată']",2,45,9.99,51,Cash,,FALSE
+100542,3/28/2025 20:31,Cluj-Napoca,17,"['Shaorma mare', 'Falafel wrap']",2,54,9.99,30,Card,,FALSE
+100543,3/29/2025 10:10,Brașov,12,"['Sarmale cu mămăligă', 'Limonadă', 'Șnițel cu piure']",3,86,7.99,28,Cash,5,TRUE
+100544,3/29/2025 13:50,București,2,"['Tiramisu', 'Pizza Margherita', 'Pizza Diavola']",3,90,12.99,17,Card,,FALSE
+100545,3/29/2025 14:30,Timișoara,2,"['Focaccia', 'Cola', 'Pizza Diavola', 'Pizza Quattro Formaggi']",4,107,0,17,Card,4,FALSE
+100546,3/29/2025 20:47,București,18,"['Ayran', 'Shaorma mare']",2,36,9.99,46,Card,3,FALSE
+100547,3/29/2025 20:55,Iași,2,"['Pizza Capricciosa', 'Pizza Quattro Formaggi']",2,83,9.99,21,Card,5,FALSE
+100548,3/30/2025 10:44,Iași,14,"['Wrap cu pui', 'Salată Caesar']",2,65,9.99,12,Cash,,FALSE
+100549,3/30/2025 12:16,Brașov,17,"['Falafel wrap', 'Kebab la farfurie', 'Shaorma mare', 'Cartofi prăjiți']",4,101,0,24,Card,4,FALSE
+100550,3/30/2025 13:04,Brașov,3,"['Pizza Quattro Formaggi', 'Pizza Margherita']",2,74,9.99,21,Card,,FALSE
+100551,3/30/2025 13:06,Timișoara,8,"['Supă Miso', 'California Roll', 'Sushi Mix 16 buc']",3,118,0,43,Card,,FALSE
+100552,3/30/2025 14:38,Iași,4,"['Cola', 'Burger Clasic']",2,42,7.99,13,Card,5,FALSE
+100553,3/30/2025 17:13,Iași,17,"['Kebab la farfurie', 'Ayran']",2,42,9.99,18,Card,,TRUE
+100554,3/30/2025 17:15,Brașov,9,"['Noodles cu pui', 'California Roll']",2,74,12.99,28,Card,,FALSE
+100555,3/30/2025 18:29,Cluj-Napoca,13,"['Smoothie', 'Salată Caesar']",2,52,9.99,17,Card,5,FALSE
+100556,3/30/2025 19:14,Cluj-Napoca,10,"['Sarmale cu mămăligă', 'Limonadă', 'Ciorbă de burtă']",3,70,12.99,42,Card,4,TRUE
+100557,3/30/2025 19:49,București,15,"['Înghețată', 'Cafea', 'Papanași']",3,49,9.99,37,Card,,FALSE
+100558,3/30/2025 20:25,Cluj-Napoca,2,"['Pizza Quattro Formaggi', 'Pizza Diavola']",2,81,7.99,29,Card,4,FALSE
+100559,3/31/2025 19:29,Timișoara,6,"['Cola', 'Burger BBQ']",2,50,9.99,38,Card,4,FALSE
+100560,3/31/2025 19:39,Brașov,3,"['Pizza Diavola', 'Pizza Quattro Formaggi']",2,81,7.99,25,Card,5,TRUE
+100561,3/31/2025 22:40,Cluj-Napoca,14,"['Wrap cu pui', 'Apă plată']",2,37,9.99,18,Cash,5,FALSE
+100562,4/1/2025 14:38,Cluj-Napoca,18,"['Shaorma mare', 'Falafel wrap', 'Ayran']",3,61,9.99,22,Card,5,FALSE
+100563,4/1/2025 18:07,Brașov,8,"['Sushi Mix 16 buc', 'Ceai verde', 'Supă Miso', 'California Roll']",4,127,0,34,Card,,FALSE
+100564,4/1/2025 19:07,București,9,"['Sushi Mix 16 buc', 'Noodles cu pui', 'California Roll']",3,139,0,46,Card,,FALSE
+100565,4/1/2025 20:50,Timișoara,10,"['Papanași', 'Sarmale cu mămăligă']",2,60,7.99,21,Cash,,TRUE
+100566,4/2/2025 12:06,București,18,"['Cartofi prăjiți', 'Kebab la farfurie']",2,47,7.99,33,Card,4,FALSE
+100567,4/2/2025 16:33,București,5,"['Cola', 'Cheeseburger']",2,45,7.99,25,Card,,FALSE
+100568,4/2/2025 18:16,Cluj-Napoca,11,['Sarmale cu mămăligă'],1,36,7.99,21,Cash,5,FALSE
+100569,4/2/2025 19:15,Timișoara,4,"['Burger Clasic', 'Burger BBQ', 'Cheeseburger']",3,113,0,28,Card,,FALSE
+100570,4/2/2025 20:38,Iași,3,"['Focaccia', 'Pizza Quattro Formaggi', 'Pizza Capricciosa']",3,101,0,31,Card,4,FALSE
+100571,4/3/2025 14:31,Iași,9,['Pad Thai'],1,41,9.99,27,Card,5,FALSE
+100572,4/3/2025 15:40,Cluj-Napoca,6,"['Burger BBQ', 'Milkshake', 'Cartofi prăjiți']",3,71,7.99,24,Card,4,FALSE
+100573,4/3/2025 16:40,Brașov,9,"['Sushi Mix 16 buc', 'Ceai verde']",2,74,9.99,35,Card,5,FALSE
+100574,4/3/2025 17:08,Cluj-Napoca,9,"['California Roll', 'Pad Thai']",2,79,7.99,28,Card,3,FALSE
+100575,4/3/2025 18:43,Brașov,17,"['Falafel wrap', 'Shaorma mare']",2,54,7.99,30,Cash,,FALSE
+100576,4/3/2025 23:43,Brașov,5,['Cola'],1,8,9.99,15,Cash,4,TRUE
+100577,4/4/2025 11:09,București,7,"['Sushi Mix 16 buc', 'Noodles cu pui']",2,101,0,37,Cash,4,FALSE
+100578,4/4/2025 13:04,Iași,15,"['Waffle cu fructe', 'Papanași', 'Clătite cu ciocolată']",3,71,9.99,35,Card,,TRUE
+100579,4/4/2025 14:36,București,16,"['Cheesecake', 'Cafea', 'Papanași']",3,57,7.99,34,Card,4,TRUE
+100580,4/4/2025 15:18,București,1,['Pizza Quattro Formaggi'],1,42,7.99,32,Cash,,FALSE
+100581,4/4/2025 20:58,Timișoara,1,"['Tiramisu', 'Focaccia', 'Cola', 'Pizza Quattro Formaggi']",4,87,12.99,29,Card,4,FALSE
+100582,4/4/2025 21:15,București,2,"['Pizza Quattro Formaggi', 'Pizza Diavola']",2,81,12.99,43,Card,,FALSE
+100583,4/4/2025 22:45,Cluj-Napoca,3,"['Cola', 'Pizza Capricciosa', 'Focaccia']",3,67,12.99,14,Cash,5,FALSE
+100584,4/5/2025 12:25,București,7,"['Ceai verde', 'California Roll', 'Sushi Mix 16 buc']",3,112,0,41,Card,5,FALSE
+100585,4/5/2025 13:18,București,15,"['Cheesecake', 'Cafea', 'Înghețată']",3,48,9.99,42,Card,5,FALSE
+100586,4/5/2025 20:46,Timișoara,18,['Ayran'],1,7,7.99,26,Card,5,TRUE
+100587,4/5/2025 23:09,Brașov,4,"['Onion rings', 'Cheeseburger']",2,51,7.99,15,Card,4,FALSE
+100588,4/6/2025 10:45,București,2,"['Pizza Capricciosa', 'Pizza Quattro Formaggi']",2,83,7.99,15,Cash,,FALSE
+100589,4/6/2025 13:01,Cluj-Napoca,17,['Falafel wrap'],1,25,7.99,35,Cash,,FALSE
+100590,4/6/2025 13:04,București,4,"['Cola', 'Onion rings']",2,22,7.99,33,Card,3,FALSE
+100591,4/6/2025 13:36,Brașov,16,"['Înghețată', 'Cheesecake']",2,38,7.99,18,Card,4,FALSE
+100592,4/6/2025 13:37,Timișoara,15,"['Cheesecake', 'Înghețată']",2,38,9.99,41,Card,4,FALSE
+100593,4/6/2025 17:46,Iași,14,['Bowl cu somon'],1,48,7.99,23,Card,,FALSE
+100594,4/7/2025 13:15,București,18,"['Shaorma medie', 'Kebab la farfurie', 'Cartofi prăjiți']",3,71,9.99,37,Card,4,FALSE
+100595,4/7/2025 14:11,București,5,['Cartofi prăjiți'],1,12,12.99,28,Card,5,TRUE
+100596,4/7/2025 18:27,București,7,['California Roll'],1,38,7.99,27,Card,,FALSE
+100597,4/7/2025 19:02,Iași,1,"['Focaccia', 'Tiramisu']",2,37,9.99,21,Cash,4,FALSE
+100598,4/7/2025 19:34,București,10,"['Șnițel cu piure', 'Sarmale cu mămăligă']",2,74,7.99,39,Cash,3,FALSE
+100599,4/7/2025 23:24,București,2,"['Pizza Capricciosa', 'Pizza Quattro Formaggi', 'Tiramisu']",3,102,0,28,Card,,TRUE
+100600,4/8/2025 10:41,București,10,"['Sarmale cu mămăligă', 'Mici cu muștar (5 buc)']",2,66,9.99,42,Card,4,FALSE
+100601,4/8/2025 16:12,Timișoara,3,['Tiramisu'],1,19,7.99,21,Card,4,FALSE
+100602,4/8/2025 17:19,București,7,"['Sushi Mix 16 buc', 'California Roll']",2,103,0,34,Card,,TRUE
+100603,4/8/2025 17:20,Iași,2,"['Pizza Capricciosa', 'Cola', 'Focaccia']",3,67,7.99,20,Cash,,FALSE
+100604,4/8/2025 22:14,București,18,"['Shaorma mare', 'Falafel wrap']",2,54,9.99,37,Card,,FALSE
+100605,4/8/2025 22:32,Timișoara,4,"['Milkshake', 'Cartofi prăjiți']",2,29,12.99,22,Card,,FALSE
+100606,4/8/2025 23:05,Cluj-Napoca,11,"['Limonadă', 'Ciorbă de burtă', 'Sarmale cu mămăligă']",3,70,7.99,28,Cash,5,FALSE
+100607,4/9/2025 12:11,Iași,17,"['Ayran', 'Shaorma mare', 'Shaorma medie']",3,60,9.99,27,Card,,TRUE
+100608,4/9/2025 12:27,Brașov,1,"['Focaccia', 'Tiramisu', 'Pizza Quattro Formaggi', 'Pizza Diavola']",4,118,0,34,Card,5,FALSE
+100609,4/9/2025 14:56,Iași,1,"['Pizza Margherita', 'Pizza Capricciosa']",2,73,9.99,17,Card,,FALSE
+100610,4/9/2025 19:34,Iași,14,"['Bowl cu somon', 'Smoothie']",2,66,7.99,21,Cash,5,FALSE
+100611,4/9/2025 22:30,Cluj-Napoca,3,"['Pizza Capricciosa', 'Pizza Diavola']",2,80,9.99,16,Cash,5,TRUE
+100612,4/10/2025 11:22,București,18,"['Cartofi prăjiți', 'Ayran', 'Shaorma medie']",3,43,9.99,33,Card,,FALSE
+100613,4/10/2025 17:13,București,16,"['Waffle cu fructe', 'Cafea', 'Papanași', 'Clătite cu ciocolată']",4,81,7.99,45,Card,3,TRUE
+100614,4/10/2025 18:30,Iași,17,"['Kebab la farfurie', 'Shaorma medie', 'Shaorma mare', 'Ayran']",4,95,9.99,20,Card,4,FALSE
+100615,4/10/2025 20:45,București,9,"['Supă Miso', 'Sushi Mix 16 buc', 'California Roll', 'Ceai verde']",4,127,0,39,Card,3,TRUE
+100616,4/10/2025 21:29,Iași,18,"['Ayran', 'Falafel wrap']",2,32,9.99,27,Card,3,TRUE
+100617,4/11/2025 12:25,București,2,"['Focaccia', 'Tiramisu']",2,37,9.99,39,Cash,5,TRUE
+100618,4/11/2025 17:44,București,7,"['Ceai verde', 'California Roll']",2,47,9.99,41,Card,,FALSE
+100619,4/11/2025 18:49,Brașov,1,"['Cola', 'Tiramisu', 'Pizza Quattro Formaggi']",3,69,9.99,16,Cash,,FALSE
+100620,4/12/2025 12:09,București,6,"['Cola', 'Cartofi prăjiți']",2,20,9.99,46,Cash,5,TRUE
+100621,4/12/2025 12:22,Iași,1,['Focaccia'],1,18,7.99,,Card,,FALSE
+100622,4/12/2025 13:55,Cluj-Napoca,18,"['Ayran', 'Shaorma medie']",2,31,12.99,27,Card,,FALSE
+100623,4/12/2025 14:17,Iași,5,"['Onion rings', 'Burger BBQ']",2,56,12.99,20,Card,5,TRUE
+100624,4/12/2025 19:13,București,11,"['Sarmale cu mămăligă', 'Limonadă']",2,48,9.99,47,Card,3,FALSE
+100625,4/13/2025 18:09,Cluj-Napoca,3,"['Pizza Capricciosa', 'Tiramisu', 'Focaccia']",3,78,9.99,28,Card,4,FALSE
+100626,4/13/2025 22:35,București,4,"['Burger BBQ', 'Onion rings']",2,56,12.99,28,Cash,4,FALSE
+100627,4/13/2025 23:15,București,11,['Sarmale cu mămăligă'],1,36,12.99,31,Cash,4,TRUE
+100628,4/14/2025 12:27,București,8,"['Pad Thai', 'Sushi Mix 16 buc', 'Ceai verde']",3,115,0,44,Card,,TRUE
+100629,4/14/2025 14:17,Brașov,8,"['California Roll', 'Sushi Mix 16 buc', 'Noodles cu pui']",3,139,0,27,Card,,FALSE
+100630,4/14/2025 18:32,Timișoara,18,['Shaorma mare'],1,29,9.99,30,Card,4,FALSE
+100631,4/14/2025 20:02,București,17,"['Ayran', 'Kebab la farfurie']",2,42,9.99,45,Cash,,FALSE
+100632,4/15/2025 12:47,București,12,"['Sarmale cu mămăligă', 'Ciorbă de burtă', 'Șnițel cu piure', 'Papanași']",4,120,0,50,Cash,4,FALSE
+100633,4/15/2025 14:30,Timișoara,3,"['Pizza Diavola', 'Focaccia']",2,57,7.99,24,Cash,5,FALSE
+100634,4/15/2025 15:27,Iași,11,"['Papanași', 'Ciorbă de burtă', 'Mici cu muștar (5 buc)']",3,76,9.99,30,Card,3,FALSE
+100635,4/15/2025 21:22,Timișoara,2,['Pizza Capricciosa'],1,41,7.99,23,Cash,4,FALSE
+100636,4/15/2025 22:11,Iași,13,"['Bowl cu somon', 'Smoothie']",2,66,9.99,28,Cash,,FALSE
+100637,4/16/2025 11:42,București,3,"['Cola', 'Pizza Diavola', 'Tiramisu', 'Pizza Capricciosa']",4,107,0,40,Card,5,FALSE
+100638,4/16/2025 19:16,Cluj-Napoca,2,"['Pizza Margherita', 'Pizza Diavola', 'Cola']",3,79,7.99,32,Cash,5,FALSE
+100639,4/16/2025 22:58,București,9,"['Supă Miso', 'Pad Thai']",2,56,7.99,39,Card,,FALSE
+100640,4/16/2025 23:40,Iași,17,"['Cartofi prăjiți', 'Shaorma mare', 'Kebab la farfurie']",3,76,12.99,21,Cash,5,FALSE
+100641,4/17/2025 16:22,București,1,['Focaccia'],1,18,9.99,32,Cash,4,TRUE
+100642,4/17/2025 19:23,București,6,"['Cheeseburger', 'Cola']",2,45,12.99,30,Card,4,FALSE
+100643,4/17/2025 19:25,Iași,6,"['Milkshake', 'Onion rings']",2,31,12.99,28,Card,4,FALSE
+100644,4/17/2025 20:25,București,1,['Pizza Capricciosa'],1,41,9.99,38,Cash,5,FALSE
+100645,4/17/2025 21:04,Timișoara,11,"['Ciorbă de burtă', 'Sarmale cu mămăligă']",2,58,7.99,31,Card,,FALSE
+100646,4/17/2025 23:22,Cluj-Napoca,1,"['Tiramisu', 'Pizza Margherita']",2,51,7.99,21,Card,4,FALSE
+100647,4/18/2025 12:46,Timișoara,2,"['Pizza Quattro Formaggi', 'Pizza Capricciosa']",2,83,7.99,25,Card,5,TRUE
+100648,4/18/2025 13:02,București,3,['Pizza Quattro Formaggi'],1,42,7.99,43,Card,4,TRUE
+100649,4/19/2025 11:05,Cluj-Napoca,18,"['Ayran', 'Shaorma mare']",2,36,12.99,17,Card,,FALSE
+100650,4/19/2025 13:00,Timișoara,7,"['California Roll', 'Sushi Mix 16 buc']",2,103,0,38,Card,5,FALSE
+100651,4/19/2025 18:05,Timișoara,13,"['Smoothie', 'Salată Caesar', 'Apă plată', 'Wrap cu pui']",4,89,7.99,14,Cash,5,FALSE
+100652,4/19/2025 20:21,București,3,['Tiramisu'],1,19,9.99,53,Card,4,FALSE
+100653,4/19/2025 21:46,Brașov,8,"['Pad Thai', 'California Roll']",2,79,9.99,36,Cash,5,FALSE
+100654,4/20/2025 12:45,București,2,['Pizza Margherita'],1,32,7.99,40,Card,4,FALSE
+100655,4/20/2025 18:58,Brașov,6,"['Onion rings', 'Cheeseburger', 'Burger BBQ']",3,93,9.99,24,Card,4,FALSE
+100656,4/20/2025 20:36,București,13,"['Smoothie', 'Wrap cu pui', 'Salată Caesar']",3,83,7.99,38,Card,,FALSE
+100657,4/21/2025 10:18,București,9,"['Pad Thai', 'Sushi Mix 16 buc']",2,106,0,38,Card,,FALSE
+100658,4/21/2025 13:58,București,8,"['California Roll', 'Pad Thai', 'Supă Miso']",3,94,9.99,41,Card,4,TRUE
+100659,4/21/2025 13:59,București,5,"['Cheeseburger', 'Cartofi prăjiți', 'Milkshake', 'Burger BBQ']",4,108,0,,Cash,,FALSE
+100660,4/21/2025 14:47,Cluj-Napoca,18,"['Ayran', 'Cartofi prăjiți', 'Shaorma mare']",3,48,12.99,13,Card,,FALSE
+100661,4/21/2025 19:58,București,14,"['Apă plată', 'Bowl vegan']",2,45,9.99,31,Card,5,FALSE
+100662,4/21/2025 20:18,Timișoara,12,"['Limonadă', 'Sarmale cu mămăligă']",2,48,7.99,37,Card,,TRUE
+100663,4/22/2025 11:40,București,3,['Pizza Quattro Formaggi'],1,42,12.99,26,Cash,,TRUE
+100664,4/22/2025 19:13,București,6,"['Cola', 'Cartofi prăjiți']",2,20,12.99,42,Card,,FALSE
+100665,4/22/2025 19:38,Iași,14,"['Salată Caesar', 'Apă plată']",2,40,7.99,42,Card,4,TRUE
+100666,4/22/2025 20:28,București,10,['Papanași'],1,24,12.99,35,Card,4,TRUE
+100667,4/22/2025 23:40,Brașov,18,['Shaorma mare'],1,29,9.99,32,Card,5,FALSE
+100668,4/23/2025 12:44,Timișoara,1,"['Pizza Diavola', 'Pizza Margherita', 'Focaccia']",3,89,9.99,40,Cash,,TRUE
+100669,4/23/2025 14:06,București,4,"['Milkshake', 'Burger BBQ', 'Onion rings', 'Burger Clasic']",4,107,0,29,Card,4,FALSE
+100670,4/23/2025 19:40,Timișoara,5,"['Milkshake', 'Cola']",2,25,12.99,23,Card,5,FALSE
+100671,4/23/2025 20:46,București,17,"['Shaorma mare', 'Cartofi prăjiți', 'Shaorma medie', 'Kebab la farfurie']",4,100,0,24,Card,4,FALSE
+100672,4/24/2025 12:01,București,17,"['Cartofi prăjiți', 'Shaorma medie', 'Ayran', 'Shaorma mare']",4,72,7.99,35,Card,4,FALSE
+100673,4/24/2025 13:41,Iași,17,"['Cartofi prăjiți', 'Kebab la farfurie', 'Shaorma medie', 'Falafel wrap']",4,96,9.99,23,Card,4,FALSE
+100674,4/24/2025 16:46,Iași,6,"['Cola', 'Cheeseburger']",2,0,7.99,19,Card,,FALSE
+100675,4/24/2025 17:47,București,10,"['Papanași', 'Mici cu muștar (5 buc)', 'Șnițel cu piure', 'Limonadă']",4,104,0,33,Card,4,FALSE
+100676,4/24/2025 18:47,București,4,['Burger BBQ'],1,42,7.99,39,Card,4,FALSE
+100677,4/24/2025 19:37,București,7,"['Noodles cu pui', 'Ceai verde', 'California Roll']",3,83,7.99,39,Card,5,FALSE
+100678,4/24/2025 21:38,Brașov,3,['Cola'],1,8,9.99,19,Cash,4,FALSE
+100679,4/24/2025 21:51,Brașov,2,"['Cola', 'Pizza Margherita']",2,40,12.99,36,Card,3,FALSE
+100680,4/24/2025 21:51,Iași,5,"['Cola', 'Milkshake']",2,25,9.99,32,Card,4,FALSE
+100681,4/24/2025 22:32,Cluj-Napoca,17,"['Shaorma mare', 'Cartofi prăjiți', 'Kebab la farfurie']",3,76,9.99,15,Card,5,FALSE
+100682,4/25/2025 12:53,Cluj-Napoca,16,['Înghețată'],1,15,9.99,37,Card,4,TRUE
+100683,4/25/2025 19:24,București,5,"['Cheeseburger', 'Onion rings']",2,51,9.99,47,Card,,FALSE
+100684,4/25/2025 21:08,Timișoara,5,['Burger Clasic'],1,34,7.99,31,Card,4,FALSE
+100685,4/25/2025 21:31,Timișoara,4,"['Cartofi prăjiți', 'Burger Clasic', 'Milkshake']",3,63,12.99,33,Card,4,FALSE
+100686,4/26/2025 10:02,București,14,"['Smoothie', 'Wrap cu pui']",2,49,7.99,28,Card,,FALSE
+100687,4/26/2025 14:24,Brașov,13,"['Salată Caesar', 'Smoothie']",2,52,9.99,22,Card,5,FALSE
+100688,4/26/2025 14:57,București,8,"['California Roll', 'Supă Miso', 'Sushi Mix 16 buc']",3,118,0,45,Card,5,FALSE
+100689,4/26/2025 18:56,București,3,['Pizza Margherita'],1,32,9.99,32,Card,3,FALSE
+100690,4/26/2025 19:11,București,11,"['Mici cu muștar (5 buc)', 'Șnițel cu piure']",2,68,7.99,49,Card,4,FALSE
+100691,4/26/2025 21:19,Iași,12,['Șnițel cu piure'],1,38,9.99,,Card,,FALSE
+100692,4/26/2025 21:43,Cluj-Napoca,17,"['Shaorma medie', 'Cartofi prăjiți', 'Ayran', 'Shaorma mare']",4,72,12.99,12,Card,5,FALSE
+100693,4/26/2025 23:19,Timișoara,3,"['Focaccia', 'Pizza Capricciosa']",2,59,9.99,21,Cash,4,TRUE
+100694,4/27/2025 10:10,București,17,"['Falafel wrap', 'Ayran']",2,32,7.99,26,Card,5,FALSE
+100695,4/27/2025 12:49,Timișoara,11,"['Sarmale cu mămăligă', 'Șnițel cu piure']",2,74,12.99,31,Card,5,TRUE
+100696,4/27/2025 16:14,București,16,"['Papanași', 'Waffle cu fructe']",2,50,9.99,39,Card,,FALSE
+100697,4/27/2025 23:17,Cluj-Napoca,13,"['Smoothie', 'Bowl cu somon', 'Wrap cu pui', 'Salată Caesar']",4,131,0,13,Card,,FALSE
+100698,4/28/2025 12:40,Timișoara,7,"['California Roll', 'Pad Thai', 'Sushi Mix 16 buc', 'Ceai verde']",4,153,0,41,Cash,4,FALSE
+100699,4/28/2025 13:48,București,11,['Șnițel cu piure'],1,38,7.99,42,Cash,4,FALSE
+100700,4/28/2025 14:46,Timișoara,2,"['Pizza Margherita', 'Tiramisu', 'Pizza Diavola', 'Pizza Capricciosa']",4,131,0,30,Card,5,FALSE
+100701,4/28/2025 15:47,Cluj-Napoca,5,"['Cheeseburger', 'Onion rings']",2,51,9.99,25,Card,4,FALSE
+100702,4/28/2025 19:17,București,15,"['Clătite cu ciocolată', 'Papanași']",2,45,7.99,46,Card,4,FALSE
+100703,4/29/2025 10:23,Cluj-Napoca,1,['Pizza Quattro Formaggi'],1,42,9.99,15,Cash,,FALSE
+100704,4/29/2025 16:54,Timișoara,1,"['Pizza Quattro Formaggi', 'Cola']",2,50,7.99,22,Card,,TRUE
+100705,4/29/2025 20:04,Timișoara,1,"['Pizza Margherita', 'Tiramisu', 'Pizza Capricciosa']",3,92,12.99,24,Cash,,TRUE
+100706,4/30/2025 20:30,București,5,['Burger BBQ'],1,42,7.99,40,Card,4,FALSE
+100707,4/30/2025 21:24,Timișoara,3,['Tiramisu'],1,19,7.99,39,Card,5,FALSE
+100708,4/30/2025 22:25,Cluj-Napoca,8,"['California Roll', 'Sushi Mix 16 buc']",2,103,0,12,Card,,FALSE
+100709,5/1/2025 14:31,București,18,"['Ayran', 'Shaorma medie']",2,31,7.99,34,Card,,FALSE
+100710,5/1/2025 18:39,Brașov,7,"['Supă Miso', 'Ceai verde', 'Noodles cu pui']",3,60,12.99,20,Cash,5,FALSE
+100711,5/1/2025 18:45,Cluj-Napoca,3,"['Tiramisu', 'Pizza Diavola', 'Pizza Margherita', 'Pizza Quattro Formaggi']",4,132,0,22,Card,5,FALSE
+100712,5/1/2025 19:20,București,14,"['Bowl cu somon', 'Salată Caesar', 'Apă plată', 'Smoothie']",4,106,0,37,Card,,FALSE
+100713,5/1/2025 22:04,Timișoara,18,"['Cartofi prăjiți', 'Ayran', 'Shaorma medie']",3,43,12.99,21,Card,5,FALSE
+100714,5/1/2025 23:06,Cluj-Napoca,18,"['Shaorma mare', 'Shaorma medie']",2,53,7.99,13,Card,5,FALSE
+100715,5/2/2025 17:15,București,1,['Pizza Margherita'],1,32,12.99,44,Card,3,FALSE
+100716,5/3/2025 18:28,București,1,['Pizza Capricciosa'],1,41,7.99,40,Card,4,FALSE
+100717,5/3/2025 18:48,Cluj-Napoca,17,"['Cartofi prăjiți', 'Shaorma mare']",2,41,7.99,23,Card,5,FALSE
+100718,5/4/2025 10:23,București,4,"['Cola', 'Cartofi prăjiți']",2,20,9.99,21,Cash,5,FALSE
+100719,5/4/2025 12:20,Cluj-Napoca,12,"['Ciorbă de burtă', 'Sarmale cu mămăligă']",2,58,9.99,28,Card,4,FALSE
+100720,5/4/2025 19:55,București,17,"['Kebab la farfurie', 'Shaorma medie']",2,59,7.99,41,Cash,5,FALSE
+100721,5/5/2025 13:16,București,9,"['Pad Thai', 'Ceai verde']",2,50,7.99,54,Cash,4,TRUE
+100722,5/5/2025 14:35,Cluj-Napoca,6,"['Milkshake', 'Cheeseburger', 'Burger Clasic']",3,88,7.99,12,Card,,FALSE
+100723,5/5/2025 15:23,București,4,"['Cola', 'Burger Clasic', 'Cheeseburger']",3,79,12.99,24,Cash,5,TRUE
+100724,5/5/2025 19:14,Cluj-Napoca,3,"['Pizza Margherita', 'Cola']",2,40,9.99,21,Cash,4,FALSE
+100725,5/5/2025 19:59,București,5,"['Burger Clasic', 'Milkshake']",2,51,7.99,33,Card,3,FALSE
+100726,5/5/2025 20:44,Cluj-Napoca,1,"['Pizza Capricciosa', 'Pizza Margherita']",2,73,7.99,35,Card,4,FALSE
+100727,5/5/2025 20:54,București,7,"['Supă Miso', 'Ceai verde']",2,24,7.99,32,Cash,5,FALSE
+100728,5/5/2025 21:13,București,14,['Wrap cu pui'],1,31,9.99,41,Cash,4,FALSE
+100729,5/5/2025 21:37,București,6,"['Onion rings', 'Cartofi prăjiți', 'Burger BBQ']",3,68,9.99,31,Card,,FALSE
+100730,5/6/2025 12:20,Iași,17,"['Cartofi prăjiți', 'Shaorma medie', 'Shaorma mare']",3,65,7.99,21,Card,4,FALSE
+100731,5/6/2025 12:50,Cluj-Napoca,1,['Focaccia'],1,18,9.99,15,Cash,,FALSE
+100732,5/6/2025 14:13,Brașov,1,"['Pizza Diavola', 'Pizza Quattro Formaggi']",2,81,12.99,19,Card,4,FALSE
+100733,5/6/2025 15:47,Cluj-Napoca,17,"['Cartofi prăjiți', 'Ayran', 'Shaorma mare']",3,48,9.99,30,Card,3,FALSE
+100734,5/6/2025 16:05,Brașov,2,['Pizza Margherita'],1,32,12.99,22,Cash,,FALSE
+100735,5/6/2025 19:17,București,2,"['Pizza Quattro Formaggi', 'Pizza Margherita']",2,74,7.99,27,Card,,FALSE
+100736,5/6/2025 20:05,Iași,13,"['Apă plată', 'Bowl cu somon', 'Wrap cu pui']",3,85,9.99,40,Cash,,FALSE
+100737,5/7/2025 12:06,Brașov,16,"['Clătite cu ciocolată', 'Înghețată']",2,36,7.99,21,Card,5,FALSE
+100738,5/7/2025 12:15,București,11,['Papanași'],1,24,7.99,48,Card,,FALSE
+100739,5/7/2025 12:57,București,8,"['Pad Thai', 'Supă Miso', 'Ceai verde', 'Sushi Mix 16 buc']",4,130,0,43,Card,4,FALSE
+100740,5/7/2025 15:22,Cluj-Napoca,6,"['Onion rings', 'Burger Clasic']",2,48,7.99,12,Card,4,FALSE
+100741,5/7/2025 16:21,București,4,['Cola'],1,8,12.99,27,Card,4,FALSE
+100742,5/7/2025 16:34,București,8,['Pad Thai'],1,41,12.99,35,Cash,5,TRUE
+100743,5/7/2025 18:48,București,18,"['Shaorma medie', 'Kebab la farfurie']",2,59,9.99,33,Card,5,FALSE
+100744,5/7/2025 20:04,Cluj-Napoca,3,"['Cola', 'Tiramisu']",2,27,12.99,35,Card,4,FALSE
+100745,5/8/2025 12:43,Timișoara,6,['Burger Clasic'],1,34,9.99,37,Card,,FALSE
+100746,5/8/2025 13:12,Timișoara,4,['Cola'],1,8,9.99,32,Cash,,FALSE
+100747,5/8/2025 13:12,București,3,['Tiramisu'],1,19,7.99,47,Card,4,FALSE
+100748,5/8/2025 19:21,București,3,"['Pizza Capricciosa', 'Pizza Diavola', 'Focaccia']",3,98,7.99,45,Cash,,FALSE
+100749,5/8/2025 19:41,București,10,"['Ciorbă de burtă', 'Limonadă', 'Mici cu muștar (5 buc)']",3,64,9.99,46,Card,4,FALSE
+100750,5/8/2025 19:58,Cluj-Napoca,5,"['Burger BBQ', 'Cartofi prăjiți']",2,54,7.99,36,Card,3,FALSE
+100751,5/8/2025 21:21,Cluj-Napoca,8,"['Noodles cu pui', 'California Roll', 'Ceai verde']",3,83,9.99,31,Cash,,FALSE
+100752,5/8/2025 23:05,Iași,13,"['Bowl vegan', 'Smoothie']",2,57,12.99,12,Cash,,TRUE
+100753,5/9/2025 12:14,București,4,['Burger Clasic'],1,34,9.99,43,Card,4,FALSE
+100754,5/9/2025 18:56,Timișoara,7,"['Sushi Mix 16 buc', 'Noodles cu pui', 'California Roll']",3,139,0,26,Cash,5,TRUE
+100755,5/9/2025 21:58,București,18,['Kebab la farfurie'],1,35,9.99,49,Card,4,TRUE
+100756,5/9/2025 22:27,Iași,3,"['Pizza Diavola', 'Tiramisu']",2,58,12.99,24,Card,5,FALSE
+100757,5/10/2025 12:03,Cluj-Napoca,3,['Cola'],1,8,9.99,28,Card,5,FALSE
+100758,5/10/2025 13:49,Timișoara,6,['Cola'],1,8,9.99,21,Card,5,FALSE
+100759,5/10/2025 20:39,Brașov,2,"['Pizza Diavola', 'Cola', 'Focaccia', 'Pizza Quattro Formaggi']",4,107,0,27,Card,5,TRUE
+100760,5/10/2025 21:09,Iași,17,"['Shaorma mare', 'Ayran', 'Cartofi prăjiți']",3,48,9.99,34,Card,3,TRUE
+100761,5/10/2025 21:33,Iași,12,"['Papanași', 'Limonadă']",2,36,12.99,39,Card,,FALSE
+100762,5/11/2025 12:00,București,15,"['Cafea', 'Clătite cu ciocolată', 'Înghețată']",3,46,9.99,39,Card,4,FALSE
+100763,5/11/2025 13:05,Timișoara,12,"['Sarmale cu mămăligă', 'Mici cu muștar (5 buc)']",2,66,7.99,35,Card,,FALSE
+100764,5/11/2025 15:00,București,5,"['Onion rings', 'Burger Clasic']",2,48,12.99,30,Card,,FALSE
+100765,5/11/2025 21:09,București,2,"['Cola', 'Tiramisu']",2,27,9.99,,Cash,,TRUE
+100766,5/11/2025 21:14,Cluj-Napoca,5,"['Burger BBQ', 'Onion rings']",2,56,7.99,30,Cash,,FALSE
+100767,5/12/2025 12:51,Brașov,1,['Cola'],1,8,12.99,43,Card,4,FALSE
+100768,5/13/2025 12:19,Timișoara,13,"['Salată Caesar', 'Wrap cu pui']",2,65,7.99,23,Card,4,FALSE
+100769,5/13/2025 12:33,București,1,"['Pizza Margherita', 'Tiramisu']",2,51,7.99,43,Card,,TRUE
+100770,5/13/2025 13:42,Timișoara,17,"['Ayran', 'Falafel wrap']",2,32,7.99,21,Card,,FALSE
+100771,5/13/2025 14:13,Iași,16,"['Cafea', 'Cheesecake']",2,33,7.99,12,Cash,,FALSE
+100772,5/13/2025 15:28,Timișoara,9,"['Noodles cu pui', 'California Roll']",2,74,12.99,24,Cash,5,FALSE
+100773,5/13/2025 19:00,București,9,"['Noodles cu pui', 'Supă Miso']",2,51,9.99,41,Card,3,FALSE
+100774,5/13/2025 20:42,Cluj-Napoca,13,"['Smoothie', 'Bowl cu somon', 'Apă plată']",3,72,7.99,24,Cash,4,FALSE
+100775,5/14/2025 17:25,București,12,"['Sarmale cu mămăligă', 'Ciorbă de burtă', 'Limonadă', 'Șnițel cu piure']",4,108,0,27,Card,4,FALSE
+100776,5/14/2025 18:21,Brașov,5,"['Cartofi prăjiți', 'Cheeseburger']",2,49,9.99,31,Card,,TRUE
+100777,5/15/2025 11:15,București,2,['Focaccia'],1,18,9.99,33,Card,3,TRUE
+100778,5/15/2025 13:38,Brașov,8,"['Ceai verde', 'Supă Miso']",2,24,9.99,45,Cash,3,FALSE
+100779,5/15/2025 14:56,Cluj-Napoca,18,['Kebab la farfurie'],1,35,9.99,15,Card,,FALSE
+100780,5/15/2025 19:39,Cluj-Napoca,8,"['Sushi Mix 16 buc', 'Noodles cu pui']",2,101,0,35,Cash,,FALSE
+100781,5/15/2025 21:39,București,3,"['Pizza Quattro Formaggi', 'Cola']",2,50,7.99,36,Card,,TRUE
+100782,5/15/2025 21:57,Cluj-Napoca,13,"['Apă plată', 'Wrap cu pui']",2,37,12.99,28,Card,,TRUE
+100783,5/16/2025 13:25,Brașov,17,"['Kebab la farfurie', 'Cartofi prăjiți']",2,47,7.99,24,Cash,4,FALSE
+100784,5/16/2025 14:39,București,17,"['Shaorma mare', 'Ayran']",2,36,9.99,30,Card,,FALSE
+100785,5/16/2025 20:23,București,4,"['Burger BBQ', 'Onion rings']",2,56,12.99,48,Card,4,FALSE
+100786,5/16/2025 20:37,Iași,3,"['Pizza Capricciosa', 'Pizza Margherita']",2,73,7.99,31,Card,,FALSE
+100787,5/17/2025 13:26,București,3,"['Cola', 'Pizza Margherita', 'Pizza Diavola']",3,79,7.99,52,Cash,3,TRUE
+100788,5/17/2025 13:49,Iași,13,['Apă plată'],1,6,9.99,25,Card,5,TRUE
+100789,5/17/2025 14:21,Timișoara,2,"['Focaccia', 'Pizza Margherita']",2,50,9.99,22,Card,4,FALSE
+100790,5/17/2025 14:43,București,4,"['Cola', 'Cheeseburger']",2,45,12.99,28,Card,5,FALSE
+100791,5/17/2025 18:03,Cluj-Napoca,11,"['Șnițel cu piure', 'Sarmale cu mămăligă']",2,74,7.99,40,Card,,FALSE
+100792,5/17/2025 19:49,Timișoara,18,"['Kebab la farfurie', 'Ayran', 'Shaorma mare']",3,71,7.99,30,Card,,TRUE
+100793,5/17/2025 20:05,Timișoara,11,"['Mici cu muștar (5 buc)', 'Papanași', 'Șnițel cu piure']",3,92,7.99,36,Card,4,FALSE
+100794,5/17/2025 21:19,Timișoara,4,"['Burger BBQ', 'Cola', 'Milkshake']",3,67,12.99,34,Card,,FALSE
+100795,5/17/2025 21:59,București,5,"['Onion rings', 'Milkshake']",2,31,9.99,44,Card,,TRUE
+100796,5/17/2025 22:44,București,15,"['Clătite cu ciocolată', 'Papanași', 'Cheesecake']",3,68,7.99,21,Card,,FALSE
+100797,5/18/2025 12:14,Timișoara,14,"['Bowl vegan', 'Salată Caesar', 'Smoothie']",3,91,7.99,31,Card,4,FALSE
+100798,5/18/2025 19:26,București,9,"['Sushi Mix 16 buc', 'Supă Miso', 'Ceai verde']",3,89,9.99,31,Card,4,FALSE
+100799,5/18/2025 20:34,București,1,"['Cola', 'Focaccia', 'Pizza Diavola']",3,65,12.99,42,Card,4,FALSE
+100800,5/18/2025 21:23,București,18,"['Cartofi prăjiți', 'Kebab la farfurie', 'Shaorma medie']",3,71,7.99,30,Card,4,FALSE
+100801,5/18/2025 23:25,București,16,"['Cafea', 'Clătite cu ciocolată']",2,31,7.99,33,Card,4,TRUE
+100802,5/19/2025 11:36,București,6,['Milkshake'],1,17,7.99,32,Cash,5,FALSE
+100803,5/19/2025 12:01,București,17,['Ayran'],1,7,9.99,41,Card,4,FALSE
+100804,5/19/2025 14:20,Brașov,6,"['Cartofi prăjiți', 'Cola', 'Burger Clasic']",3,54,12.99,27,Cash,4,FALSE
+100805,5/19/2025 20:33,București,11,"['Sarmale cu mămăligă', 'Șnițel cu piure']",2,74,9.99,40,Card,4,FALSE
+100806,5/19/2025 20:59,București,14,"['Apă plată', 'Wrap cu pui', 'Salată Caesar']",3,71,9.99,40,Card,4,FALSE
+100807,5/20/2025 13:52,București,3,"['Cola', 'Pizza Margherita', 'Pizza Quattro Formaggi']",3,82,12.99,44,Cash,,FALSE
+100808,5/20/2025 20:19,București,6,"['Burger BBQ', 'Burger Clasic', 'Cheeseburger']",3,113,0,30,Card,5,FALSE
+100809,5/21/2025 12:35,București,3,"['Pizza Margherita', 'Pizza Capricciosa']",2,73,12.99,50,Card,3,FALSE
+100810,5/21/2025 19:51,Cluj-Napoca,13,"['Bowl vegan', 'Apă plată']",2,45,7.99,44,Card,4,FALSE
+100811,5/21/2025 21:25,Brașov,3,"['Pizza Quattro Formaggi', 'Pizza Margherita', 'Cola']",3,82,7.99,28,Card,,TRUE
+100812,5/22/2025 11:00,Cluj-Napoca,16,"['Waffle cu fructe', 'Înghețată', 'Papanași']",3,65,9.99,25,Cash,5,FALSE
+100813,5/22/2025 19:44,Iași,7,"['Noodles cu pui', 'Pad Thai']",2,77,9.99,37,Card,2,FALSE
+100814,5/23/2025 12:03,Iași,6,['Burger BBQ'],1,42,7.99,42,Cash,5,FALSE
+100815,5/23/2025 15:44,Timișoara,11,['Sarmale cu mămăligă'],1,36,9.99,26,Card,5,FALSE
+100816,5/23/2025 19:18,București,15,"['Papanași', 'Cafea']",2,34,9.99,48,Card,3,FALSE
+100817,5/23/2025 19:38,București,16,['Papanași'],1,24,9.99,41,Card,,FALSE
+100818,5/23/2025 19:55,București,2,"['Pizza Capricciosa', 'Pizza Diavola', 'Pizza Margherita']",3,112,0,25,Card,,TRUE
+100819,5/23/2025 20:08,Cluj-Napoca,2,"['Pizza Capricciosa', 'Pizza Diavola', 'Pizza Quattro Formaggi', 'Tiramisu']",4,141,0,19,Card,5,TRUE
+100820,5/23/2025 20:37,București,10,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă', 'Ciorbă de burtă', 'Papanași']",4,112,0,33,Cash,,TRUE
+100821,5/24/2025 14:25,Iași,17,"['Falafel wrap', 'Kebab la farfurie', 'Ayran', 'Cartofi prăjiți']",4,79,7.99,24,Cash,,FALSE
+100822,5/24/2025 17:38,Timișoara,1,"['Pizza Quattro Formaggi', 'Pizza Capricciosa']",2,83,9.99,32,Cash,4,FALSE
+100823,5/24/2025 19:19,București,9,"['Noodles cu pui', 'Supă Miso', 'California Roll']",3,89,7.99,54,Card,4,FALSE
+100824,5/24/2025 19:23,Brașov,16,"['Cheesecake', 'Înghețată', 'Cafea']",3,48,9.99,23,Cash,5,TRUE
+100825,5/24/2025 20:21,Cluj-Napoca,6,['Cola'],1,8,12.99,33,Card,3,FALSE
+100826,5/24/2025 20:53,Cluj-Napoca,2,"['Pizza Margherita', 'Pizza Capricciosa']",2,73,12.99,28,Card,4,FALSE
+100827,5/24/2025 21:24,Iași,2,['Tiramisu'],1,19,7.99,40,Cash,4,FALSE
+100828,5/24/2025 23:21,Timișoara,10,"['Papanași', 'Sarmale cu mămăligă', 'Limonadă']",3,72,9.99,15,Card,4,FALSE
+100829,5/24/2025 23:31,București,13,['Wrap cu pui'],1,31,7.99,28,Cash,,FALSE
+100830,5/25/2025 10:14,Iași,6,"['Cola', 'Onion rings', 'Milkshake']",3,39,7.99,29,Card,,FALSE
+100831,5/25/2025 13:06,Cluj-Napoca,11,"['Mici cu muștar (5 buc)', 'Șnițel cu piure']",2,68,9.99,28,Card,,FALSE
+100832,5/25/2025 13:47,Brașov,17,"['Kebab la farfurie', 'Cartofi prăjiți', 'Shaorma medie']",3,71,9.99,39,Cash,4,TRUE
+100833,5/25/2025 18:30,Brașov,10,['Șnițel cu piure'],1,38,7.99,27,Card,,FALSE
+100834,5/25/2025 21:06,Iași,9,['Sushi Mix 16 buc'],1,65,9.99,16,Card,,FALSE
+100835,5/25/2025 21:44,Timișoara,18,['Cartofi prăjiți'],1,12,12.99,27,Card,,FALSE
+100836,5/25/2025 21:54,București,7,"['Ceai verde', 'Pad Thai']",2,50,12.99,40,Card,4,FALSE
+100837,5/26/2025 18:40,Iași,12,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă']",2,66,9.99,28,Card,4,TRUE
+100838,5/26/2025 18:49,Iași,2,"['Cola', 'Pizza Diavola', 'Pizza Capricciosa']",3,88,9.99,,Card,,FALSE
+100839,5/26/2025 19:37,Cluj-Napoca,15,"['Cafea', 'Înghețată']",2,25,9.99,27,Card,5,TRUE
+100840,5/26/2025 21:40,Timișoara,18,"['Shaorma mare', 'Kebab la farfurie']",2,64,9.99,37,Cash,4,FALSE
+100841,5/27/2025 11:07,București,8,"['Noodles cu pui', 'Pad Thai']",2,77,9.99,27,Cash,5,TRUE
+100842,5/27/2025 14:15,București,17,"['Kebab la farfurie', 'Ayran']",2,42,9.99,45,Card,5,FALSE
+100843,5/27/2025 15:57,Cluj-Napoca,1,"['Cola', 'Tiramisu']",2,27,9.99,28,Cash,,FALSE
+100844,5/27/2025 18:03,București,4,['Onion rings'],1,14,7.99,39,Cash,,FALSE
+100845,5/27/2025 20:56,București,3,"['Pizza Diavola', 'Cola', 'Focaccia']",3,65,9.99,32,Card,5,FALSE
+100846,5/28/2025 12:45,București,14,"['Smoothie', 'Bowl vegan']",2,57,7.99,40,Cash,4,TRUE
+100847,5/28/2025 15:01,București,5,"['Burger Clasic', 'Cheeseburger']",2,71,12.99,,Cash,5,FALSE
+100848,5/28/2025 19:45,Iași,8,"['Ceai verde', 'Pad Thai']",2,50,7.99,31,Card,,TRUE
+100849,5/28/2025 23:05,București,12,['Papanași'],1,24,9.99,32,Card,,FALSE
+100850,5/29/2025 12:33,Timișoara,13,['Wrap cu pui'],1,31,7.99,23,Card,,FALSE
+100851,5/29/2025 13:34,Timișoara,4,"['Onion rings', 'Cola', 'Burger Clasic']",3,56,7.99,23,Cash,5,FALSE
+100852,5/29/2025 15:00,Brașov,3,"['Pizza Margherita', 'Tiramisu', 'Pizza Capricciosa']",3,92,9.99,,Card,,FALSE
+100853,5/29/2025 15:44,Cluj-Napoca,6,"['Cheeseburger', 'Onion rings', 'Burger BBQ']",3,93,9.99,23,Cash,5,FALSE
+100854,5/29/2025 18:36,Iași,18,"['Cartofi prăjiți', 'Shaorma medie', 'Kebab la farfurie']",3,71,12.99,14,Cash,4,FALSE
+100855,5/30/2025 13:35,Timișoara,6,"['Cartofi prăjiți', 'Cheeseburger']",2,49,12.99,,Card,3,FALSE
+100856,5/30/2025 17:23,București,2,['Cola'],1,8,9.99,23,Card,5,FALSE
+100857,5/30/2025 18:11,București,13,['Salată Caesar'],1,34,7.99,31,Card,,FALSE
+100858,5/30/2025 19:13,Cluj-Napoca,3,"['Pizza Quattro Formaggi', 'Pizza Margherita']",2,74,7.99,30,Cash,5,FALSE
+100859,5/30/2025 19:58,Cluj-Napoca,5,"['Cartofi prăjiți', 'Cheeseburger', 'Milkshake']",3,66,7.99,25,Card,,FALSE
+100860,5/30/2025 21:15,Brașov,15,"['Waffle cu fructe', 'Înghețată', 'Cafea', 'Papanași']",4,75,9.99,29,Card,,FALSE
+100861,5/30/2025 22:33,Iași,7,['Ceai verde'],1,9,9.99,22,Card,5,FALSE
+100862,5/31/2025 12:02,București,6,"['Cola', 'Cheeseburger']",2,45,9.99,28,Cash,5,FALSE
+100863,5/31/2025 12:13,Brașov,11,"['Șnițel cu piure', 'Ciorbă de burtă']",2,60,7.99,37,Card,4,FALSE
+100864,5/31/2025 15:27,Brașov,2,['Pizza Capricciosa'],1,41,12.99,21,Cash,5,FALSE
+100865,5/31/2025 21:07,Iași,18,"['Shaorma medie', 'Kebab la farfurie', 'Cartofi prăjiți']",3,71,9.99,33,Card,,FALSE
+100866,5/31/2025 22:27,Timișoara,5,"['Cola', 'Onion rings']",2,22,7.99,31,Card,4,TRUE
+100867,5/31/2025 23:21,Timișoara,17,"['Kebab la farfurie', 'Shaorma medie']",2,59,7.99,25,Card,,FALSE
+100868,6/1/2025 10:45,Timișoara,10,"['Ciorbă de burtă', 'Limonadă', 'Mici cu muștar (5 buc)', 'Papanași']",4,88,7.99,31,Cash,,FALSE
+100869,6/1/2025 12:22,București,14,['Bowl vegan'],1,39,12.99,44,Card,,TRUE
+100870,6/1/2025 12:40,Iași,10,['Mici cu muștar (5 buc)'],1,30,9.99,42,Card,,FALSE
+100871,6/1/2025 14:19,Cluj-Napoca,3,['Cola'],1,8,12.99,25,Cash,4,FALSE
+100872,6/1/2025 14:37,Brașov,4,"['Milkshake', 'Onion rings']",2,31,9.99,12,Cash,4,FALSE
+100873,6/1/2025 18:51,Timișoara,3,['Pizza Margherita'],1,32,12.99,31,Card,4,FALSE
+100874,6/1/2025 20:10,Cluj-Napoca,8,"['Supă Miso', 'Pad Thai']",2,56,12.99,31,Card,,TRUE
+100875,6/2/2025 13:24,Cluj-Napoca,3,"['Cola', 'Pizza Capricciosa']",2,49,12.99,24,Card,5,FALSE
+100876,6/3/2025 11:05,Timișoara,18,"['Cartofi prăjiți', 'Shaorma medie']",2,36,7.99,22,Card,4,TRUE
+100877,6/3/2025 15:05,București,8,"['Noodles cu pui', 'Ceai verde', 'Supă Miso', 'Pad Thai']",4,101,0,40,Card,5,TRUE
+100878,6/3/2025 16:44,București,4,"['Burger BBQ', 'Cola', 'Cartofi prăjiți']",3,62,7.99,18,Card,4,FALSE
+100879,6/3/2025 19:38,București,11,['Papanași'],1,24,9.99,36,Card,4,FALSE
+100880,6/3/2025 21:07,Iași,9,['Ceai verde'],1,9,7.99,29,Card,,TRUE
+100881,6/3/2025 21:20,Brașov,6,"['Onion rings', 'Milkshake', 'Cheeseburger']",3,68,9.99,24,Cash,4,TRUE
+100882,6/4/2025 12:49,Brașov,4,"['Burger BBQ', 'Onion rings']",2,56,7.99,36,Cash,4,FALSE
+100883,6/4/2025 13:27,Timișoara,18,"['Shaorma mare', 'Shaorma medie', 'Cartofi prăjiți']",3,65,7.99,40,Card,4,FALSE
+100884,6/4/2025 13:32,București,18,"['Falafel wrap', 'Ayran']",2,32,9.99,45,Cash,5,FALSE
+100885,6/4/2025 17:11,Cluj-Napoca,13,['Apă plată'],1,6,7.99,28,Cash,,FALSE
+100886,6/4/2025 17:39,București,18,"['Cartofi prăjiți', 'Kebab la farfurie']",2,47,9.99,35,Card,,FALSE
+100887,6/5/2025 18:49,Cluj-Napoca,18,"['Falafel wrap', 'Shaorma mare', 'Kebab la farfurie', 'Ayran']",4,96,12.99,21,Cash,4,FALSE
+100888,6/5/2025 21:05,Cluj-Napoca,17,"['Falafel wrap', 'Shaorma medie', 'Ayran']",3,56,12.99,29,Card,4,TRUE
+100889,6/5/2025 21:36,București,4,['Cheeseburger'],1,37,9.99,35,Card,,FALSE
+100890,6/5/2025 22:07,București,14,"['Bowl cu somon', 'Apă plată', 'Wrap cu pui']",3,85,9.99,18,Cash,,FALSE
+100891,6/6/2025 10:53,București,7,['California Roll'],1,38,7.99,30,Cash,4,FALSE
+100892,6/6/2025 12:28,București,11,"['Sarmale cu mămăligă', 'Șnițel cu piure', 'Limonadă']",3,86,9.99,59,Cash,2,FALSE
+100893,6/6/2025 13:35,Timișoara,18,"['Cartofi prăjiți', 'Shaorma mare', 'Shaorma medie']",3,65,7.99,27,Card,5,FALSE
+100894,6/6/2025 16:02,București,5,"['Cheeseburger', 'Cola', 'Cartofi prăjiți']",3,57,7.99,33,Cash,,FALSE
+100895,6/6/2025 18:40,Cluj-Napoca,6,['Onion rings'],1,14,7.99,16,Card,,TRUE
+100896,6/6/2025 20:47,Iași,10,"['Limonadă', 'Mici cu muștar (5 buc)']",2,42,9.99,40,Cash,,TRUE
+100897,6/6/2025 21:14,București,11,"['Ciorbă de burtă', 'Mici cu muștar (5 buc)', 'Limonadă']",3,64,9.99,45,Card,5,FALSE
+100898,6/6/2025 22:46,Iași,2,"['Focaccia', 'Tiramisu', 'Pizza Capricciosa']",3,78,7.99,26,Card,,FALSE
+100899,6/7/2025 14:14,Timișoara,13,"['Salată Caesar', 'Wrap cu pui']",2,65,12.99,28,Card,,FALSE
+100900,6/7/2025 16:05,Brașov,7,['California Roll'],1,38,7.99,32,Card,4,FALSE
+100901,6/7/2025 19:22,București,1,"['Pizza Diavola', 'Tiramisu', 'Pizza Capricciosa']",3,99,7.99,45,Card,4,FALSE
+100902,6/7/2025 19:40,București,2,"['Pizza Quattro Formaggi', 'Tiramisu']",2,61,9.99,47,Card,3,TRUE
+100903,6/7/2025 20:47,Iași,8,"['California Roll', 'Noodles cu pui', 'Pad Thai']",3,115,0,39,Card,4,FALSE
+100904,6/8/2025 12:29,București,2,"['Focaccia', 'Pizza Diavola', 'Pizza Margherita', 'Tiramisu']",4,108,0,40,Card,3,FALSE
+100905,6/8/2025 13:11,Brașov,14,"['Wrap cu pui', 'Bowl vegan', 'Apă plată']",3,76,9.99,31,Card,,FALSE
+100906,6/8/2025 13:18,București,1,['Pizza Diavola'],1,39,9.99,36,Card,4,FALSE
+100907,6/8/2025 14:27,Iași,1,['Pizza Diavola'],1,39,7.99,22,Card,,FALSE
+100908,6/8/2025 18:15,Iași,3,"['Pizza Diavola', 'Pizza Capricciosa']",2,80,7.99,23,Cash,,FALSE
+100909,6/8/2025 18:20,Cluj-Napoca,14,"['Salată Caesar', 'Apă plată']",2,40,7.99,30,Cash,4,FALSE
+100910,6/8/2025 18:39,București,12,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă', 'Papanași']",3,90,9.99,44,Card,,TRUE
+100911,6/8/2025 19:24,Timișoara,2,"['Pizza Capricciosa', 'Pizza Quattro Formaggi']",2,83,9.99,44,Card,,FALSE
+100912,6/8/2025 20:27,București,1,"['Focaccia', 'Pizza Capricciosa', 'Pizza Quattro Formaggi', 'Tiramisu']",4,120,0,41,Cash,,FALSE
+100913,6/8/2025 21:17,Cluj-Napoca,2,['Tiramisu'],1,19,7.99,17,Card,5,FALSE
+100914,6/8/2025 23:06,București,14,"['Bowl cu somon', 'Wrap cu pui', 'Salată Caesar']",3,113,0,21,Card,,FALSE
+100915,6/9/2025 15:16,București,1,"['Pizza Margherita', 'Pizza Diavola']",2,71,9.99,21,Card,5,FALSE
+100916,6/9/2025 15:27,Iași,17,"['Falafel wrap', 'Shaorma medie']",2,49,7.99,15,Card,4,FALSE
+100917,6/9/2025 17:03,București,17,['Cartofi prăjiți'],1,12,9.99,16,Card,,FALSE
+100918,6/9/2025 18:47,București,4,['Cheeseburger'],1,37,7.99,36,Card,3,FALSE
+100919,6/11/2025 11:39,București,15,"['Înghețată', 'Papanași', 'Waffle cu fructe']",3,65,7.99,39,Cash,4,TRUE
+100920,6/11/2025 18:20,București,13,"['Bowl vegan', 'Bowl cu somon', 'Wrap cu pui']",3,118,0,28,Cash,,TRUE
+100921,6/11/2025 18:44,București,4,"['Milkshake', 'Cheeseburger']",2,54,12.99,32,Card,5,FALSE
+100922,6/12/2025 12:07,București,10,"['Sarmale cu mămăligă', 'Șnițel cu piure', 'Papanași']",3,98,12.99,36,Cash,,FALSE
+100923,6/12/2025 12:53,București,12,['Papanași'],1,24,12.99,43,Cash,4,FALSE
+100924,6/12/2025 13:30,Cluj-Napoca,16,"['Cheesecake', 'Waffle cu fructe', 'Clătite cu ciocolată']",3,70,12.99,30,Card,,FALSE
+100925,6/12/2025 16:33,București,5,"['Burger Clasic', 'Burger BBQ', 'Cheeseburger', 'Cola']",4,121,0,22,Cash,,FALSE
+100926,6/12/2025 18:06,Brașov,7,"['Ceai verde', 'Noodles cu pui']",2,45,9.99,21,Cash,5,FALSE
+100927,6/12/2025 19:59,Timișoara,2,"['Pizza Margherita', 'Tiramisu', 'Focaccia']",3,69,7.99,41,Card,,FALSE
+100928,6/12/2025 20:17,București,2,"['Pizza Capricciosa', 'Cola']",2,49,7.99,47,Card,,FALSE
+100929,6/12/2025 21:16,București,3,['Tiramisu'],1,19,7.99,49,Card,,FALSE
+100930,6/13/2025 19:52,București,14,['Smoothie'],1,18,12.99,50,Cash,3,TRUE
+100931,6/13/2025 20:25,București,8,"['Ceai verde', 'California Roll', 'Sushi Mix 16 buc']",3,112,0,44,Card,4,FALSE
+100932,6/14/2025 12:50,Iași,6,"['Onion rings', 'Cola']",2,22,9.99,29,Cash,5,FALSE
+100933,6/14/2025 21:28,București,12,"['Limonadă', 'Sarmale cu mămăligă']",2,48,9.99,50,Cash,,TRUE
+100934,6/14/2025 21:44,Cluj-Napoca,15,"['Waffle cu fructe', 'Cheesecake']",2,49,7.99,21,Cash,,FALSE
+100935,6/14/2025 22:08,București,5,['Milkshake'],1,17,9.99,35,Card,4,FALSE
+100936,6/14/2025 23:04,Cluj-Napoca,7,"['Pad Thai', 'Noodles cu pui', 'Sushi Mix 16 buc']",3,142,0,23,Cash,5,FALSE
+100937,6/16/2025 12:06,București,6,"['Cheeseburger', 'Cola']",2,45,9.99,44,Card,4,TRUE
+100938,6/16/2025 18:20,Cluj-Napoca,3,"['Cola', 'Pizza Capricciosa']",2,49,12.99,27,Card,,FALSE
+100939,6/17/2025 18:24,București,18,['Ayran'],1,7,7.99,27,Card,4,FALSE
+100940,6/17/2025 20:51,București,10,['Papanași'],1,24,7.99,48,Card,3,FALSE
+100941,6/18/2025 13:00,Iași,10,"['Sarmale cu mămăligă', 'Mici cu muștar (5 buc)', 'Ciorbă de burtă']",3,88,9.99,33,Cash,5,FALSE
+100942,6/18/2025 13:38,Cluj-Napoca,2,"['Cola', 'Pizza Margherita', 'Pizza Capricciosa', 'Pizza Quattro Formaggi']",4,123,0,32,Card,5,FALSE
+100943,6/19/2025 11:22,Iași,9,"['Ceai verde', 'Sushi Mix 16 buc']",2,74,9.99,,Cash,4,FALSE
+100944,6/19/2025 12:01,Cluj-Napoca,2,"['Pizza Margherita', 'Cola', 'Tiramisu']",3,59,9.99,22,Cash,4,TRUE
+100945,6/19/2025 17:23,București,4,"['Milkshake', 'Cheeseburger']",2,54,7.99,35,Cash,,FALSE
+100946,6/19/2025 17:46,București,14,['Apă plată'],1,6,9.99,35,Card,,FALSE
+100947,6/19/2025 18:49,București,18,"['Shaorma mare', 'Cartofi prăjiți']",2,41,7.99,43,Card,3,FALSE
+100948,6/19/2025 19:31,București,1,"['Pizza Diavola', 'Pizza Quattro Formaggi', 'Pizza Margherita', 'Cola']",4,121,0,39,Card,5,FALSE
+100949,6/19/2025 20:14,Brașov,15,"['Papanași', 'Cafea', 'Waffle cu fructe']",3,60,7.99,38,Cash,,FALSE
+100950,6/19/2025 21:27,București,14,"['Smoothie', 'Salată Caesar']",2,52,9.99,29,Card,,FALSE
+100951,6/19/2025 22:45,Brașov,2,"['Cola', 'Focaccia']",2,26,9.99,23,Card,4,FALSE
+100952,6/19/2025 23:47,București,16,['Cheesecake'],1,23,12.99,31,Card,4,FALSE
+100953,6/20/2025 12:10,Timișoara,1,"['Pizza Margherita', 'Cola']",2,40,12.99,33,Card,4,FALSE
+100954,6/20/2025 13:14,Cluj-Napoca,7,"['Supă Miso', 'Ceai verde', 'California Roll']",3,62,12.99,23,Card,5,FALSE
+100955,6/20/2025 16:13,București,2,"['Focaccia', 'Pizza Diavola', 'Cola']",3,65,7.99,31,Card,,TRUE
+100956,6/20/2025 17:10,Cluj-Napoca,8,['California Roll'],1,38,9.99,26,Card,4,TRUE
+100957,6/20/2025 18:19,Cluj-Napoca,2,"['Pizza Capricciosa', 'Pizza Quattro Formaggi']",2,83,7.99,25,Cash,5,FALSE
+100958,6/20/2025 21:39,Iași,6,"['Onion rings', 'Burger BBQ']",2,56,9.99,31,Card,5,FALSE
+100959,6/20/2025 22:26,Iași,15,"['Cheesecake', 'Papanași']",2,47,12.99,33,Card,3,FALSE
+100960,6/21/2025 13:00,Brașov,13,"['Smoothie', 'Salată Caesar', 'Apă plată']",3,58,9.99,30,Card,,FALSE
+100961,6/21/2025 17:53,București,12,['Sarmale cu mămăligă'],1,36,7.99,37,Card,4,FALSE
+100962,6/22/2025 14:39,București,12,"['Papanași', 'Șnițel cu piure', 'Limonadă']",3,74,12.99,26,Card,,TRUE
+100963,6/23/2025 10:19,Iași,18,"['Cartofi prăjiți', 'Falafel wrap']",2,37,7.99,24,Card,5,FALSE
+100964,6/23/2025 15:14,București,7,"['California Roll', 'Ceai verde']",2,47,9.99,36,Card,4,FALSE
+100965,6/23/2025 20:00,Iași,12,['Ciorbă de burtă'],1,22,9.99,28,Card,5,FALSE
+100966,6/23/2025 20:59,București,4,"['Onion rings', 'Burger Clasic', 'Burger BBQ']",3,90,7.99,42,Card,4,TRUE
+100967,6/24/2025 12:22,București,18,['Shaorma medie'],1,24,7.99,36,Cash,5,FALSE
+100968,6/24/2025 20:51,București,1,"['Tiramisu', 'Pizza Diavola']",2,58,12.99,38,Cash,4,TRUE
+100969,6/25/2025 13:03,Iași,17,['Kebab la farfurie'],1,35,7.99,32,Cash,5,FALSE
+100970,6/25/2025 19:53,Brașov,6,['Milkshake'],1,17,12.99,35,Card,,FALSE
+100971,6/26/2025 12:42,Iași,9,"['Ceai verde', 'Sushi Mix 16 buc', 'Supă Miso']",3,89,7.99,19,Card,4,FALSE
+100972,6/26/2025 13:53,București,15,"['Clătite cu ciocolată', 'Cheesecake', 'Papanași']",3,68,7.99,42,Card,4,FALSE
+100973,6/26/2025 14:46,Iași,15,"['Clătite cu ciocolată', 'Înghețată']",2,36,12.99,21,Cash,5,FALSE
+100974,6/26/2025 16:41,Brașov,8,['Noodles cu pui'],1,36,9.99,21,Cash,4,TRUE
+100975,6/26/2025 17:09,Brașov,2,"['Pizza Margherita', 'Focaccia']",2,50,9.99,31,Card,,FALSE
+100976,6/26/2025 18:57,București,18,"['Shaorma mare', 'Cartofi prăjiți', 'Kebab la farfurie']",3,76,9.99,28,Card,,FALSE
+100977,6/26/2025 19:26,București,8,['Sushi Mix 16 buc'],1,65,7.99,54,Card,3,FALSE
+100978,6/26/2025 20:28,București,1,"['Cola', 'Pizza Margherita', 'Tiramisu']",3,59,9.99,32,Card,5,FALSE
+100979,6/27/2025 11:34,Cluj-Napoca,2,"['Pizza Margherita', 'Tiramisu', 'Cola', 'Pizza Capricciosa']",4,100,0,23,Card,5,FALSE
+100980,6/27/2025 15:37,București,7,"['Noodles cu pui', 'California Roll']",2,74,12.99,34,Card,3,FALSE
+100981,6/27/2025 22:47,Brașov,2,"['Cola', 'Pizza Diavola']",2,47,7.99,22,Card,,FALSE
+100982,6/28/2025 12:35,București,17,"['Shaorma mare', 'Cartofi prăjiți', 'Ayran']",3,48,9.99,33,Cash,5,FALSE
+100983,6/28/2025 13:31,Timișoara,2,"['Cola', 'Focaccia', 'Tiramisu']",3,45,9.99,40,Card,4,FALSE
+100984,6/28/2025 14:57,București,12,['Ciorbă de burtă'],1,22,7.99,29,Card,5,FALSE
+100985,6/28/2025 18:10,București,9,"['Ceai verde', 'Sushi Mix 16 buc', 'California Roll']",3,112,0,33,Card,5,FALSE
+100986,6/29/2025 12:29,Iași,3,"['Pizza Capricciosa', 'Pizza Margherita', 'Tiramisu']",3,92,7.99,31,Card,4,FALSE
+100987,6/29/2025 18:34,București,11,['Papanași'],1,24,9.99,42,Cash,,TRUE
+100988,6/29/2025 20:55,Timișoara,14,['Smoothie'],1,18,7.99,27,Card,5,TRUE
+100989,6/29/2025 21:48,București,11,"['Mici cu muștar (5 buc)', 'Șnițel cu piure', 'Papanași']",3,92,12.99,64,Card,4,FALSE
+100990,6/29/2025 22:53,Iași,17,['Cartofi prăjiți'],1,12,9.99,20,Card,4,TRUE
+100991,6/30/2025 14:20,Brașov,2,"['Pizza Diavola', 'Pizza Margherita', 'Pizza Quattro Formaggi', 'Tiramisu']",4,132,0,12,Cash,4,FALSE
+100992,6/30/2025 14:32,București,15,"['Cheesecake', 'Înghețată', 'Cafea']",3,48,9.99,30,Cash,,FALSE
+100993,6/30/2025 14:39,București,8,['Pad Thai'],1,41,7.99,45,Card,5,FALSE
+100994,6/30/2025 15:16,Brașov,1,"['Cola', 'Pizza Diavola']",2,47,7.99,29,Card,4,FALSE
+100995,6/30/2025 17:03,București,1,['Tiramisu'],1,19,9.99,36,Card,,FALSE
+100996,7/1/2025 14:11,Cluj-Napoca,5,"['Cartofi prăjiți', 'Cheeseburger']",2,49,12.99,28,Cash,,FALSE
+100997,7/1/2025 17:10,Brașov,1,"['Focaccia', 'Tiramisu']",2,37,7.99,24,Card,5,TRUE
+100998,7/1/2025 20:38,București,13,"['Salată Caesar', 'Bowl cu somon', 'Bowl vegan', 'Apă plată']",4,127,0,37,Cash,5,FALSE
+100999,7/2/2025 19:29,București,18,"['Ayran', 'Kebab la farfurie', 'Cartofi prăjiți', 'Falafel wrap']",4,79,9.99,44,Card,4,FALSE
+101000,7/2/2025 21:24,Iași,1,"['Pizza Margherita', 'Tiramisu', 'Pizza Diavola', 'Focaccia']",4,108,0,38,Card,,TRUE
+101001,7/3/2025 10:38,București,8,"['Supă Miso', 'Pad Thai']",2,56,7.99,39,Card,,FALSE
+101002,7/3/2025 11:48,București,13,"['Bowl cu somon', 'Smoothie', 'Salată Caesar']",3,100,0,33,Card,4,FALSE
+101003,7/3/2025 12:31,București,3,"['Pizza Quattro Formaggi', 'Pizza Diavola']",2,81,7.99,41,Card,,FALSE
+101004,7/3/2025 13:39,Iași,6,['Cartofi prăjiți'],1,12,12.99,32,Cash,4,FALSE
+101005,7/3/2025 14:46,Brașov,4,['Cartofi prăjiți'],1,12,12.99,21,Card,4,FALSE
+101006,7/3/2025 15:37,Timișoara,4,['Milkshake'],1,17,12.99,18,Card,,FALSE
+101007,7/3/2025 19:35,București,6,"['Burger BBQ', 'Cola', 'Burger Clasic']",3,84,9.99,45,Card,4,TRUE
+101008,7/3/2025 20:18,Cluj-Napoca,17,"['Cartofi prăjiți', 'Shaorma mare', 'Shaorma medie']",3,65,7.99,20,Card,4,FALSE
+101009,7/3/2025 20:20,Brașov,15,['Clătite cu ciocolată'],1,21,7.99,21,Card,5,FALSE
+101010,7/4/2025 15:49,București,18,['Kebab la farfurie'],1,35,9.99,20,Card,5,FALSE
+101011,7/4/2025 17:45,Brașov,18,['Cartofi prăjiți'],1,12,9.99,21,Card,,TRUE
+101012,7/4/2025 19:38,București,7,['Ceai verde'],1,9,7.99,39,Cash,3,TRUE
+101013,7/4/2025 21:43,București,17,"['Ayran', 'Cartofi prăjiți']",2,19,7.99,34,Card,4,FALSE
+101014,7/5/2025 13:56,București,17,"['Ayran', 'Shaorma medie', 'Cartofi prăjiți']",3,43,7.99,36,Cash,4,TRUE
+101015,7/5/2025 15:34,Timișoara,18,"['Shaorma mare', 'Shaorma medie', 'Falafel wrap']",3,78,9.99,16,Cash,,TRUE
+101016,7/5/2025 15:40,Cluj-Napoca,9,"['Pad Thai', 'Noodles cu pui']",2,77,7.99,25,Cash,5,FALSE
+101017,7/5/2025 16:27,Iași,3,"['Pizza Diavola', 'Pizza Capricciosa', 'Cola', 'Focaccia']",4,106,0,24,Card,,FALSE
+101018,7/5/2025 17:03,Iași,18,"['Shaorma medie', 'Shaorma mare', 'Falafel wrap']",3,78,7.99,32,Cash,,FALSE
+101019,7/5/2025 17:59,Timișoara,2,"['Tiramisu', 'Focaccia']",2,37,7.99,33,Card,4,FALSE
+101020,7/5/2025 20:05,București,14,['Bowl vegan'],1,39,9.99,30,Card,5,FALSE
+101021,7/5/2025 22:16,București,6,"['Burger Clasic', 'Burger BBQ']",2,76,7.99,23,Card,5,FALSE
+101022,7/6/2025 13:29,Timișoara,2,['Pizza Quattro Formaggi'],1,42,9.99,45,Card,5,FALSE
+101023,7/6/2025 19:24,București,13,"['Bowl vegan', 'Bowl cu somon']",2,87,7.99,42,Card,,FALSE
+101024,7/6/2025 22:24,București,7,"['Sushi Mix 16 buc', 'Noodles cu pui']",2,101,0,38,Card,5,TRUE
+101025,7/6/2025 23:52,București,13,"['Smoothie', 'Salată Caesar', 'Apă plată']",3,58,7.99,,Card,,TRUE
+101026,7/7/2025 17:14,Cluj-Napoca,8,"['Ceai verde', 'Pad Thai', 'Supă Miso']",3,65,7.99,19,Card,4,FALSE
+101027,7/7/2025 20:54,București,8,"['California Roll', 'Supă Miso']",2,53,7.99,42,Card,,FALSE
+101028,7/8/2025 14:14,București,18,"['Shaorma medie', 'Ayran', 'Kebab la farfurie']",3,66,12.99,40,Cash,,FALSE
+101029,7/8/2025 19:42,București,17,['Cartofi prăjiți'],1,12,12.99,48,Card,,FALSE
+101030,7/9/2025 13:51,București,3,"['Pizza Capricciosa', 'Focaccia']",2,59,12.99,22,Cash,,FALSE
+101031,7/9/2025 15:11,Brașov,9,"['Noodles cu pui', 'Pad Thai']",2,77,7.99,28,Card,,FALSE
+101032,7/9/2025 16:32,București,6,['Burger Clasic'],1,34,9.99,39,Card,,FALSE
+101033,7/10/2025 10:01,București,5,"['Cheeseburger', 'Milkshake']",2,54,9.99,34,Card,4,FALSE
+101034,7/10/2025 12:59,Brașov,3,"['Focaccia', 'Pizza Diavola']",2,57,7.99,28,Card,3,FALSE
+101035,7/10/2025 13:14,București,15,"['Papanași', 'Clătite cu ciocolată']",2,45,12.99,36,Card,4,FALSE
+101036,7/10/2025 13:38,Timișoara,5,"['Burger Clasic', 'Cartofi prăjiți', 'Burger BBQ']",3,88,9.99,41,Card,,FALSE
+101037,7/10/2025 17:49,București,17,"['Cartofi prăjiți', 'Ayran']",2,19,9.99,39,Card,3,TRUE
+101038,7/10/2025 19:20,București,10,"['Sarmale cu mămăligă', 'Mici cu muștar (5 buc)']",2,66,9.99,44,Cash,,TRUE
+101039,7/10/2025 21:07,Iași,7,['Supă Miso'],1,15,9.99,32,Card,4,FALSE
+101040,7/11/2025 15:29,Iași,10,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă', 'Șnițel cu piure']",3,104,0,26,Cash,5,FALSE
+101041,7/11/2025 20:34,București,8,"['California Roll', 'Noodles cu pui']",2,74,7.99,46,Card,4,FALSE
+101042,7/11/2025 20:56,Iași,5,"['Burger BBQ', 'Milkshake']",2,59,7.99,40,Card,4,FALSE
+101043,7/11/2025 21:20,București,13,"['Wrap cu pui', 'Apă plată']",2,37,12.99,35,Card,4,FALSE
+101044,7/12/2025 18:45,București,14,"['Apă plată', 'Salată Caesar', 'Smoothie']",3,58,9.99,20,Card,,FALSE
+101045,7/12/2025 18:59,Brașov,10,['Mici cu muștar (5 buc)'],1,30,9.99,30,Card,,FALSE
+101046,7/12/2025 19:17,București,2,"['Pizza Diavola', 'Cola', 'Focaccia']",3,65,9.99,29,Card,5,TRUE
+101047,7/12/2025 19:21,Timișoara,17,"['Shaorma medie', 'Kebab la farfurie']",2,59,12.99,25,Card,5,FALSE
+101048,7/12/2025 19:57,Iași,13,['Salată Caesar'],1,34,9.99,34,Card,4,TRUE
+101049,7/12/2025 22:01,București,5,"['Milkshake', 'Burger Clasic']",2,51,9.99,40,Card,4,FALSE
+101050,7/12/2025 23:47,București,11,['Mici cu muștar (5 buc)'],1,30,12.99,33,Cash,4,FALSE
+101051,7/13/2025 10:48,Brașov,6,"['Onion rings', 'Cheeseburger']",2,51,9.99,25,Cash,5,FALSE
+101052,7/13/2025 13:04,Cluj-Napoca,2,"['Pizza Capricciosa', 'Pizza Margherita', 'Tiramisu', 'Pizza Diavola']",4,131,0,37,Card,,FALSE
+101053,7/13/2025 13:17,București,18,"['Shaorma medie', 'Ayran']",2,31,9.99,28,Card,5,FALSE
+101054,7/13/2025 14:38,Cluj-Napoca,18,['Cartofi prăjiți'],1,12,9.99,23,Card,5,FALSE
+101055,7/13/2025 17:34,București,1,"['Pizza Diavola', 'Pizza Margherita', 'Pizza Capricciosa']",3,112,0,48,Cash,4,FALSE
+101056,7/13/2025 20:02,București,9,['Pad Thai'],1,41,9.99,,Card,3,FALSE
+101057,7/13/2025 23:15,Timișoara,13,['Apă plată'],1,6,12.99,35,Card,,FALSE
+101058,7/14/2025 14:07,Timișoara,7,"['Pad Thai', 'Noodles cu pui']",2,77,9.99,25,Card,,FALSE
+101059,7/14/2025 21:48,Cluj-Napoca,3,"['Pizza Diavola', 'Pizza Capricciosa']",2,80,7.99,29,Card,4,FALSE
+101060,7/15/2025 11:10,Cluj-Napoca,17,['Falafel wrap'],1,25,9.99,34,Card,,FALSE
+101061,7/15/2025 12:29,Brașov,3,['Pizza Quattro Formaggi'],1,42,12.99,29,Card,4,FALSE
+101062,7/15/2025 19:10,București,6,"['Cartofi prăjiți', 'Burger Clasic']",2,46,9.99,29,Cash,,TRUE
+101063,7/15/2025 20:52,Cluj-Napoca,16,"['Clătite cu ciocolată', 'Cheesecake', 'Waffle cu fructe']",3,70,7.99,40,Card,4,FALSE
+101064,7/16/2025 10:17,Timișoara,11,"['Șnițel cu piure', 'Papanași', 'Limonadă']",3,74,9.99,15,Card,5,FALSE
+101065,7/16/2025 11:25,București,15,['Papanași'],1,24,12.99,33,Card,4,FALSE
+101066,7/16/2025 13:59,Timișoara,1,"['Cola', 'Focaccia', 'Pizza Quattro Formaggi']",3,68,7.99,29,Card,,FALSE
+101067,7/16/2025 17:17,Brașov,17,"['Shaorma medie', 'Falafel wrap']",2,49,7.99,20,Card,5,FALSE
+101068,7/16/2025 19:09,București,9,"['Pad Thai', 'Sushi Mix 16 buc']",2,106,0,43,Card,3,FALSE
+101069,7/16/2025 20:13,Cluj-Napoca,8,['Noodles cu pui'],1,36,7.99,40,Cash,4,FALSE
+101070,7/16/2025 20:33,Iași,3,['Pizza Diavola'],1,39,9.99,31,Cash,5,FALSE
+101071,7/16/2025 22:50,Cluj-Napoca,12,"['Papanași', 'Limonadă']",2,36,7.99,15,Card,3,FALSE
+101072,7/17/2025 15:29,Iași,8,"['Noodles cu pui', 'Sushi Mix 16 buc']",2,101,0,38,Cash,3,TRUE
+101073,7/17/2025 22:08,Cluj-Napoca,2,['Pizza Diavola'],1,39,7.99,12,Cash,5,FALSE
+101074,7/18/2025 12:45,Brașov,12,"['Ciorbă de burtă', 'Sarmale cu mămăligă']",2,58,9.99,36,Cash,5,FALSE
+101075,7/18/2025 16:14,Cluj-Napoca,12,['Sarmale cu mămăligă'],1,36,9.99,21,Card,4,FALSE
+101076,7/18/2025 19:32,București,4,"['Cola', 'Cheeseburger']",2,45,7.99,40,Cash,3,FALSE
+101077,7/18/2025 19:39,Cluj-Napoca,3,"['Pizza Diavola', 'Focaccia', 'Pizza Quattro Formaggi', 'Pizza Capricciosa']",4,140,0,36,Cash,4,FALSE
+101078,7/18/2025 20:27,București,3,['Focaccia'],1,18,7.99,37,Card,4,FALSE
+101079,7/19/2025 12:17,București,1,"['Cola', 'Pizza Diavola']",2,47,9.99,36,Cash,,TRUE
+101080,7/19/2025 12:36,București,13,"['Salată Caesar', 'Smoothie', 'Apă plată', 'Wrap cu pui']",4,89,9.99,36,Cash,,TRUE
+101081,7/19/2025 14:58,București,3,"['Pizza Diavola', 'Pizza Capricciosa', 'Pizza Quattro Formaggi']",3,122,0,41,Card,,FALSE
+101082,7/19/2025 16:34,București,1,"['Pizza Margherita', 'Pizza Quattro Formaggi']",2,74,7.99,26,Card,,FALSE
+101083,7/19/2025 18:28,București,11,"['Limonadă', 'Mici cu muștar (5 buc)', 'Ciorbă de burtă']",3,64,9.99,32,Cash,,FALSE
+101084,7/19/2025 18:50,Timișoara,17,"['Ayran', 'Shaorma mare', 'Falafel wrap', 'Shaorma medie']",4,85,9.99,12,Card,4,FALSE
+101085,7/19/2025 19:27,Iași,11,['Sarmale cu mămăligă'],1,36,9.99,39,Card,4,TRUE
+101086,7/20/2025 10:51,București,6,"['Burger Clasic', 'Onion rings']",2,48,9.99,36,Card,5,FALSE
+101087,7/20/2025 20:40,Timișoara,5,"['Burger Clasic', 'Burger BBQ', 'Onion rings']",3,90,12.99,42,Card,3,FALSE
+101088,7/21/2025 20:06,Brașov,1,"['Tiramisu', 'Pizza Diavola', 'Pizza Capricciosa']",3,99,7.99,29,Card,,TRUE
+101089,7/22/2025 13:48,București,17,['Shaorma mare'],1,29,9.99,44,Card,4,FALSE
+101090,7/22/2025 19:13,București,11,"['Mici cu muștar (5 buc)', 'Șnițel cu piure', 'Papanași']",3,92,7.99,46,Card,,TRUE
+101091,7/22/2025 19:37,Timișoara,3,"['Focaccia', 'Pizza Diavola', 'Pizza Margherita', 'Pizza Capricciosa']",4,130,0,29,Card,5,FALSE
+101092,7/22/2025 19:53,Cluj-Napoca,12,"['Sarmale cu mămăligă', 'Șnițel cu piure', 'Papanași']",3,98,9.99,35,Card,3,TRUE
+101093,7/22/2025 19:56,Brașov,14,"['Wrap cu pui', 'Bowl vegan', 'Smoothie', 'Apă plată']",4,94,7.99,28,Cash,5,FALSE
+101094,7/22/2025 21:20,Brașov,10,['Sarmale cu mămăligă'],1,36,12.99,37,Cash,4,FALSE
+101095,7/23/2025 12:23,Timișoara,3,"['Pizza Quattro Formaggi', 'Pizza Margherita']",2,74,12.99,35,Card,4,FALSE
+101096,7/23/2025 19:21,Timișoara,1,"['Cola', 'Pizza Quattro Formaggi']",2,50,9.99,39,Cash,5,FALSE
+101097,7/23/2025 20:16,București,7,"['Supă Miso', 'Noodles cu pui', 'California Roll']",3,89,12.99,49,Cash,3,FALSE
+101098,7/23/2025 20:45,București,10,"['Sarmale cu mămăligă', 'Mici cu muștar (5 buc)', 'Ciorbă de burtă', 'Limonadă']",4,100,0,43,Card,4,FALSE
+101099,7/23/2025 20:51,Iași,7,"['Pad Thai', 'Sushi Mix 16 buc']",2,106,0,28,Card,5,FALSE
+101100,7/23/2025 21:00,București,17,"['Kebab la farfurie', 'Shaorma medie']",2,59,12.99,41,Card,4,FALSE
+101101,7/23/2025 21:23,Iași,15,['Clătite cu ciocolată'],1,21,7.99,36,Card,,TRUE
+101102,7/24/2025 12:14,București,13,['Bowl vegan'],1,39,9.99,50,Card,4,FALSE
+101103,7/24/2025 20:44,Iași,11,"['Papanași', 'Sarmale cu mămăligă', 'Limonadă']",3,72,12.99,40,Card,5,TRUE
+101104,7/24/2025 20:45,București,9,"['Noodles cu pui', 'Supă Miso']",2,51,7.99,49,Card,,TRUE
+101105,7/24/2025 21:22,Iași,10,['Ciorbă de burtă'],1,22,7.99,32,Card,,FALSE
+101106,7/24/2025 21:53,București,7,"['Supă Miso', 'Noodles cu pui', 'Ceai verde']",3,60,9.99,49,Card,,FALSE
+101107,7/24/2025 22:16,București,5,"['Cola', 'Onion rings', 'Cheeseburger']",3,59,9.99,32,Card,5,FALSE
+101108,7/25/2025 19:34,București,2,"['Pizza Diavola', 'Tiramisu']",2,58,12.99,39,Cash,4,TRUE
+101109,7/25/2025 20:12,Cluj-Napoca,12,"['Mici cu muștar (5 buc)', 'Ciorbă de burtă']",2,52,7.99,34,Card,4,FALSE
+101110,7/26/2025 10:09,Cluj-Napoca,15,['Papanași'],1,24,9.99,25,Card,,FALSE
+101111,7/27/2025 13:42,Timișoara,17,['Ayran'],1,7,7.99,43,Cash,3,FALSE
+101112,7/27/2025 15:54,București,2,"['Pizza Capricciosa', 'Pizza Quattro Formaggi']",2,83,7.99,40,Card,4,FALSE
+101113,7/27/2025 18:08,București,16,"['Clătite cu ciocolată', 'Cheesecake']",2,44,9.99,28,Card,4,FALSE
+101114,7/27/2025 18:35,Brașov,4,['Burger Clasic'],1,34,9.99,27,Card,,TRUE
+101115,7/27/2025 20:06,București,12,"['Șnițel cu piure', 'Limonadă', 'Papanași']",3,74,7.99,38,Card,5,FALSE
+101116,7/27/2025 22:48,București,14,"['Wrap cu pui', 'Bowl vegan', 'Apă plată']",3,76,9.99,29,Cash,5,FALSE
+101117,7/28/2025 18:07,Iași,3,"['Pizza Diavola', 'Pizza Margherita', 'Pizza Capricciosa']",3,112,0,21,Card,,FALSE
+101118,7/28/2025 18:54,București,4,"['Burger Clasic', 'Milkshake', 'Burger BBQ']",3,93,7.99,23,Card,5,FALSE
+101119,7/28/2025 21:14,Cluj-Napoca,18,['Shaorma mare'],1,29,9.99,28,Cash,3,FALSE
+101120,7/29/2025 19:55,București,7,"['Ceai verde', 'California Roll', 'Noodles cu pui']",3,83,7.99,42,Cash,,FALSE
+101121,7/30/2025 12:14,Cluj-Napoca,2,"['Focaccia', 'Pizza Diavola', 'Tiramisu', 'Pizza Margherita']",4,108,0,39,Card,4,FALSE
+101122,7/30/2025 13:41,București,11,['Șnițel cu piure'],1,38,9.99,52,Card,3,FALSE
+101123,7/30/2025 15:09,Iași,7,"['Pad Thai', 'Noodles cu pui', 'Sushi Mix 16 buc']",3,142,0,34,Card,4,TRUE
+101124,7/30/2025 20:56,București,6,"['Cola', 'Onion rings']",2,22,12.99,38,Card,5,FALSE
+101125,7/31/2025 12:00,București,10,"['Șnițel cu piure', 'Limonadă']",2,50,12.99,37,Card,4,FALSE
+101126,7/31/2025 17:47,Timișoara,7,"['California Roll', 'Noodles cu pui', 'Supă Miso', 'Sushi Mix 16 buc']",4,154,0,40,Card,5,TRUE
+101127,7/31/2025 18:55,Brașov,10,"['Limonadă', 'Ciorbă de burtă']",2,34,12.99,25,Card,,FALSE
+101128,7/31/2025 19:20,Brașov,11,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă']",2,66,12.99,36,Card,3,FALSE
+101129,7/31/2025 22:04,Brașov,5,"['Burger BBQ', 'Onion rings', 'Burger Clasic']",3,90,7.99,19,Cash,5,FALSE
+101130,8/1/2025 13:23,București,3,"['Focaccia', 'Pizza Quattro Formaggi', 'Pizza Diavola']",3,99,7.99,54,Card,4,FALSE
+101131,8/1/2025 14:44,București,5,['Cola'],1,8,7.99,29,Card,4,FALSE
+101132,8/1/2025 19:09,Brașov,2,['Pizza Diavola'],1,39,9.99,37,Card,5,FALSE
+101133,8/1/2025 19:26,Iași,8,['Ceai verde'],1,9,12.99,21,Cash,,FALSE
+101134,8/2/2025 10:58,Iași,13,"['Apă plată', 'Smoothie', 'Salată Caesar']",3,58,12.99,20,Cash,4,FALSE
+101135,8/2/2025 12:16,Cluj-Napoca,2,"['Pizza Margherita', 'Pizza Diavola']",2,71,9.99,25,Cash,5,TRUE
+101136,8/2/2025 12:26,Timișoara,11,"['Sarmale cu mămăligă', 'Șnițel cu piure']",2,74,9.99,34,Card,4,FALSE
+101137,8/2/2025 13:45,Brașov,3,['Pizza Quattro Formaggi'],1,42,7.99,28,Cash,,FALSE
+101138,8/2/2025 18:52,Brașov,16,"['Waffle cu fructe', 'Papanași']",2,50,9.99,23,Cash,5,TRUE
+101139,8/2/2025 21:58,Cluj-Napoca,9,"['Pad Thai', 'Supă Miso']",2,56,12.99,50,Cash,4,TRUE
+101140,8/2/2025 23:03,București,1,"['Pizza Diavola', 'Pizza Capricciosa', 'Pizza Margherita']",3,112,0,25,Card,,FALSE
+101141,8/3/2025 13:49,Timișoara,10,"['Papanași', 'Mici cu muștar (5 buc)', 'Sarmale cu mămăligă']",3,90,7.99,37,Cash,4,FALSE
+101142,8/3/2025 19:56,Cluj-Napoca,7,"['Ceai verde', 'California Roll']",2,47,12.99,43,Card,,FALSE
+101143,8/4/2025 10:25,București,18,['Falafel wrap'],1,25,9.99,35,Cash,,FALSE
+101144,8/4/2025 11:24,București,4,"['Burger BBQ', 'Cola', 'Onion rings', 'Cartofi prăjiți']",4,76,7.99,28,Card,4,FALSE
+101145,8/4/2025 11:29,Cluj-Napoca,4,"['Cheeseburger', 'Cartofi prăjiți', 'Cola']",3,57,9.99,22,Card,,FALSE
+101146,8/4/2025 22:23,Timișoara,6,"['Burger Clasic', 'Milkshake']",2,51,9.99,14,Card,4,TRUE
+101147,8/5/2025 13:00,București,7,"['Ceai verde', 'Noodles cu pui', 'Sushi Mix 16 buc']",3,110,0,41,Card,4,FALSE
+101148,8/5/2025 18:27,Brașov,10,"['Limonadă', 'Mici cu muștar (5 buc)']",2,42,9.99,16,Cash,,FALSE
+101149,8/6/2025 15:02,Timișoara,11,"['Șnițel cu piure', 'Ciorbă de burtă']",2,60,7.99,22,Card,,FALSE
+101150,8/6/2025 18:39,București,4,"['Onion rings', 'Cheeseburger', 'Milkshake']",3,68,9.99,37,Cash,4,FALSE
+101151,8/6/2025 19:02,Iași,2,"['Pizza Quattro Formaggi', 'Pizza Capricciosa', 'Focaccia', 'Tiramisu']",4,120,0,21,Card,,FALSE
+101152,8/6/2025 20:57,București,3,"['Pizza Capricciosa', 'Tiramisu']",2,60,9.99,42,Card,5,FALSE
+101153,8/6/2025 21:23,București,6,"['Cartofi prăjiți', 'Burger BBQ', 'Milkshake']",3,71,9.99,42,Card,4,FALSE
+101154,8/7/2025 13:13,București,5,"['Burger Clasic', 'Cheeseburger', 'Cartofi prăjiți']",3,83,9.99,40,Card,,FALSE
+101155,8/7/2025 13:51,București,18,"['Falafel wrap', 'Cartofi prăjiți']",2,37,7.99,55,Cash,4,TRUE
+101156,8/7/2025 13:58,București,3,"['Tiramisu', 'Cola', 'Pizza Quattro Formaggi', 'Focaccia']",4,87,12.99,42,Cash,5,FALSE
+101157,8/7/2025 16:33,Iași,18,['Shaorma medie'],1,24,7.99,19,Card,5,FALSE
+101158,8/8/2025 12:03,Cluj-Napoca,12,"['Limonadă', 'Papanași']",2,36,7.99,48,Card,3,FALSE
+101159,8/8/2025 13:45,Iași,3,"['Pizza Quattro Formaggi', 'Pizza Margherita', 'Focaccia']",3,92,7.99,35,Card,5,FALSE
+101160,8/8/2025 19:26,Iași,5,"['Cartofi prăjiți', 'Cola', 'Burger BBQ', 'Burger Clasic']",4,96,7.99,38,Cash,,FALSE
+101161,8/8/2025 20:37,București,8,"['Supă Miso', 'Sushi Mix 16 buc', 'Ceai verde', 'Pad Thai']",4,130,0,38,Card,,FALSE
+101162,8/9/2025 10:01,București,9,"['Sushi Mix 16 buc', 'Pad Thai', 'Supă Miso']",3,121,0,43,Cash,5,FALSE
+101163,8/9/2025 11:15,București,13,"['Bowl vegan', 'Salată Caesar']",2,73,12.99,23,Cash,4,TRUE
+101164,8/9/2025 12:40,Timișoara,5,"['Burger Clasic', 'Onion rings']",2,48,7.99,32,Card,5,FALSE
+101165,8/9/2025 13:49,Iași,5,['Burger Clasic'],1,34,12.99,34,Card,5,FALSE
+101166,8/9/2025 18:10,Iași,3,"['Tiramisu', 'Cola', 'Pizza Diavola', 'Pizza Margherita']",4,98,9.99,19,Card,5,FALSE
+101167,8/9/2025 20:23,Iași,7,['California Roll'],1,38,9.99,32,Cash,,FALSE
+101168,8/9/2025 22:38,Brașov,1,"['Pizza Diavola', 'Tiramisu', 'Focaccia']",3,76,9.99,14,Cash,,FALSE
+101169,8/10/2025 19:28,Cluj-Napoca,7,['California Roll'],1,38,9.99,35,Cash,5,FALSE
+101170,8/10/2025 19:44,București,3,"['Tiramisu', 'Pizza Diavola', 'Pizza Quattro Formaggi']",3,100,0,39,Card,,FALSE
+101171,8/11/2025 20:09,Timișoara,3,"['Cola', 'Focaccia']",2,26,7.99,32,Card,4,FALSE
+101172,8/11/2025 21:27,Cluj-Napoca,11,"['Mici cu muștar (5 buc)', 'Ciorbă de burtă', 'Papanași', 'Sarmale cu mămăligă']",4,112,0,33,Card,4,FALSE
+101173,8/12/2025 18:38,Brașov,6,"['Burger Clasic', 'Milkshake', 'Cola', 'Cheeseburger']",4,96,7.99,21,Card,4,FALSE
+101174,8/12/2025 18:51,București,1,"['Pizza Diavola', 'Cola', 'Tiramisu', 'Pizza Capricciosa']",4,107,0,25,Card,5,FALSE
+101175,8/13/2025 16:56,București,11,"['Sarmale cu mămăligă', 'Mici cu muștar (5 buc)']",2,66,12.99,29,Card,4,FALSE
+101176,8/13/2025 18:10,București,10,"['Papanași', 'Limonadă', 'Mici cu muștar (5 buc)', 'Ciorbă de burtă']",4,88,9.99,36,Cash,4,FALSE
+101177,8/13/2025 18:48,București,15,"['Cheesecake', 'Cafea']",2,33,9.99,27,Card,5,TRUE
+101178,8/13/2025 19:04,București,3,"['Pizza Capricciosa', 'Pizza Diavola', 'Focaccia', 'Pizza Quattro Formaggi']",4,140,0,29,Card,,FALSE
+101179,8/13/2025 20:28,Cluj-Napoca,4,"['Cartofi prăjiți', 'Burger Clasic']",2,46,7.99,16,Cash,4,FALSE
+101180,8/14/2025 11:36,Iași,11,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă', 'Ciorbă de burtă', 'Papanași']",4,112,0,18,Card,,FALSE
+101181,8/14/2025 12:05,Cluj-Napoca,17,"['Kebab la farfurie', 'Cartofi prăjiți']",2,47,9.99,23,Card,,TRUE
+101182,8/14/2025 13:52,București,16,"['Papanași', 'Cafea', 'Waffle cu fructe']",3,60,12.99,25,Card,5,FALSE
+101183,8/14/2025 20:17,Brașov,2,"['Pizza Margherita', 'Tiramisu', 'Pizza Capricciosa']",3,92,9.99,39,Cash,4,FALSE
+101184,8/15/2025 13:15,București,2,"['Focaccia', 'Pizza Diavola']",2,57,7.99,46,Cash,3,FALSE
+101185,8/15/2025 21:12,Cluj-Napoca,1,"['Tiramisu', 'Pizza Capricciosa']",2,60,7.99,26,Cash,5,FALSE
+101186,8/15/2025 21:17,Cluj-Napoca,17,"['Shaorma mare', 'Shaorma medie', 'Kebab la farfurie']",3,88,9.99,40,Card,5,TRUE
+101187,8/16/2025 12:24,Brașov,3,"['Pizza Margherita', 'Pizza Quattro Formaggi']",2,74,7.99,26,Card,5,TRUE
+101188,8/16/2025 13:21,Iași,12,"['Ciorbă de burtă', 'Sarmale cu mămăligă']",2,58,9.99,36,Card,,TRUE
+101189,8/16/2025 13:27,București,14,"['Apă plată', 'Salată Caesar', 'Bowl cu somon', 'Wrap cu pui']",4,119,0,47,Cash,4,FALSE
+101190,8/16/2025 17:07,București,18,"['Kebab la farfurie', 'Shaorma mare']",2,64,7.99,30,Card,5,FALSE
+101191,8/16/2025 20:04,Iași,7,"['Supă Miso', 'Pad Thai']",2,56,7.99,30,Cash,,FALSE
+101192,8/17/2025 11:02,Iași,1,"['Focaccia', 'Pizza Margherita', 'Pizza Diavola']",3,89,12.99,27,Cash,4,FALSE
+101193,8/17/2025 11:47,București,2,"['Tiramisu', 'Pizza Diavola', 'Cola']",3,66,7.99,37,Cash,,FALSE
+101194,8/17/2025 12:48,Iași,2,"['Pizza Capricciosa', 'Cola', 'Pizza Diavola']",3,88,7.99,24,Card,4,TRUE
+101195,8/17/2025 16:02,București,3,['Cola'],1,8,7.99,,Cash,,FALSE
+101196,8/18/2025 13:15,Iași,6,"['Onion rings', 'Burger Clasic', 'Burger BBQ']",3,90,7.99,35,Card,,FALSE
+101197,8/18/2025 13:44,Timișoara,5,"['Burger Clasic', 'Burger BBQ']",2,76,9.99,38,Card,4,FALSE
+101198,8/18/2025 18:16,București,6,"['Burger Clasic', 'Cartofi prăjiți']",2,46,7.99,45,Cash,,FALSE
+101199,8/19/2025 12:53,Brașov,12,"['Papanași', 'Sarmale cu mămăligă']",2,60,9.99,24,Card,,TRUE
+101200,8/19/2025 14:32,Cluj-Napoca,8,"['Sushi Mix 16 buc', 'Supă Miso', 'Noodles cu pui']",3,116,0,28,Cash,5,FALSE
+101201,8/19/2025 19:32,București,3,"['Pizza Quattro Formaggi', 'Pizza Diavola']",2,81,12.99,30,Card,,FALSE
+101202,8/19/2025 21:08,Timișoara,11,"['Papanași', 'Limonadă', 'Sarmale cu mămăligă']",3,72,9.99,36,Cash,,FALSE
+101203,8/20/2025 16:34,București,17,['Kebab la farfurie'],1,35,12.99,24,Card,5,TRUE
+101204,8/20/2025 17:51,Timișoara,13,"['Apă plată', 'Wrap cu pui']",2,37,12.99,24,Card,,FALSE
+101205,8/20/2025 22:51,Brașov,14,"['Bowl cu somon', 'Apă plată']",2,54,9.99,32,Cash,,FALSE
+101206,8/21/2025 18:00,Cluj-Napoca,17,['Falafel wrap'],1,25,7.99,21,Card,4,TRUE
+101207,8/21/2025 19:04,Cluj-Napoca,17,"['Cartofi prăjiți', 'Kebab la farfurie']",2,47,9.99,38,Card,,TRUE
+101208,8/21/2025 19:12,Brașov,4,"['Cola', 'Cartofi prăjiți', 'Cheeseburger']",3,57,12.99,22,Card,,FALSE
+101209,8/21/2025 20:08,București,2,['Cola'],1,8,12.99,47,Cash,4,FALSE
+101210,8/22/2025 11:44,Iași,13,"['Wrap cu pui', 'Salată Caesar']",2,65,9.99,32,Cash,4,FALSE
+101211,8/22/2025 12:38,București,9,"['Supă Miso', 'Sushi Mix 16 buc']",2,80,9.99,40,Card,4,FALSE
+101212,8/22/2025 14:00,Cluj-Napoca,2,"['Cola', 'Pizza Margherita']",2,40,7.99,12,Card,,FALSE
+101213,8/22/2025 16:33,Timișoara,1,"['Pizza Capricciosa', 'Focaccia', 'Tiramisu']",3,78,12.99,25,Cash,4,TRUE
+101214,8/22/2025 18:04,Timișoara,14,['Smoothie'],1,18,9.99,28,Card,4,FALSE
+101215,8/22/2025 18:54,Timișoara,1,"['Pizza Diavola', 'Pizza Capricciosa']",2,80,7.99,30,Card,5,TRUE
+101216,8/22/2025 19:35,Brașov,4,"['Burger Clasic', 'Milkshake', 'Cola']",3,59,9.99,31,Card,4,FALSE
+101217,8/23/2025 13:12,Cluj-Napoca,18,"['Shaorma mare', 'Falafel wrap']",2,54,12.99,25,Card,,TRUE
+101218,8/23/2025 14:18,București,5,"['Cheeseburger', 'Burger BBQ']",2,79,12.99,,Card,4,FALSE
+101219,8/23/2025 18:44,București,1,"['Tiramisu', 'Pizza Margherita', 'Pizza Diavola']",3,90,7.99,45,Card,,TRUE
+101220,8/23/2025 19:20,București,10,"['Mici cu muștar (5 buc)', 'Papanași']",2,54,9.99,41,Cash,5,FALSE
+101221,8/23/2025 20:08,Iași,18,['Kebab la farfurie'],1,35,7.99,19,Card,3,FALSE
+101222,8/24/2025 13:06,Timișoara,17,"['Kebab la farfurie', 'Ayran']",2,42,7.99,30,Card,4,FALSE
+101223,8/24/2025 17:01,București,7,['Sushi Mix 16 buc'],1,65,9.99,34,Card,,FALSE
+101224,8/24/2025 22:40,Iași,4,"['Milkshake', 'Burger BBQ', 'Burger Clasic']",3,93,9.99,19,Card,5,TRUE
+101225,8/25/2025 14:27,București,11,['Limonadă'],1,12,7.99,41,Card,3,FALSE
+101226,8/25/2025 15:59,Timișoara,2,['Focaccia'],1,18,9.99,25,Card,,TRUE
+101227,8/25/2025 19:26,Timișoara,10,"['Ciorbă de burtă', 'Limonadă']",2,34,7.99,39,Card,5,FALSE
+101228,8/25/2025 19:26,Cluj-Napoca,18,"['Shaorma medie', 'Ayran', 'Cartofi prăjiți']",3,43,9.99,34,Card,5,TRUE
+101229,8/25/2025 20:40,București,6,"['Onion rings', 'Burger Clasic', 'Cola']",3,56,7.99,,Card,4,TRUE
+101230,8/26/2025 20:24,Cluj-Napoca,17,"['Shaorma mare', 'Ayran']",2,36,12.99,26,Cash,5,FALSE
+101231,8/26/2025 21:05,București,2,"['Pizza Margherita', 'Tiramisu']",2,51,12.99,46,Cash,4,TRUE
+101232,8/26/2025 21:12,București,17,['Shaorma medie'],1,24,7.99,32,Cash,4,FALSE
+101233,8/26/2025 21:57,București,3,"['Focaccia', 'Cola']",2,26,9.99,39,Cash,4,TRUE
+101234,8/26/2025 23:39,Cluj-Napoca,8,"['Pad Thai', 'Sushi Mix 16 buc']",2,106,0,37,Card,4,FALSE
+101235,8/27/2025 18:07,București,11,"['Ciorbă de burtă', 'Limonadă']",2,34,9.99,32,Card,,FALSE
+101236,8/27/2025 20:15,Timișoara,9,"['Pad Thai', 'Ceai verde', 'Noodles cu pui']",3,86,7.99,35,Card,5,TRUE
+101237,8/27/2025 20:41,Cluj-Napoca,5,"['Cartofi prăjiți', 'Cheeseburger']",2,49,9.99,31,Card,4,FALSE
+101238,8/28/2025 20:13,București,7,"['Supă Miso', 'Sushi Mix 16 buc']",2,80,7.99,50,Cash,3,FALSE
+101239,8/28/2025 20:51,București,17,"['Cartofi prăjiți', 'Shaorma medie', 'Shaorma mare']",3,65,9.99,39,Card,4,FALSE
+101240,8/29/2025 11:23,București,18,"['Shaorma mare', 'Kebab la farfurie']",2,64,9.99,39,Card,4,TRUE
+101241,8/29/2025 13:44,Cluj-Napoca,13,"['Smoothie', 'Salată Caesar']",2,52,7.99,17,Card,5,FALSE
+101242,8/29/2025 14:50,Cluj-Napoca,7,"['Supă Miso', 'Ceai verde']",2,24,12.99,23,Card,5,FALSE
+101243,8/29/2025 20:50,Cluj-Napoca,4,"['Burger Clasic', 'Onion rings', 'Cartofi prăjiți']",3,60,7.99,32,Card,4,FALSE
+101244,8/29/2025 21:04,București,3,"['Cola', 'Tiramisu', 'Pizza Margherita']",3,59,9.99,35,Cash,,TRUE
+101245,8/29/2025 21:36,Brașov,8,"['Pad Thai', 'Ceai verde']",2,50,12.99,24,Cash,4,FALSE
+101246,8/30/2025 11:03,Iași,10,['Șnițel cu piure'],1,38,9.99,32,Card,,FALSE
+101247,8/30/2025 18:49,Cluj-Napoca,14,"['Salată Caesar', 'Apă plată', 'Bowl vegan', 'Wrap cu pui']",4,110,0,12,Card,5,TRUE
+101248,8/30/2025 23:06,Cluj-Napoca,4,"['Milkshake', 'Cartofi prăjiți', 'Burger BBQ', 'Burger Clasic']",4,105,0,17,Card,4,FALSE
+101249,8/31/2025 13:39,Cluj-Napoca,3,['Pizza Capricciosa'],1,41,9.99,20,Card,4,FALSE
+101250,8/31/2025 14:18,Timișoara,18,"['Kebab la farfurie', 'Falafel wrap', 'Cartofi prăjiți', 'Shaorma medie']",4,96,7.99,32,Cash,4,FALSE
+101251,8/31/2025 14:31,Brașov,17,"['Shaorma medie', 'Ayran', 'Shaorma mare', 'Falafel wrap']",4,85,12.99,15,Cash,4,FALSE
+101252,8/31/2025 18:18,Iași,8,['Supă Miso'],1,15,9.99,38,Card,5,FALSE
+101253,8/31/2025 23:44,București,9,"['Pad Thai', 'California Roll', 'Ceai verde']",3,88,7.99,34,Card,5,FALSE
+101254,8/31/2025 23:55,Brașov,6,"['Cola', 'Burger BBQ']",2,50,7.99,20,Cash,,FALSE
+101255,8/31/2025 23:56,București,15,"['Clătite cu ciocolată', 'Cafea', 'Înghețată']",3,46,12.99,32,Card,,FALSE
+101256,9/1/2025 13:23,București,18,"['Cartofi prăjiți', 'Shaorma mare']",2,41,7.99,37,Card,4,TRUE
+101257,9/1/2025 18:20,Timișoara,11,"['Mici cu muștar (5 buc)', 'Șnițel cu piure', 'Papanași']",3,92,9.99,21,Card,5,FALSE
+101258,9/1/2025 20:53,Timișoara,3,"['Tiramisu', 'Pizza Quattro Formaggi', 'Pizza Diavola']",3,100,0,29,Card,5,FALSE
+101259,9/1/2025 21:09,București,7,['Supă Miso'],1,15,9.99,45,Cash,3,FALSE
+101260,9/1/2025 23:56,București,9,['California Roll'],1,38,7.99,33,Card,,TRUE
+101261,9/2/2025 16:29,Iași,1,['Tiramisu'],1,19,7.99,34,Cash,4,FALSE
+101262,9/3/2025 12:40,Timișoara,8,"['Pad Thai', 'Sushi Mix 16 buc', 'Ceai verde']",3,115,0,31,Cash,,FALSE
+101263,9/3/2025 13:40,Timișoara,15,"['Waffle cu fructe', 'Cafea']",2,36,9.99,31,Card,,FALSE
+101264,9/3/2025 18:19,Iași,15,['Cafea'],1,10,7.99,18,Cash,5,FALSE
+101265,9/3/2025 22:18,București,4,['Cheeseburger'],1,37,9.99,21,Card,4,FALSE
+101266,9/4/2025 14:53,Timișoara,17,"['Ayran', 'Cartofi prăjiți']",2,19,7.99,32,Card,,FALSE
+101267,9/4/2025 17:39,Brașov,11,['Limonadă'],1,12,12.99,18,Cash,4,FALSE
+101268,9/4/2025 18:45,București,3,['Pizza Quattro Formaggi'],1,42,7.99,33,Cash,5,FALSE
+101269,9/4/2025 20:00,Brașov,7,"['Sushi Mix 16 buc', 'Ceai verde', 'Pad Thai']",3,115,0,45,Card,4,FALSE
+101270,9/4/2025 21:02,Timișoara,2,"['Pizza Capricciosa', 'Pizza Margherita', 'Pizza Quattro Formaggi']",3,115,0,30,Cash,5,FALSE
+101271,9/5/2025 12:58,Iași,6,"['Onion rings', 'Milkshake', 'Burger Clasic']",3,65,7.99,30,Card,4,FALSE
+101272,9/5/2025 13:54,Brașov,13,"['Apă plată', 'Smoothie', 'Salată Caesar', 'Bowl vegan']",4,97,9.99,35,Card,,FALSE
+101273,9/5/2025 18:52,Iași,10,"['Sarmale cu mămăligă', 'Papanași']",2,60,9.99,21,Cash,,FALSE
+101274,9/5/2025 19:42,Cluj-Napoca,18,"['Shaorma medie', 'Shaorma mare', 'Kebab la farfurie', 'Ayran']",4,95,12.99,22,Cash,5,FALSE
+101275,9/5/2025 21:07,București,10,['Papanași'],1,24,7.99,48,Card,2,FALSE
+101276,9/5/2025 22:24,București,12,['Limonadă'],1,12,7.99,42,Card,4,FALSE
+101277,9/6/2025 14:14,Cluj-Napoca,17,['Ayran'],1,7,7.99,25,Card,,FALSE
+101278,9/6/2025 14:26,București,18,['Shaorma mare'],1,29,9.99,24,Card,4,TRUE
+101279,9/6/2025 14:35,București,2,"['Focaccia', 'Tiramisu', 'Pizza Margherita']",3,69,9.99,44,Card,3,FALSE
+101280,9/6/2025 16:16,Brașov,7,"['Supă Miso', 'California Roll', 'Noodles cu pui']",3,89,12.99,23,Card,5,FALSE
+101281,9/6/2025 21:34,Cluj-Napoca,13,"['Salată Caesar', 'Apă plată', 'Bowl vegan']",3,79,9.99,27,Card,5,FALSE
+101282,9/7/2025 19:00,București,7,"['Sushi Mix 16 buc', 'Pad Thai', 'California Roll']",3,144,0,41,Card,,FALSE
+101283,9/7/2025 20:01,Iași,12,"['Ciorbă de burtă', 'Șnițel cu piure', 'Mici cu muștar (5 buc)']",3,90,9.99,48,Card,,TRUE
+101284,9/7/2025 20:30,București,18,"['Kebab la farfurie', 'Falafel wrap', 'Cartofi prăjiți']",3,72,9.99,44,Cash,,TRUE
+101285,9/7/2025 20:40,Cluj-Napoca,9,"['California Roll', 'Ceai verde', 'Supă Miso']",3,62,9.99,,Cash,4,FALSE
+101286,9/7/2025 21:36,Cluj-Napoca,3,"['Pizza Margherita', 'Pizza Diavola']",2,71,9.99,23,Cash,5,TRUE
+101287,9/7/2025 21:55,București,17,['Falafel wrap'],1,25,7.99,38,Card,,TRUE
+101288,9/7/2025 23:06,Iași,13,"['Salată Caesar', 'Bowl vegan', 'Smoothie']",3,91,7.99,22,Card,,FALSE
+101289,9/7/2025 23:30,Iași,17,['Shaorma medie'],1,24,9.99,40,Cash,,FALSE
+101290,9/8/2025 19:18,Cluj-Napoca,4,"['Burger BBQ', 'Cartofi prăjiți']",2,54,9.99,39,Card,5,FALSE
+101291,9/8/2025 19:39,București,15,"['Cafea', 'Înghețată', 'Cheesecake']",3,48,7.99,48,Cash,4,FALSE
+101292,9/8/2025 20:20,Iași,18,['Ayran'],1,7,9.99,24,Card,,FALSE
+101293,9/8/2025 20:58,Timișoara,3,"['Pizza Quattro Formaggi', 'Tiramisu']",2,61,7.99,36,Card,3,FALSE
+101294,9/8/2025 21:19,Iași,3,"['Pizza Margherita', 'Pizza Diavola', 'Focaccia', 'Pizza Capricciosa']",4,130,0,22,Card,4,TRUE
+101295,9/8/2025 21:29,Iași,12,"['Ciorbă de burtă', 'Șnițel cu piure']",2,60,9.99,40,Card,,TRUE
+101296,9/8/2025 21:56,Iași,4,"['Burger BBQ', 'Cheeseburger', 'Cola']",3,87,7.99,24,Card,5,FALSE
+101297,9/9/2025 18:20,Cluj-Napoca,16,['Cafea'],1,10,9.99,22,Cash,,TRUE
+101298,9/9/2025 22:13,București,12,"['Papanași', 'Ciorbă de burtă']",2,46,9.99,37,Cash,4,FALSE
+101299,9/10/2025 11:15,București,13,"['Bowl vegan', 'Bowl cu somon', 'Apă plată']",3,93,7.99,32,Cash,5,FALSE
+101300,9/10/2025 15:50,București,17,"['Ayran', 'Shaorma mare', 'Shaorma medie']",3,60,9.99,32,Card,,FALSE
+101301,9/10/2025 18:41,Cluj-Napoca,9,"['Sushi Mix 16 buc', 'Pad Thai', 'Ceai verde']",3,115,0,28,Cash,,FALSE
+101302,9/10/2025 18:46,Iași,17,"['Ayran', 'Cartofi prăjiți']",2,19,12.99,30,Card,,FALSE
+101303,9/10/2025 19:17,Cluj-Napoca,3,"['Pizza Quattro Formaggi', 'Pizza Capricciosa', 'Cola']",3,91,7.99,40,Card,,TRUE
+101304,9/10/2025 19:17,Cluj-Napoca,17,"['Cartofi prăjiți', 'Ayran']",2,19,9.99,30,Card,,FALSE
+101305,9/10/2025 21:44,București,12,"['Limonadă', 'Ciorbă de burtă']",2,34,12.99,41,Card,4,FALSE
+101306,9/11/2025 11:53,Timișoara,17,['Falafel wrap'],1,25,12.99,12,Card,,FALSE
+101307,9/11/2025 14:59,București,2,"['Pizza Quattro Formaggi', 'Pizza Margherita']",2,74,7.99,41,Cash,4,TRUE
+101308,9/11/2025 19:39,București,14,"['Apă plată', 'Bowl vegan']",2,45,12.99,42,Card,3,FALSE
+101309,9/12/2025 12:23,Timișoara,15,"['Papanași', 'Cheesecake']",2,47,9.99,19,Card,5,FALSE
+101310,9/12/2025 13:06,București,3,"['Pizza Margherita', 'Pizza Capricciosa', 'Cola', 'Pizza Quattro Formaggi']",4,123,0,31,Card,4,FALSE
+101311,9/12/2025 18:18,București,18,"['Kebab la farfurie', 'Shaorma mare']",2,64,12.99,36,Cash,,FALSE
+101312,9/12/2025 19:06,Cluj-Napoca,17,"['Falafel wrap', 'Shaorma medie']",2,49,9.99,18,Card,4,FALSE
+101313,9/12/2025 19:20,Timișoara,6,"['Milkshake', 'Burger Clasic', 'Cheeseburger']",3,88,9.99,31,Card,,FALSE
+101314,9/12/2025 19:27,București,5,['Cheeseburger'],1,37,9.99,21,Card,3,FALSE
+101315,9/12/2025 20:09,Iași,12,['Ciorbă de burtă'],1,22,9.99,29,Card,5,FALSE
+101316,9/13/2025 13:07,București,4,"['Cartofi prăjiți', 'Burger BBQ', 'Cheeseburger']",3,91,7.99,30,Card,,FALSE
+101317,9/13/2025 19:51,București,11,['Mici cu muștar (5 buc)'],1,30,7.99,48,Card,5,FALSE
+101318,9/13/2025 20:35,Timișoara,6,"['Cartofi prăjiți', 'Cola']",2,20,7.99,29,Cash,5,TRUE
+101319,9/13/2025 21:38,București,1,"['Focaccia', 'Pizza Quattro Formaggi', 'Pizza Margherita']",3,92,9.99,37,Cash,3,FALSE
+101320,9/13/2025 22:02,Cluj-Napoca,2,"['Pizza Margherita', 'Cola']",2,40,9.99,12,Cash,,FALSE
+101321,9/13/2025 23:19,București,8,"['Ceai verde', 'Sushi Mix 16 buc']",2,74,7.99,24,Card,5,FALSE
+101322,9/14/2025 19:20,Cluj-Napoca,5,"['Burger BBQ', 'Cola', 'Cartofi prăjiți', 'Onion rings']",4,76,12.99,40,Cash,,FALSE
+101323,9/14/2025 21:31,Iași,12,"['Limonadă', 'Papanași', 'Mici cu muștar (5 buc)']",3,66,12.99,23,Card,5,FALSE
+101324,9/15/2025 18:26,București,18,['Cartofi prăjiți'],1,12,7.99,29,Card,5,FALSE
+101325,9/16/2025 13:24,Cluj-Napoca,2,"['Pizza Diavola', 'Pizza Capricciosa']",2,80,9.99,27,Card,5,FALSE
+101326,9/16/2025 20:37,București,3,"['Pizza Diavola', 'Pizza Capricciosa']",2,80,9.99,44,Card,5,TRUE
+101327,9/17/2025 11:09,București,9,['Ceai verde'],1,9,12.99,41,Card,4,FALSE
+101328,9/17/2025 14:49,București,5,['Cheeseburger'],1,37,9.99,33,Card,5,TRUE
+101329,9/17/2025 15:53,Brașov,6,['Onion rings'],1,14,9.99,27,Card,,FALSE
+101330,9/17/2025 16:26,Brașov,6,"['Burger Clasic', 'Onion rings', 'Burger BBQ']",3,90,9.99,23,Cash,5,FALSE
+101331,9/17/2025 17:34,Timișoara,6,"['Cheeseburger', 'Burger Clasic']",2,71,12.99,,Cash,,FALSE
+101332,9/17/2025 21:17,Cluj-Napoca,7,"['Pad Thai', 'Sushi Mix 16 buc', 'Noodles cu pui']",3,142,0,46,Card,4,TRUE
+101333,9/18/2025 14:42,București,14,"['Salată Caesar', 'Bowl cu somon']",2,82,7.99,19,Card,5,TRUE
+101334,9/18/2025 19:16,București,16,['Cafea'],1,10,7.99,57,Cash,5,TRUE
+101335,9/18/2025 19:31,Brașov,10,"['Papanași', 'Sarmale cu mămăligă', 'Mici cu muștar (5 buc)']",3,90,9.99,48,Cash,3,TRUE
+101336,9/18/2025 20:53,București,11,"['Mici cu muștar (5 buc)', 'Șnițel cu piure']",2,68,9.99,31,Cash,5,TRUE
+101337,9/18/2025 23:45,București,4,"['Cheeseburger', 'Milkshake']",2,54,7.99,23,Card,3,FALSE
+101338,9/19/2025 12:18,Iași,10,"['Papanași', 'Șnițel cu piure', 'Mici cu muștar (5 buc)']",3,92,12.99,35,Card,4,TRUE
+101339,9/19/2025 12:34,Brașov,12,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă']",2,66,7.99,41,Card,,FALSE
+101340,9/19/2025 13:48,Timișoara,17,"['Shaorma mare', 'Cartofi prăjiți', 'Ayran']",3,48,7.99,33,Cash,5,TRUE
+101341,9/19/2025 13:50,Timișoara,14,"['Bowl vegan', 'Salată Caesar', 'Bowl cu somon']",3,121,0,32,Cash,5,FALSE
+101342,9/19/2025 14:09,Cluj-Napoca,8,"['Sushi Mix 16 buc', 'Supă Miso', 'Ceai verde', 'Pad Thai']",4,130,0,22,Cash,5,FALSE
+101343,9/19/2025 16:39,Cluj-Napoca,4,['Cartofi prăjiți'],1,12,9.99,24,Card,5,FALSE
+101344,9/19/2025 18:27,București,1,"['Pizza Diavola', 'Tiramisu']",2,58,7.99,19,Card,5,TRUE
+101345,9/19/2025 21:37,București,16,"['Waffle cu fructe', 'Clătite cu ciocolată']",2,47,9.99,39,Card,4,FALSE
+101346,9/19/2025 22:38,București,2,"['Pizza Margherita', 'Pizza Capricciosa', 'Tiramisu']",3,92,9.99,37,Card,,TRUE
+101347,9/20/2025 11:38,București,3,"['Pizza Capricciosa', 'Pizza Quattro Formaggi', 'Pizza Diavola']",3,122,0,25,Card,4,FALSE
+101348,9/20/2025 12:36,București,16,"['Înghețată', 'Cheesecake']",2,38,7.99,33,Card,4,FALSE
+101349,9/20/2025 18:43,Brașov,17,"['Falafel wrap', 'Shaorma mare']",2,54,7.99,26,Card,5,FALSE
+101350,9/20/2025 19:11,București,3,"['Pizza Quattro Formaggi', 'Pizza Diavola']",2,81,7.99,43,Card,3,FALSE
+101351,9/20/2025 19:43,Brașov,9,"['Sushi Mix 16 buc', 'Pad Thai', 'Ceai verde', 'Noodles cu pui']",4,151,0,42,Card,5,FALSE
+101352,9/20/2025 19:47,Cluj-Napoca,4,"['Cheeseburger', 'Cola']",2,45,7.99,27,Cash,,FALSE
+101353,9/20/2025 20:54,București,4,"['Milkshake', 'Cola']",2,25,7.99,32,Cash,4,FALSE
+101354,9/20/2025 23:23,Cluj-Napoca,12,"['Șnițel cu piure', 'Mici cu muștar (5 buc)', 'Limonadă']",3,80,12.99,12,Cash,5,FALSE
+101355,9/21/2025 11:31,București,8,['Pad Thai'],1,41,9.99,42,Card,,FALSE
+101356,9/21/2025 12:27,Cluj-Napoca,9,"['Pad Thai', 'Sushi Mix 16 buc', 'Supă Miso']",3,121,0,32,Card,,FALSE
+101357,9/21/2025 13:06,București,14,"['Wrap cu pui', 'Bowl vegan']",2,70,9.99,44,Cash,,FALSE
+101358,9/21/2025 13:15,Timișoara,12,"['Sarmale cu mămăligă', 'Papanași', 'Șnițel cu piure', 'Mici cu muștar (5 buc)']",4,128,0,35,Card,,TRUE
+101359,9/21/2025 14:05,București,18,"['Cartofi prăjiți', 'Kebab la farfurie']",2,47,12.99,27,Cash,,FALSE
+101360,9/21/2025 17:55,Cluj-Napoca,1,"['Pizza Quattro Formaggi', 'Pizza Diavola', 'Focaccia']",3,99,7.99,20,Cash,,FALSE
+101361,9/21/2025 21:49,București,5,"['Milkshake', 'Burger Clasic', 'Cola', 'Cheeseburger']",4,96,7.99,24,Card,5,FALSE
+101362,9/22/2025 14:03,București,18,['Falafel wrap'],1,25,9.99,33,Cash,4,TRUE
+101363,9/22/2025 16:54,Iași,11,['Limonadă'],1,12,9.99,38,Card,4,FALSE
+101364,9/22/2025 18:53,Cluj-Napoca,10,"['Sarmale cu mămăligă', 'Ciorbă de burtă']",2,58,7.99,26,Card,,TRUE
+101365,9/22/2025 19:19,București,1,['Pizza Margherita'],1,32,7.99,36,Card,5,TRUE
+101366,9/22/2025 22:22,București,18,['Shaorma mare'],1,29,7.99,21,Card,,FALSE
+101367,9/23/2025 15:15,București,2,"['Pizza Quattro Formaggi', 'Pizza Diavola', 'Focaccia', 'Pizza Margherita']",4,131,0,27,Card,5,FALSE
+101368,9/23/2025 22:27,Iași,6,"['Cheeseburger', 'Onion rings', 'Milkshake', 'Cola']",4,76,7.99,27,Card,4,FALSE
+101369,9/24/2025 13:47,București,13,"['Bowl cu somon', 'Salată Caesar']",2,82,7.99,38,Card,5,TRUE
+101370,9/24/2025 13:48,Cluj-Napoca,5,"['Cheeseburger', 'Cola']",2,45,12.99,32,Cash,,TRUE
+101371,9/24/2025 16:38,Cluj-Napoca,7,"['Supă Miso', 'California Roll', 'Ceai verde']",3,62,9.99,24,Card,5,TRUE
+101372,9/24/2025 18:43,Cluj-Napoca,16,"['Papanași', 'Clătite cu ciocolată', 'Cheesecake']",3,68,12.99,14,Card,4,FALSE
+101373,9/24/2025 18:53,Timișoara,2,['Focaccia'],1,18,9.99,35,Card,,TRUE
+101374,9/24/2025 19:45,București,11,"['Sarmale cu mămăligă', 'Mici cu muștar (5 buc)']",2,66,7.99,43,Card,4,FALSE
+101375,9/25/2025 13:13,București,13,"['Bowl cu somon', 'Salată Caesar', 'Apă plată']",3,88,7.99,33,Card,5,TRUE
+101376,9/25/2025 14:18,Iași,1,"['Pizza Margherita', 'Pizza Capricciosa']",2,73,9.99,16,Card,4,FALSE
+101377,9/25/2025 18:33,București,10,['Șnițel cu piure'],1,38,9.99,29,Card,,FALSE
+101378,9/25/2025 19:38,Brașov,2,['Pizza Capricciosa'],1,41,7.99,39,Cash,,FALSE
+101379,9/25/2025 20:20,Brașov,18,"['Kebab la farfurie', 'Ayran', 'Cartofi prăjiți', 'Falafel wrap']",4,79,7.99,20,Cash,,TRUE
+101380,9/25/2025 20:21,București,10,"['Șnițel cu piure', 'Mici cu muștar (5 buc)', 'Ciorbă de burtă']",3,90,9.99,37,Cash,,FALSE
+101381,9/25/2025 20:27,Timișoara,5,"['Onion rings', 'Cartofi prăjiți', 'Cheeseburger', 'Burger Clasic']",4,97,12.99,28,Card,,FALSE
+101382,9/25/2025 23:58,Timișoara,17,"['Cartofi prăjiți', 'Falafel wrap']",2,37,7.99,15,Card,4,FALSE
+101383,9/26/2025 13:04,Timișoara,12,"['Ciorbă de burtă', 'Papanași', 'Șnițel cu piure', 'Limonadă']",4,96,9.99,34,Card,4,TRUE
+101384,9/26/2025 13:35,Iași,4,['Cartofi prăjiți'],1,12,12.99,22,Card,,FALSE
+101385,9/26/2025 14:27,Iași,3,"['Cola', 'Pizza Capricciosa']",2,49,7.99,33,Card,,FALSE
+101386,9/26/2025 14:37,Iași,10,"['Ciorbă de burtă', 'Limonadă', 'Papanași']",3,58,9.99,30,Card,5,TRUE
+101387,9/26/2025 14:57,Cluj-Napoca,14,"['Wrap cu pui', 'Apă plată', 'Smoothie']",3,55,12.99,17,Card,4,TRUE
+101388,9/26/2025 18:54,București,4,"['Cheeseburger', 'Burger Clasic']",2,71,9.99,47,Card,4,TRUE
+101389,9/26/2025 19:39,Timișoara,8,"['Noodles cu pui', 'Ceai verde', 'Sushi Mix 16 buc']",3,110,0,29,Cash,5,TRUE
+101390,9/26/2025 20:54,București,16,"['Cafea', 'Clătite cu ciocolată', 'Papanași', 'Waffle cu fructe']",4,81,7.99,39,Cash,5,FALSE
+101391,9/26/2025 23:10,București,12,"['Mici cu muștar (5 buc)', 'Ciorbă de burtă', 'Papanași', 'Sarmale cu mămăligă']",4,112,0,41,Card,4,FALSE
+101392,9/27/2025 10:34,Timișoara,2,"['Pizza Margherita', 'Pizza Quattro Formaggi', 'Focaccia', 'Tiramisu']",4,111,0,12,Card,,FALSE
+101393,9/27/2025 12:28,București,1,"['Pizza Quattro Formaggi', 'Pizza Capricciosa', 'Tiramisu']",3,102,0,38,Cash,,TRUE
+101394,9/27/2025 13:15,Timișoara,8,['Supă Miso'],1,15,9.99,37,Cash,4,TRUE
+101395,9/27/2025 15:00,București,10,['Sarmale cu mămăligă'],1,36,7.99,54,Card,4,FALSE
+101396,9/27/2025 17:46,București,18,"['Kebab la farfurie', 'Shaorma mare']",2,64,12.99,31,Card,5,TRUE
+101397,9/28/2025 10:01,București,6,"['Milkshake', 'Burger Clasic']",2,51,12.99,27,Card,,TRUE
+101398,9/28/2025 13:37,București,2,"['Focaccia', 'Pizza Capricciosa']",2,59,7.99,49,Card,4,FALSE
+101399,9/28/2025 14:07,București,13,"['Salată Caesar', 'Smoothie']",2,52,7.99,38,Card,,FALSE
+101400,9/28/2025 17:45,Timișoara,3,"['Tiramisu', 'Pizza Quattro Formaggi', 'Focaccia']",3,79,9.99,37,Card,4,FALSE
+101401,9/28/2025 19:22,București,2,"['Cola', 'Pizza Quattro Formaggi']",2,50,7.99,38,Card,,FALSE
+101402,9/29/2025 11:38,Iași,12,"['Șnițel cu piure', 'Mici cu muștar (5 buc)']",2,68,9.99,31,Card,4,FALSE
+101403,9/29/2025 13:13,București,16,['Cheesecake'],1,23,12.99,30,Card,,FALSE
+101404,9/29/2025 14:20,Brașov,6,['Onion rings'],1,14,12.99,21,Card,5,FALSE
+101405,9/29/2025 15:21,Cluj-Napoca,4,"['Cheeseburger', 'Burger Clasic', 'Milkshake']",3,88,7.99,25,Card,4,TRUE
+101406,9/29/2025 18:52,București,11,['Ciorbă de burtă'],1,22,9.99,33,Card,,FALSE
+101407,9/29/2025 18:56,București,6,"['Burger BBQ', 'Burger Clasic', 'Cheeseburger']",3,113,0,36,Cash,,TRUE
+101408,9/29/2025 20:28,Timișoara,9,['California Roll'],1,38,7.99,32,Cash,,FALSE
+101409,9/29/2025 20:31,București,12,['Limonadă'],1,12,12.99,55,Card,3,FALSE
+101410,9/30/2025 12:21,Cluj-Napoca,17,"['Shaorma medie', 'Kebab la farfurie', 'Ayran']",3,66,9.99,27,Card,4,FALSE
+101411,9/30/2025 13:07,Cluj-Napoca,2,"['Pizza Capricciosa', 'Cola', 'Pizza Margherita', 'Tiramisu']",4,100,0,40,Card,,FALSE
+101412,9/30/2025 16:31,București,5,['Burger BBQ'],1,42,7.99,23,Card,4,TRUE
+101413,9/30/2025 19:08,Cluj-Napoca,1,"['Tiramisu', 'Pizza Capricciosa', 'Pizza Quattro Formaggi', 'Pizza Margherita']",4,134,0,23,Cash,5,FALSE
+101414,10/1/2025 11:19,București,9,"['Pad Thai', 'Supă Miso', 'California Roll']",3,94,9.99,27,Card,,TRUE
+101415,10/1/2025 18:39,Timișoara,2,"['Tiramisu', 'Pizza Capricciosa']",2,60,7.99,20,Card,4,FALSE
+101416,10/1/2025 21:08,București,16,"['Clătite cu ciocolată', 'Cheesecake']",2,44,7.99,41,Card,3,TRUE
+101417,10/2/2025 13:57,Timișoara,14,"['Bowl cu somon', 'Bowl vegan', 'Wrap cu pui', 'Salată Caesar']",4,152,0,32,Card,,FALSE
+101418,10/2/2025 17:56,București,7,"['California Roll', 'Noodles cu pui']",2,74,7.99,40,Card,3,TRUE
+101419,10/2/2025 20:43,Timișoara,8,"['Pad Thai', 'California Roll']",2,79,9.99,33,Card,,FALSE
+101420,10/3/2025 11:28,București,6,"['Burger Clasic', 'Milkshake']",2,51,12.99,35,Card,4,FALSE
+101421,10/3/2025 12:00,Cluj-Napoca,18,"['Kebab la farfurie', 'Falafel wrap']",2,60,7.99,31,Card,,FALSE
+101422,10/3/2025 12:50,București,16,['Waffle cu fructe'],1,26,9.99,39,Card,4,FALSE
+101423,10/3/2025 15:04,Iași,18,['Shaorma medie'],1,24,7.99,21,Card,,FALSE
+101424,10/3/2025 15:22,Timișoara,3,['Focaccia'],1,18,9.99,26,Card,5,FALSE
+101425,10/3/2025 17:41,Cluj-Napoca,7,"['Supă Miso', 'Ceai verde', 'Noodles cu pui']",3,60,7.99,12,Card,4,FALSE
+101426,10/3/2025 18:00,București,8,"['Supă Miso', 'Noodles cu pui']",2,51,7.99,39,Cash,4,FALSE
+101427,10/3/2025 19:03,Cluj-Napoca,7,['Ceai verde'],1,9,9.99,30,Card,4,TRUE
+101428,10/3/2025 20:08,Cluj-Napoca,13,"['Bowl vegan', 'Apă plată']",2,45,9.99,28,Cash,,FALSE
+101429,10/3/2025 22:02,Brașov,6,"['Cola', 'Burger Clasic']",2,42,9.99,16,Cash,4,TRUE
+101430,10/4/2025 18:20,Cluj-Napoca,4,"['Milkshake', 'Onion rings', 'Cola']",3,39,12.99,14,Card,5,FALSE
+101431,10/4/2025 19:03,Cluj-Napoca,9,"['Supă Miso', 'Ceai verde']",2,24,7.99,41,Card,,FALSE
+101432,10/4/2025 19:34,București,18,"['Kebab la farfurie', 'Shaorma medie']",2,59,12.99,32,Cash,4,FALSE
+101433,10/4/2025 23:50,Cluj-Napoca,15,['Papanași'],1,24,9.99,19,Card,,FALSE
+101434,10/5/2025 14:52,Brașov,4,['Onion rings'],1,14,7.99,21,Cash,5,FALSE
+101435,10/5/2025 15:03,București,4,"['Milkshake', 'Burger Clasic', 'Cartofi prăjiți']",3,63,9.99,25,Cash,4,FALSE
+101436,10/5/2025 15:20,București,11,"['Papanași', 'Sarmale cu mămăligă']",2,60,9.99,47,Card,,TRUE
+101437,10/5/2025 20:01,București,11,"['Șnițel cu piure', 'Papanași']",2,62,9.99,42,Card,,FALSE
+101438,10/6/2025 12:47,București,7,"['Pad Thai', 'Ceai verde']",2,50,9.99,41,Card,3,FALSE
+101439,10/6/2025 17:26,Cluj-Napoca,12,"['Ciorbă de burtă', 'Limonadă']",2,34,12.99,23,Card,4,FALSE
+101440,10/6/2025 20:11,București,4,"['Cheeseburger', 'Onion rings']",2,51,12.99,30,Card,5,FALSE
+101441,10/7/2025 12:28,Brașov,5,['Cartofi prăjiți'],1,12,7.99,39,Card,4,FALSE
+101442,10/7/2025 12:59,București,10,"['Limonadă', 'Papanași']",2,36,9.99,40,Card,4,TRUE
+101443,10/7/2025 14:01,Timișoara,3,"['Tiramisu', 'Pizza Quattro Formaggi', 'Pizza Margherita']",3,93,9.99,25,Cash,5,FALSE
+101444,10/7/2025 22:23,București,13,"['Smoothie', 'Salată Caesar', 'Bowl vegan']",3,91,9.99,38,Cash,4,FALSE
+101445,10/8/2025 12:03,Brașov,12,['Sarmale cu mămăligă'],1,36,7.99,30,Cash,4,FALSE
+101446,10/8/2025 14:51,București,4,"['Milkshake', 'Onion rings', 'Burger BBQ']",3,73,7.99,32,Card,4,FALSE
+101447,10/8/2025 20:47,Cluj-Napoca,5,"['Milkshake', 'Cola', 'Cartofi prăjiți']",3,37,9.99,33,Card,,FALSE
+101448,10/8/2025 22:13,Timișoara,13,"['Wrap cu pui', 'Smoothie', 'Bowl vegan']",3,88,9.99,18,Card,,FALSE
+101449,10/9/2025 11:29,București,7,"['Noodles cu pui', 'Pad Thai']",2,77,7.99,51,Card,3,TRUE
+101450,10/9/2025 13:48,București,15,['Cafea'],1,10,7.99,34,Card,4,FALSE
+101451,10/9/2025 15:54,București,12,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă', 'Limonadă']",3,78,9.99,35,Cash,4,FALSE
+101452,10/9/2025 16:25,București,9,"['Noodles cu pui', 'California Roll', 'Pad Thai', 'Supă Miso']",4,130,0,41,Card,3,FALSE
+101453,10/10/2025 13:38,București,18,"['Shaorma mare', 'Shaorma medie']",2,53,7.99,47,Card,3,TRUE
+101454,10/10/2025 13:56,Iași,3,"['Pizza Diavola', 'Focaccia']",2,57,7.99,31,Card,4,TRUE
+101455,10/10/2025 19:05,București,3,"['Pizza Margherita', 'Pizza Quattro Formaggi', 'Pizza Diavola']",3,113,0,29,Card,5,FALSE
+101456,10/10/2025 20:41,București,15,"['Cafea', 'Cheesecake', 'Înghețată']",3,48,12.99,32,Card,,TRUE
+101457,10/10/2025 20:53,Cluj-Napoca,1,"['Focaccia', 'Pizza Quattro Formaggi']",2,60,12.99,37,Card,3,TRUE
+101458,10/10/2025 21:30,București,12,"['Sarmale cu mămăligă', 'Mici cu muștar (5 buc)', 'Ciorbă de burtă']",3,88,7.99,36,Card,4,FALSE
+101459,10/11/2025 12:17,București,18,['Kebab la farfurie'],1,35,9.99,36,Cash,,FALSE
+101460,10/11/2025 12:36,Brașov,2,"['Tiramisu', 'Pizza Quattro Formaggi']",2,61,7.99,33,Cash,4,TRUE
+101461,10/11/2025 13:52,Brașov,17,['Cartofi prăjiți'],1,12,9.99,29,Cash,5,FALSE
+101462,10/11/2025 17:23,Timișoara,4,"['Cheeseburger', 'Cola']",2,45,7.99,25,Cash,4,FALSE
+101463,10/11/2025 18:26,Iași,10,"['Papanași', 'Mici cu muștar (5 buc)']",2,54,7.99,22,Cash,5,FALSE
+101464,10/11/2025 19:16,București,15,['Waffle cu fructe'],1,26,9.99,47,Cash,3,FALSE
+101465,10/11/2025 19:54,București,18,"['Ayran', 'Shaorma mare', 'Falafel wrap']",3,61,7.99,38,Card,,FALSE
+101466,10/11/2025 20:01,București,12,['Șnițel cu piure'],1,38,9.99,38,Cash,4,FALSE
+101467,10/11/2025 20:10,Timișoara,12,['Limonadă'],1,12,9.99,27,Card,,FALSE
+101468,10/11/2025 21:33,Iași,1,"['Tiramisu', 'Pizza Capricciosa', 'Focaccia']",3,78,7.99,28,Card,4,FALSE
+101469,10/12/2025 13:49,Cluj-Napoca,18,"['Shaorma medie', 'Falafel wrap', 'Cartofi prăjiți', 'Ayran']",4,68,7.99,29,Card,5,FALSE
+101470,10/12/2025 16:11,Timișoara,2,"['Pizza Diavola', 'Cola']",2,47,9.99,20,Card,5,FALSE
+101471,10/12/2025 17:27,București,14,"['Bowl vegan', 'Bowl cu somon']",2,87,12.99,36,Card,4,FALSE
+101472,10/12/2025 20:57,Brașov,11,"['Papanași', 'Limonadă', 'Ciorbă de burtă']",3,58,12.99,32,Card,4,FALSE
+101473,10/12/2025 23:16,București,18,['Cartofi prăjiți'],1,12,12.99,41,Card,,FALSE
+101474,10/13/2025 15:14,Timișoara,6,"['Milkshake', 'Cheeseburger']",2,54,9.99,14,Card,,TRUE
+101475,10/13/2025 16:44,București,10,['Limonadă'],1,12,9.99,19,Card,4,FALSE
+101476,10/13/2025 19:20,București,15,['Papanași'],1,24,12.99,25,Card,4,FALSE
+101477,10/13/2025 23:20,București,15,"['Înghețată', 'Cheesecake', 'Clătite cu ciocolată']",3,59,7.99,26,Card,5,FALSE
+101478,10/14/2025 10:45,Cluj-Napoca,14,"['Salată Caesar', 'Apă plată', 'Bowl cu somon']",3,88,9.99,20,Card,,TRUE
+101479,10/14/2025 12:25,Iași,9,['Pad Thai'],1,41,9.99,31,Card,4,FALSE
+101480,10/14/2025 12:45,București,5,"['Cola', 'Onion rings']",2,22,9.99,55,Cash,3,FALSE
+101481,10/14/2025 20:17,Brașov,4,['Milkshake'],1,17,9.99,30,Cash,3,FALSE
+101482,10/14/2025 23:32,Iași,2,"['Cola', 'Pizza Capricciosa', 'Tiramisu', 'Pizza Quattro Formaggi']",4,110,0,24,Card,5,FALSE
+101483,10/15/2025 16:46,București,4,"['Milkshake', 'Burger BBQ']",2,59,9.99,28,Cash,4,FALSE
+101484,10/15/2025 19:21,Cluj-Napoca,8,"['Pad Thai', 'Noodles cu pui', 'Sushi Mix 16 buc']",3,142,0,29,Cash,5,FALSE
+101485,10/15/2025 21:04,Brașov,8,"['Supă Miso', 'Sushi Mix 16 buc', 'Noodles cu pui', 'Ceai verde']",4,125,0,33,Card,3,TRUE
+101486,10/15/2025 21:46,București,9,"['Noodles cu pui', 'California Roll', 'Pad Thai', 'Supă Miso']",4,130,0,44,Card,4,FALSE
+101487,10/16/2025 12:17,București,4,"['Cartofi prăjiți', 'Cola', 'Cheeseburger']",3,57,12.99,28,Cash,5,FALSE
+101488,10/16/2025 13:46,Cluj-Napoca,3,"['Pizza Diavola', 'Pizza Quattro Formaggi']",2,81,9.99,39,Card,4,FALSE
+101489,10/16/2025 14:44,București,3,"['Pizza Quattro Formaggi', 'Pizza Diavola']",2,81,9.99,30,Cash,,FALSE
+101490,10/16/2025 19:36,București,4,"['Burger BBQ', 'Onion rings', 'Cola']",3,64,7.99,29,Cash,,TRUE
+101491,10/17/2025 11:18,București,1,"['Tiramisu', 'Cola', 'Pizza Diavola']",3,66,12.99,31,Cash,3,FALSE
+101492,10/17/2025 13:00,București,2,"['Focaccia', 'Pizza Diavola']",2,57,9.99,44,Card,4,FALSE
+101493,10/17/2025 15:22,Brașov,3,"['Focaccia', 'Tiramisu']",2,37,9.99,24,Cash,5,TRUE
+101494,10/17/2025 19:06,București,12,['Papanași'],1,24,9.99,28,Card,5,FALSE
+101495,10/17/2025 21:44,Timișoara,4,"['Onion rings', 'Milkshake']",2,31,7.99,22,Card,5,FALSE
+101496,10/18/2025 13:39,București,1,"['Pizza Capricciosa', 'Focaccia', 'Tiramisu', 'Pizza Margherita']",4,110,0,27,Cash,5,FALSE
+101497,10/18/2025 14:26,București,11,"['Ciorbă de burtă', 'Sarmale cu mămăligă']",2,0,12.99,51,Card,4,FALSE
+101498,10/18/2025 15:21,Iași,11,"['Șnițel cu piure', 'Sarmale cu mămăligă']",2,74,9.99,26,Cash,5,FALSE
+101499,10/18/2025 18:06,București,12,"['Șnițel cu piure', 'Sarmale cu mămăligă']",2,74,9.99,38,Card,5,FALSE
+101500,10/18/2025 19:39,București,17,"['Cartofi prăjiți', 'Falafel wrap', 'Kebab la farfurie']",3,72,7.99,,Cash,4,FALSE
+101501,10/18/2025 21:58,București,14,"['Bowl vegan', 'Smoothie']",2,57,7.99,38,Card,5,TRUE
+101502,10/19/2025 13:16,Brașov,18,"['Shaorma medie', 'Shaorma mare']",2,53,9.99,40,Card,,FALSE
+101503,10/19/2025 15:52,Iași,11,['Mici cu muștar (5 buc)'],1,30,9.99,19,Card,5,FALSE
+101504,10/19/2025 18:34,Brașov,18,"['Shaorma medie', 'Shaorma mare', 'Kebab la farfurie']",3,88,9.99,19,Cash,5,FALSE
+101505,10/19/2025 19:06,București,17,"['Ayran', 'Falafel wrap', 'Kebab la farfurie']",3,67,9.99,47,Cash,,TRUE
+101506,10/19/2025 20:22,Iași,13,['Wrap cu pui'],1,31,7.99,24,Card,,FALSE
+101507,10/19/2025 22:05,Iași,5,"['Milkshake', 'Cartofi prăjiți']",2,29,9.99,30,Card,,FALSE
+101508,10/19/2025 22:49,Timișoara,4,['Burger Clasic'],1,34,7.99,12,Cash,5,FALSE
+101509,10/20/2025 12:48,București,10,"['Papanași', 'Șnițel cu piure']",2,62,9.99,42,Cash,5,FALSE
+101510,10/20/2025 15:16,București,3,['Pizza Capricciosa'],1,41,7.99,37,Card,,FALSE
+101511,10/20/2025 16:39,București,16,['Clătite cu ciocolată'],1,21,7.99,25,Card,4,TRUE
+101512,10/20/2025 20:20,Cluj-Napoca,9,['Sushi Mix 16 buc'],1,65,12.99,31,Card,5,FALSE
+101513,10/20/2025 21:41,Cluj-Napoca,8,"['Noodles cu pui', 'Ceai verde']",2,45,9.99,34,Card,,TRUE
+101514,10/21/2025 12:28,Cluj-Napoca,4,['Burger BBQ'],1,42,9.99,32,Card,,FALSE
+101515,10/21/2025 13:29,Cluj-Napoca,11,['Sarmale cu mămăligă'],1,36,7.99,34,Cash,3,FALSE
+101516,10/21/2025 15:53,Brașov,18,['Kebab la farfurie'],1,35,7.99,30,Card,5,FALSE
+101517,10/21/2025 19:07,București,1,['Tiramisu'],1,19,9.99,29,Card,,FALSE
+101518,10/21/2025 19:53,București,2,"['Pizza Quattro Formaggi', 'Focaccia', 'Pizza Margherita']",3,92,12.99,34,Card,,FALSE
+101519,10/22/2025 13:33,București,3,"['Pizza Quattro Formaggi', 'Pizza Diavola', 'Focaccia']",3,99,7.99,36,Card,5,TRUE
+101520,10/22/2025 20:26,Brașov,18,['Ayran'],1,7,9.99,24,Card,5,TRUE
+101521,10/22/2025 22:41,București,2,"['Pizza Margherita', 'Tiramisu']",2,51,9.99,44,Card,4,FALSE
+101522,10/23/2025 12:51,București,9,"['Noodles cu pui', 'California Roll', 'Sushi Mix 16 buc']",3,139,0,37,Card,,FALSE
+101523,10/23/2025 16:42,București,8,['Pad Thai'],1,41,7.99,28,Card,5,TRUE
+101524,10/23/2025 16:42,Brașov,6,['Cola'],1,8,9.99,,Cash,4,FALSE
+101525,10/23/2025 16:45,Timișoara,4,"['Cola', 'Burger BBQ', 'Milkshake', 'Cheeseburger']",4,104,0,17,Card,5,FALSE
+101526,10/23/2025 16:48,Iași,17,"['Shaorma mare', 'Falafel wrap']",2,54,9.99,19,Cash,,TRUE
+101527,10/23/2025 23:10,Timișoara,11,"['Limonadă', 'Mici cu muștar (5 buc)']",2,42,7.99,33,Cash,,FALSE
+101528,10/24/2025 17:09,București,2,"['Pizza Quattro Formaggi', 'Focaccia', 'Pizza Margherita']",3,92,7.99,27,Card,5,TRUE
+101529,10/24/2025 17:41,Timișoara,1,"['Pizza Margherita', 'Pizza Diavola', 'Pizza Capricciosa']",3,112,0,25,Cash,5,FALSE
+101530,10/24/2025 18:36,Iași,2,['Pizza Diavola'],1,39,7.99,18,Card,5,FALSE
+101531,10/24/2025 19:05,Timișoara,17,['Ayran'],1,7,12.99,28,Cash,3,FALSE
+101532,10/24/2025 19:19,Cluj-Napoca,4,"['Burger Clasic', 'Milkshake', 'Burger BBQ']",3,93,12.99,33,Cash,4,TRUE
+101533,10/24/2025 19:49,București,7,['Supă Miso'],1,15,7.99,48,Card,,TRUE
+101534,10/24/2025 22:41,Timișoara,3,"['Tiramisu', 'Pizza Diavola']",2,58,7.99,21,Card,,FALSE
+101535,10/25/2025 11:37,Cluj-Napoca,5,"['Burger BBQ', 'Burger Clasic']",2,76,7.99,18,Card,,FALSE
+101536,10/25/2025 12:20,Iași,3,"['Pizza Margherita', 'Focaccia', 'Pizza Diavola']",3,89,9.99,34,Card,5,FALSE
+101537,10/25/2025 13:56,București,17,"['Cartofi prăjiți', 'Falafel wrap']",2,37,7.99,35,Card,4,FALSE
+101538,10/25/2025 18:00,Cluj-Napoca,4,['Cola'],1,8,9.99,12,Card,,FALSE
+101539,10/25/2025 18:17,Cluj-Napoca,14,"['Bowl vegan', 'Apă plată']",2,45,9.99,12,Card,3,TRUE
+101540,10/25/2025 19:04,Iași,10,"['Papanași', 'Sarmale cu mămăligă', 'Mici cu muștar (5 buc)']",3,90,9.99,42,Cash,,FALSE
+101541,10/25/2025 19:17,București,9,"['Supă Miso', 'Sushi Mix 16 buc']",2,80,7.99,35,Cash,,FALSE
+101542,10/25/2025 19:54,București,17,"['Kebab la farfurie', 'Cartofi prăjiți']",2,47,7.99,30,Card,4,FALSE
+101543,10/25/2025 21:00,Cluj-Napoca,14,"['Wrap cu pui', 'Smoothie', 'Apă plată', 'Salată Caesar']",4,89,9.99,35,Cash,4,FALSE
+101544,10/25/2025 22:31,București,17,"['Kebab la farfurie', 'Ayran']",2,42,12.99,32,Card,,FALSE
+101545,10/26/2025 12:35,Timișoara,18,"['Shaorma medie', 'Cartofi prăjiți', 'Kebab la farfurie']",3,71,7.99,24,Card,5,FALSE
+101546,10/26/2025 14:41,Iași,17,"['Kebab la farfurie', 'Falafel wrap']",2,60,12.99,20,Card,4,FALSE
+101547,10/26/2025 18:59,București,8,"['Noodles cu pui', 'Pad Thai', 'Supă Miso']",3,92,9.99,46,Cash,,FALSE
+101548,10/26/2025 20:10,Iași,16,"['Cafea', 'Înghețată', 'Cheesecake']",3,48,9.99,30,Card,,FALSE
+101549,10/26/2025 20:34,Timișoara,1,['Cola'],1,8,7.99,32,Card,,FALSE
+101550,10/26/2025 21:35,București,7,"['Pad Thai', 'California Roll']",2,79,12.99,40,Card,4,FALSE
+101551,10/27/2025 21:00,Brașov,6,"['Cartofi prăjiți', 'Burger Clasic', 'Milkshake']",3,63,9.99,31,Card,,FALSE
+101552,10/28/2025 12:29,Iași,17,['Ayran'],1,7,7.99,26,Cash,,FALSE
+101553,10/28/2025 18:18,București,3,['Tiramisu'],1,19,9.99,40,Cash,,TRUE
+101554,10/28/2025 19:00,Cluj-Napoca,3,"['Pizza Margherita', 'Pizza Diavola', 'Focaccia']",3,89,12.99,40,Cash,5,FALSE
+101555,10/28/2025 20:09,București,2,"['Focaccia', 'Pizza Quattro Formaggi', 'Tiramisu']",3,79,9.99,49,Card,,FALSE
+101556,10/28/2025 20:52,București,1,['Pizza Margherita'],1,32,7.99,43,Card,4,FALSE
+101557,10/28/2025 21:41,Cluj-Napoca,7,"['Noodles cu pui', 'California Roll', 'Supă Miso']",3,89,9.99,34,Cash,4,FALSE
+101558,10/29/2025 18:52,București,17,['Shaorma medie'],1,24,12.99,31,Card,5,FALSE
+101559,10/30/2025 15:50,București,17,"['Ayran', 'Shaorma mare']",2,36,7.99,23,Card,,FALSE
+101560,10/30/2025 20:43,București,11,"['Papanași', 'Mici cu muștar (5 buc)']",2,54,9.99,42,Card,4,FALSE
+101561,10/31/2025 12:22,Brașov,12,"['Sarmale cu mămăligă', 'Ciorbă de burtă']",2,58,7.99,33,Card,5,FALSE
+101562,10/31/2025 16:19,Timișoara,7,"['Ceai verde', 'Supă Miso']",2,24,9.99,28,Card,4,FALSE
+101563,10/31/2025 18:11,București,3,"['Pizza Margherita', 'Pizza Quattro Formaggi']",2,74,12.99,33,Cash,5,FALSE
+101564,10/31/2025 18:32,Timișoara,2,"['Focaccia', 'Pizza Diavola']",2,57,7.99,18,Card,4,FALSE
+101565,11/1/2025 17:03,Brașov,7,"['California Roll', 'Ceai verde']",2,47,12.99,44,Card,,TRUE
+101566,11/1/2025 17:27,București,16,['Papanași'],1,24,7.99,29,Card,,TRUE
+101567,11/1/2025 18:14,București,14,"['Bowl cu somon', 'Bowl vegan', 'Apă plată']",3,93,9.99,26,Card,5,TRUE
+101568,11/1/2025 20:50,București,16,['Cafea'],1,10,7.99,51,Card,,FALSE
+101569,11/2/2025 11:48,București,14,"['Salată Caesar', 'Bowl vegan']",2,73,7.99,26,Cash,,FALSE
+101570,11/2/2025 13:03,Brașov,13,"['Bowl cu somon', 'Apă plată']",2,54,9.99,31,Cash,5,FALSE
+101571,11/2/2025 14:50,Timișoara,1,"['Cola', 'Pizza Margherita']",2,40,9.99,22,Cash,4,FALSE
+101572,11/2/2025 16:09,Cluj-Napoca,17,['Shaorma medie'],1,24,9.99,21,Card,4,FALSE
+101573,11/2/2025 17:51,Iași,7,['Supă Miso'],1,15,12.99,27,Card,5,FALSE
+101574,11/2/2025 18:58,Cluj-Napoca,1,"['Cola', 'Pizza Capricciosa', 'Tiramisu', 'Focaccia']",4,86,7.99,34,Card,,FALSE
+101575,11/2/2025 19:52,Timișoara,3,['Tiramisu'],1,19,9.99,28,Card,,TRUE
+101576,11/2/2025 19:58,Timișoara,11,"['Sarmale cu mămăligă', 'Papanași', 'Mici cu muștar (5 buc)', 'Ciorbă de burtă']",4,112,0,26,Card,4,FALSE
+101577,11/2/2025 20:16,București,14,"['Bowl vegan', 'Smoothie']",2,57,9.99,43,Card,3,FALSE
+101578,11/2/2025 22:26,București,8,"['Supă Miso', 'Noodles cu pui']",2,51,9.99,38,Card,4,FALSE
+101579,11/3/2025 11:41,Iași,17,"['Kebab la farfurie', 'Falafel wrap']",2,60,7.99,33,Cash,5,FALSE
+101580,11/3/2025 12:54,Cluj-Napoca,9,"['Pad Thai', 'Ceai verde']",2,50,12.99,28,Card,5,FALSE
+101581,11/3/2025 16:04,Cluj-Napoca,17,"['Ayran', 'Shaorma medie']",2,31,7.99,29,Card,4,FALSE
+101582,11/3/2025 18:52,Brașov,6,['Onion rings'],1,14,9.99,34,Card,5,FALSE
+101583,11/3/2025 20:48,Cluj-Napoca,16,['Clătite cu ciocolată'],1,21,12.99,33,Cash,4,FALSE
+101584,11/3/2025 23:59,Brașov,3,['Pizza Diavola'],1,39,12.99,28,Card,4,FALSE
+101585,11/4/2025 15:12,București,14,"['Wrap cu pui', 'Bowl cu somon', 'Smoothie']",3,97,7.99,35,Card,,FALSE
+101586,11/4/2025 17:01,București,6,"['Cola', 'Burger Clasic']",2,42,7.99,37,Cash,5,FALSE
+101587,11/4/2025 19:13,București,5,"['Onion rings', 'Milkshake', 'Burger Clasic']",3,65,7.99,44,Cash,,FALSE
+101588,11/4/2025 21:04,București,17,['Shaorma medie'],1,24,9.99,42,Card,4,FALSE
+101589,11/5/2025 11:50,București,18,"['Shaorma mare', 'Ayran']",2,36,12.99,37,Card,,TRUE
+101590,11/5/2025 12:52,București,3,"['Pizza Quattro Formaggi', 'Pizza Margherita', 'Cola']",3,82,9.99,56,Card,,FALSE
+101591,11/5/2025 13:23,Cluj-Napoca,12,"['Limonadă', 'Papanași']",2,36,12.99,12,Card,,FALSE
+101592,11/6/2025 13:14,București,17,['Shaorma medie'],1,24,7.99,50,Card,,FALSE
+101593,11/6/2025 13:31,București,18,"['Falafel wrap', 'Ayran']",2,32,12.99,53,Cash,4,FALSE
+101594,11/6/2025 13:35,Timișoara,3,['Pizza Capricciosa'],1,41,7.99,36,Card,4,FALSE
+101595,11/6/2025 14:56,București,8,"['Pad Thai', 'Sushi Mix 16 buc']",2,106,0,43,Card,,FALSE
+101596,11/6/2025 17:21,București,10,['Mici cu muștar (5 buc)'],1,30,7.99,31,Card,3,FALSE
+101597,11/6/2025 18:53,Cluj-Napoca,9,['Ceai verde'],1,9,12.99,23,Card,5,FALSE
+101598,11/6/2025 19:07,București,14,"['Bowl vegan', 'Wrap cu pui']",2,70,12.99,50,Card,3,FALSE
+101599,11/6/2025 20:29,Brașov,17,['Falafel wrap'],1,25,9.99,40,Cash,3,FALSE
+101600,11/7/2025 10:44,București,17,['Shaorma mare'],1,29,7.99,36,Card,,TRUE
+101601,11/7/2025 12:05,Brașov,11,"['Limonadă', 'Ciorbă de burtă']",2,34,9.99,33,Card,5,TRUE
+101602,11/7/2025 12:38,Cluj-Napoca,16,['Waffle cu fructe'],1,26,9.99,28,Card,,FALSE
+101603,11/7/2025 12:42,Timișoara,6,"['Cartofi prăjiți', 'Milkshake']",2,29,12.99,31,Card,,FALSE
+101604,11/7/2025 15:44,București,9,"['Sushi Mix 16 buc', 'Ceai verde', 'Noodles cu pui']",3,110,0,36,Card,4,FALSE
+101605,11/7/2025 17:34,Timișoara,10,['Sarmale cu mămăligă'],1,36,9.99,29,Card,4,FALSE
+101606,11/7/2025 17:50,Iași,12,"['Papanași', 'Șnițel cu piure']",2,62,12.99,29,Card,4,FALSE
+101607,11/7/2025 18:26,București,7,['Supă Miso'],1,15,9.99,29,Card,,FALSE
+101608,11/7/2025 18:59,București,2,"['Tiramisu', 'Focaccia', 'Pizza Diavola']",3,76,7.99,33,Card,,FALSE
+101609,11/7/2025 20:45,București,18,['Falafel wrap'],1,25,7.99,40,Card,4,FALSE
+101610,11/7/2025 21:32,Timișoara,12,"['Papanași', 'Sarmale cu mămăligă', 'Limonadă']",3,72,12.99,41,Card,4,FALSE
+101611,11/8/2025 10:07,București,15,"['Waffle cu fructe', 'Cheesecake', 'Papanași']",3,73,9.99,25,Card,,FALSE
+101612,11/8/2025 12:08,Timișoara,8,"['Supă Miso', 'Noodles cu pui', 'California Roll']",3,89,9.99,36,Cash,,FALSE
+101613,11/8/2025 12:15,București,4,"['Milkshake', 'Onion rings']",2,31,7.99,44,Card,5,FALSE
+101614,11/8/2025 13:59,București,14,"['Salată Caesar', 'Wrap cu pui', 'Apă plată']",3,71,12.99,47,Cash,4,FALSE
+101615,11/8/2025 16:20,București,2,['Pizza Diavola'],1,39,9.99,27,Cash,4,FALSE
+101616,11/8/2025 22:54,București,5,['Burger BBQ'],1,42,9.99,28,Card,5,TRUE
+101617,11/9/2025 14:10,București,15,['Înghețată'],1,15,9.99,41,Cash,,FALSE
+101618,11/9/2025 16:57,București,4,['Cartofi prăjiți'],1,12,9.99,32,Card,5,TRUE
+101619,11/9/2025 19:33,București,3,['Pizza Diavola'],1,39,9.99,37,Card,4,FALSE
+101620,11/10/2025 10:56,Iași,5,['Burger BBQ'],1,42,7.99,17,Card,,FALSE
+101621,11/10/2025 12:15,București,2,"['Pizza Diavola', 'Cola']",2,47,12.99,43,Card,4,FALSE
+101622,11/10/2025 12:16,Timișoara,4,"['Cola', 'Onion rings']",2,22,9.99,34,Card,,FALSE
+101623,11/10/2025 14:02,Brașov,18,"['Ayran', 'Cartofi prăjiți', 'Kebab la farfurie', 'Falafel wrap']",4,79,7.99,19,Cash,,FALSE
+101624,11/10/2025 19:24,București,18,"['Shaorma mare', 'Kebab la farfurie', 'Cartofi prăjiți']",3,76,7.99,35,Cash,,FALSE
+101625,11/10/2025 21:31,Brașov,5,"['Burger Clasic', 'Milkshake', 'Cola', 'Onion rings']",4,73,9.99,26,Card,5,FALSE
+101626,11/10/2025 22:04,Cluj-Napoca,2,"['Pizza Margherita', 'Focaccia', 'Pizza Diavola', 'Pizza Quattro Formaggi']",4,131,0,14,Card,5,FALSE
+101627,11/11/2025 11:29,București,18,"['Shaorma medie', 'Ayran', 'Shaorma mare']",3,60,9.99,38,Card,4,FALSE
+101628,11/11/2025 15:45,Iași,17,"['Shaorma medie', 'Ayran', 'Kebab la farfurie', 'Cartofi prăjiți']",4,78,12.99,22,Cash,,FALSE
+101629,11/11/2025 19:10,Cluj-Napoca,10,['Mici cu muștar (5 buc)'],1,30,7.99,29,Cash,5,FALSE
+101630,11/11/2025 20:26,București,6,['Cartofi prăjiți'],1,12,12.99,41,Card,3,TRUE
+101631,11/11/2025 20:42,Iași,7,['Ceai verde'],1,9,9.99,38,Cash,4,FALSE
+101632,11/11/2025 20:48,București,4,"['Cartofi prăjiți', 'Cheeseburger', 'Onion rings', 'Cola']",4,71,7.99,45,Card,4,FALSE
+101633,11/11/2025 21:20,Brașov,14,"['Salată Caesar', 'Apă plată', 'Bowl vegan', 'Wrap cu pui']",4,110,0,25,Card,5,FALSE
+101634,11/11/2025 22:24,București,17,"['Falafel wrap', 'Ayran']",2,32,7.99,35,Card,4,FALSE
+101635,11/12/2025 15:27,Iași,16,"['Cheesecake', 'Înghețată', 'Papanași']",3,62,9.99,26,Cash,,FALSE
+101636,11/12/2025 15:43,Brașov,5,"['Cartofi prăjiți', 'Burger BBQ', 'Onion rings']",3,68,7.99,29,Card,5,FALSE
+101637,11/13/2025 11:26,Iași,4,"['Burger BBQ', 'Cartofi prăjiți']",2,54,7.99,35,Card,,FALSE
+101638,11/13/2025 12:59,Cluj-Napoca,18,"['Ayran', 'Cartofi prăjiți']",2,19,9.99,19,Card,4,TRUE
+101639,11/13/2025 14:46,Cluj-Napoca,17,"['Cartofi prăjiți', 'Shaorma medie', 'Ayran', 'Falafel wrap']",4,68,7.99,23,Card,4,TRUE
+101640,11/13/2025 17:39,Brașov,3,"['Pizza Margherita', 'Cola']",2,40,12.99,28,Card,5,FALSE
+101641,11/13/2025 18:42,București,14,"['Salată Caesar', 'Smoothie']",2,52,7.99,27,Card,4,FALSE
+101642,11/13/2025 21:33,Timișoara,17,['Falafel wrap'],1,25,9.99,34,Card,3,TRUE
+101643,11/13/2025 22:42,București,7,['California Roll'],1,38,12.99,37,Card,4,FALSE
+101644,11/14/2025 13:08,Timișoara,4,"['Cheeseburger', 'Burger Clasic']",2,71,7.99,33,Cash,5,FALSE
+101645,11/14/2025 14:43,Brașov,6,['Cola'],1,8,12.99,31,Card,,TRUE
+101646,11/14/2025 15:40,Timișoara,13,['Apă plată'],1,6,12.99,17,Card,5,FALSE
+101647,11/14/2025 17:39,București,2,"['Pizza Quattro Formaggi', 'Tiramisu', 'Pizza Margherita', 'Focaccia']",4,111,0,38,Card,4,FALSE
+101648,11/14/2025 19:19,Brașov,6,"['Onion rings', 'Cola']",2,22,9.99,27,Card,,FALSE
+101649,11/14/2025 22:58,Cluj-Napoca,6,"['Cartofi prăjiți', 'Cheeseburger', 'Cola']",3,57,12.99,20,Card,5,FALSE
+101650,11/14/2025 23:31,Iași,16,"['Cheesecake', 'Papanași', 'Clătite cu ciocolată', 'Waffle cu fructe']",4,94,9.99,27,Cash,4,TRUE
+101651,11/15/2025 12:21,București,10,"['Mici cu muștar (5 buc)', 'Șnițel cu piure']",2,68,9.99,42,Card,,FALSE
+101652,11/15/2025 13:09,Iași,6,"['Onion rings', 'Cheeseburger']",2,51,9.99,29,Cash,5,TRUE
+101653,11/15/2025 15:36,Cluj-Napoca,4,"['Milkshake', 'Cheeseburger']",2,54,7.99,29,Cash,,FALSE
+101654,11/15/2025 17:01,Timișoara,9,"['Sushi Mix 16 buc', 'Pad Thai']",2,106,0,17,Card,,FALSE
+101655,11/15/2025 17:29,Timișoara,4,['Cartofi prăjiți'],1,12,12.99,22,Card,,FALSE
+101656,11/15/2025 20:20,București,10,"['Papanași', 'Ciorbă de burtă', 'Mici cu muștar (5 buc)']",3,76,9.99,36,Cash,4,FALSE
+101657,11/15/2025 20:40,Iași,5,"['Cheeseburger', 'Milkshake']",2,54,9.99,19,Cash,4,TRUE
+101658,11/15/2025 20:52,Iași,11,"['Ciorbă de burtă', 'Limonadă', 'Sarmale cu mămăligă']",3,70,9.99,30,Cash,4,FALSE
+101659,11/15/2025 23:53,București,18,"['Shaorma mare', 'Shaorma medie']",2,53,9.99,32,Card,3,FALSE
+101660,11/16/2025 18:56,București,4,"['Burger Clasic', 'Cartofi prăjiți', 'Cola', 'Onion rings']",4,68,7.99,37,Card,5,FALSE
+101661,11/16/2025 20:40,București,15,['Clătite cu ciocolată'],1,21,9.99,42,Card,5,FALSE
+101662,11/16/2025 21:37,București,17,"['Shaorma mare', 'Ayran', 'Falafel wrap', 'Shaorma medie']",4,85,7.99,32,Cash,,FALSE
+101663,11/16/2025 21:41,Iași,12,['Ciorbă de burtă'],1,22,12.99,32,Card,4,FALSE
+101664,11/17/2025 11:12,București,1,['Focaccia'],1,18,9.99,24,Card,5,TRUE
+101665,11/17/2025 13:28,București,3,"['Pizza Diavola', 'Pizza Quattro Formaggi']",2,81,9.99,49,Card,3,TRUE
+101666,11/17/2025 18:54,Timișoara,12,"['Ciorbă de burtă', 'Mici cu muștar (5 buc)']",2,52,9.99,23,Card,4,FALSE
+101667,11/17/2025 19:54,Iași,12,"['Papanași', 'Sarmale cu mămăligă', 'Șnițel cu piure']",3,98,7.99,35,Card,4,FALSE
+101668,11/17/2025 19:54,Cluj-Napoca,10,"['Papanași', 'Ciorbă de burtă', 'Mici cu muștar (5 buc)']",3,76,7.99,38,Card,4,FALSE
+101669,11/17/2025 19:56,Timișoara,6,"['Milkshake', 'Onion rings']",2,31,9.99,32,Card,4,FALSE
+101670,11/17/2025 19:57,București,5,['Cola'],1,8,9.99,44,Cash,4,FALSE
+101671,11/18/2025 12:13,Timișoara,9,"['Noodles cu pui', 'California Roll']",2,74,9.99,37,Card,5,FALSE
+101672,11/18/2025 12:23,București,1,"['Pizza Capricciosa', 'Tiramisu', 'Pizza Diavola', 'Pizza Margherita']",4,131,0,43,Card,,TRUE
+101673,11/18/2025 12:48,Timișoara,5,"['Cartofi prăjiți', 'Milkshake']",2,29,7.99,29,Card,4,FALSE
+101674,11/18/2025 14:34,Iași,2,"['Pizza Quattro Formaggi', 'Pizza Capricciosa']",2,83,9.99,25,Card,,FALSE
+101675,11/18/2025 18:55,Cluj-Napoca,10,"['Ciorbă de burtă', 'Papanași']",2,46,7.99,31,Card,5,FALSE
+101676,11/18/2025 19:49,București,11,"['Șnițel cu piure', 'Sarmale cu mămăligă']",2,74,7.99,46,Card,3,FALSE
+101677,11/18/2025 20:46,București,13,"['Bowl cu somon', 'Apă plată']",2,54,7.99,52,Cash,3,FALSE
+101678,11/19/2025 12:25,București,3,['Tiramisu'],1,19,9.99,48,Card,4,FALSE
+101679,11/19/2025 13:20,Timișoara,18,"['Falafel wrap', 'Shaorma medie', 'Cartofi prăjiți']",3,61,9.99,30,Card,,FALSE
+101680,11/19/2025 14:08,Brașov,1,"['Cola', 'Pizza Quattro Formaggi']",2,50,7.99,22,Card,5,TRUE
+101681,11/19/2025 16:49,Brașov,9,"['California Roll', 'Pad Thai']",2,79,7.99,37,Card,5,FALSE
+101682,11/19/2025 19:12,București,1,"['Tiramisu', 'Pizza Diavola']",2,58,12.99,43,Card,5,FALSE
+101683,11/19/2025 19:31,Cluj-Napoca,2,"['Pizza Quattro Formaggi', 'Focaccia', 'Pizza Margherita']",3,92,7.99,28,Card,5,TRUE
+101684,11/19/2025 20:14,București,18,"['Cartofi prăjiți', 'Shaorma medie', 'Falafel wrap']",3,61,7.99,40,Card,4,FALSE
+101685,11/19/2025 20:37,Timișoara,16,['Clătite cu ciocolată'],1,21,7.99,29,Card,,TRUE
+101686,11/20/2025 14:17,Timișoara,13,['Apă plată'],1,6,7.99,12,Cash,,TRUE
+101687,11/20/2025 18:27,Timișoara,11,['Ciorbă de burtă'],1,22,7.99,30,Card,4,FALSE
+101688,11/20/2025 21:33,Cluj-Napoca,8,['Noodles cu pui'],1,36,12.99,39,Card,4,FALSE
+101689,11/21/2025 11:06,București,10,['Papanași'],1,24,7.99,34,Card,3,FALSE
+101690,11/21/2025 13:50,București,9,"['California Roll', 'Ceai verde', 'Noodles cu pui', 'Sushi Mix 16 buc']",4,148,0,33,Card,,TRUE
+101691,11/21/2025 14:49,Cluj-Napoca,1,"['Pizza Quattro Formaggi', 'Tiramisu', 'Pizza Capricciosa']",3,102,0,35,Cash,5,TRUE
+101692,11/21/2025 17:30,București,7,['Supă Miso'],1,15,7.99,22,Cash,5,FALSE
+101693,11/21/2025 18:11,Timișoara,17,['Shaorma medie'],1,24,9.99,32,Card,4,FALSE
+101694,11/21/2025 18:30,Iași,1,"['Pizza Quattro Formaggi', 'Focaccia']",2,60,9.99,23,Card,,FALSE
+101695,11/21/2025 20:08,București,5,['Onion rings'],1,14,9.99,39,Card,,FALSE
+101696,11/21/2025 20:31,București,17,"['Falafel wrap', 'Shaorma medie']",2,49,12.99,27,Cash,5,FALSE
+101697,11/21/2025 20:50,București,17,"['Cartofi prăjiți', 'Shaorma mare']",2,41,9.99,36,Card,5,FALSE
+101698,11/21/2025 20:54,București,7,"['Supă Miso', 'Ceai verde']",2,24,12.99,54,Card,4,FALSE
+101699,11/21/2025 20:54,București,4,"['Milkshake', 'Burger Clasic']",2,51,7.99,35,Card,,FALSE
+101700,11/22/2025 12:16,Iași,17,"['Shaorma mare', 'Cartofi prăjiți']",2,41,7.99,20,Cash,5,TRUE
+101701,11/22/2025 12:25,București,6,"['Cheeseburger', 'Burger Clasic']",2,71,12.99,51,Card,3,FALSE
+101702,11/22/2025 12:55,București,16,"['Waffle cu fructe', 'Cheesecake', 'Înghețată']",3,64,7.99,39,Card,5,TRUE
+101703,11/22/2025 14:59,București,2,"['Cola', 'Pizza Capricciosa', 'Pizza Quattro Formaggi']",3,91,9.99,23,Card,5,FALSE
+101704,11/22/2025 16:04,Timișoara,18,['Shaorma mare'],1,29,7.99,21,Card,5,FALSE
+101705,11/22/2025 18:34,București,9,"['Pad Thai', 'Ceai verde']",2,50,7.99,32,Card,,TRUE
+101706,11/22/2025 19:01,București,16,['Cafea'],1,10,9.99,30,Card,4,FALSE
+101707,11/22/2025 19:13,Brașov,14,"['Bowl cu somon', 'Salată Caesar', 'Smoothie']",3,100,0,36,Cash,,FALSE
+101708,11/22/2025 19:36,Iași,4,['Milkshake'],1,17,7.99,26,Card,5,FALSE
+101709,11/22/2025 19:54,Cluj-Napoca,3,"['Pizza Diavola', 'Focaccia', 'Pizza Capricciosa', 'Tiramisu']",4,117,0,18,Cash,3,FALSE
+101710,11/22/2025 20:36,București,10,"['Papanași', 'Limonadă']",2,45,7.99,44,Card,,FALSE
+101711,11/22/2025 21:43,Cluj-Napoca,6,['Cheeseburger'],1,37,9.99,21,Card,4,FALSE
+101712,11/22/2025 21:48,Timișoara,2,['Cola'],1,8,9.99,29,Cash,,TRUE
+101713,11/23/2025 11:17,București,1,['Cola'],1,8,7.99,32,Cash,5,FALSE
+101714,11/23/2025 11:32,Cluj-Napoca,8,"['Supă Miso', 'Sushi Mix 16 buc']",2,80,7.99,23,Cash,,FALSE
+101715,11/23/2025 13:09,București,1,"['Tiramisu', 'Pizza Capricciosa']",2,60,12.99,36,Cash,,FALSE
+101716,11/23/2025 18:54,Brașov,10,"['Șnițel cu piure', 'Papanași']",2,62,12.99,23,Card,5,FALSE
+101717,11/23/2025 19:46,Cluj-Napoca,16,"['Cheesecake', 'Înghețată']",2,38,7.99,17,Card,5,FALSE
+101718,11/23/2025 20:27,București,7,"['Supă Miso', 'California Roll', 'Ceai verde']",3,62,7.99,44,Cash,,FALSE
+101719,11/23/2025 20:57,Cluj-Napoca,16,['Cafea'],1,10,7.99,24,Card,4,TRUE
+101720,11/23/2025 21:50,București,15,"['Înghețată', 'Waffle cu fructe', 'Clătite cu ciocolată']",3,62,9.99,47,Card,4,FALSE
+101721,11/24/2025 12:44,București,8,['California Roll'],1,38,9.99,36,Card,,FALSE
+101722,11/24/2025 21:33,București,11,['Sarmale cu mămăligă'],1,36,9.99,49,Card,4,FALSE
+101723,11/25/2025 13:01,Cluj-Napoca,1,"['Pizza Quattro Formaggi', 'Pizza Diavola']",2,81,9.99,30,Card,4,FALSE
+101724,11/25/2025 13:53,Cluj-Napoca,2,['Pizza Margherita'],1,32,9.99,25,Card,3,FALSE
+101725,11/25/2025 14:51,Timișoara,17,"['Falafel wrap', 'Cartofi prăjiți']",2,37,12.99,12,Card,5,FALSE
+101726,11/25/2025 15:49,București,17,['Shaorma mare'],1,29,7.99,25,Cash,,FALSE
+101727,11/25/2025 17:39,Timișoara,13,"['Bowl cu somon', 'Apă plată', 'Bowl vegan']",3,93,7.99,20,Card,4,FALSE
+101728,11/26/2025 11:03,București,17,"['Shaorma medie', 'Kebab la farfurie']",2,59,7.99,33,Cash,,FALSE
+101729,11/26/2025 14:05,București,5,"['Burger BBQ', 'Cheeseburger']",2,79,9.99,49,Cash,4,FALSE
+101730,11/26/2025 14:11,București,7,"['Sushi Mix 16 buc', 'Ceai verde', 'Noodles cu pui']",3,110,0,31,Card,4,FALSE
+101731,11/27/2025 12:04,Timișoara,4,['Cartofi prăjiți'],1,12,7.99,27,Card,4,FALSE
+101732,11/27/2025 12:14,Iași,2,"['Pizza Capricciosa', 'Tiramisu', 'Pizza Diavola']",3,99,7.99,44,Cash,,FALSE
+101733,11/27/2025 18:18,Timișoara,11,"['Limonadă', 'Ciorbă de burtă', 'Șnițel cu piure', 'Sarmale cu mămăligă']",4,108,0,12,Card,,TRUE
+101734,11/27/2025 20:42,București,14,"['Salată Caesar', 'Wrap cu pui', 'Bowl vegan', 'Bowl cu somon']",4,152,0,37,Card,,TRUE
+101735,11/28/2025 13:12,Timișoara,6,"['Cartofi prăjiți', 'Burger Clasic', 'Burger BBQ']",3,88,9.99,31,Card,,FALSE
+101736,11/28/2025 14:27,Cluj-Napoca,12,"['Sarmale cu mămăligă', 'Ciorbă de burtă', 'Mici cu muștar (5 buc)']",3,88,12.99,37,Cash,,FALSE
+101737,11/28/2025 15:26,Timișoara,11,"['Mici cu muștar (5 buc)', 'Limonadă']",2,42,7.99,36,Card,5,FALSE
+101738,11/28/2025 19:12,Cluj-Napoca,3,"['Pizza Capricciosa', 'Pizza Margherita']",2,73,12.99,34,Cash,4,TRUE
+101739,11/28/2025 19:25,București,10,"['Papanași', 'Șnițel cu piure']",2,62,7.99,37,Cash,4,TRUE
+101740,11/28/2025 19:44,București,1,"['Tiramisu', 'Pizza Diavola']",2,58,12.99,45,Card,4,FALSE
+101741,11/28/2025 20:05,Timișoara,4,"['Milkshake', 'Onion rings', 'Burger BBQ']",3,73,9.99,32,Cash,4,FALSE
+101742,11/28/2025 21:32,București,9,"['Pad Thai', 'California Roll']",2,79,12.99,55,Cash,,FALSE
+101743,11/28/2025 22:25,București,3,"['Focaccia', 'Pizza Quattro Formaggi']",2,60,7.99,31,Card,5,FALSE
+101744,11/29/2025 13:08,Brașov,1,"['Cola', 'Focaccia', 'Pizza Quattro Formaggi']",3,68,12.99,23,Card,5,TRUE
+101745,11/29/2025 16:28,București,12,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă', 'Papanași', 'Șnițel cu piure']",4,128,0,35,Card,,FALSE
+101746,11/29/2025 17:56,Cluj-Napoca,5,['Burger BBQ'],1,42,9.99,19,Cash,4,FALSE
+101747,11/29/2025 18:06,București,18,"['Falafel wrap', 'Shaorma medie']",2,49,7.99,25,Card,5,FALSE
+101748,11/29/2025 18:22,Brașov,3,"['Focaccia', 'Tiramisu', 'Pizza Margherita', 'Cola']",4,77,9.99,24,Card,4,FALSE
+101749,11/29/2025 19:10,București,4,"['Milkshake', 'Onion rings']",2,31,9.99,46,Card,4,TRUE
+101750,11/29/2025 21:56,Iași,13,"['Smoothie', 'Salată Caesar']",2,52,7.99,26,Cash,5,FALSE
+101751,11/29/2025 23:06,București,8,['Noodles cu pui'],1,36,9.99,25,Cash,,FALSE
+101752,11/30/2025 13:33,București,7,"['California Roll', 'Pad Thai', 'Noodles cu pui', 'Ceai verde']",4,124,0,43,Card,3,FALSE
+101753,11/30/2025 19:34,București,13,"['Bowl vegan', 'Salată Caesar', 'Smoothie']",3,91,7.99,37,Card,5,FALSE
+101754,11/30/2025 20:00,Cluj-Napoca,10,"['Limonadă', 'Ciorbă de burtă', 'Mici cu muștar (5 buc)']",3,64,7.99,31,Card,4,FALSE
+101755,11/30/2025 20:23,Timișoara,4,"['Burger BBQ', 'Cola']",2,50,7.99,25,Cash,4,TRUE
+101756,11/30/2025 20:38,București,5,"['Cheeseburger', 'Onion rings']",2,51,9.99,46,Cash,3,FALSE
+101757,11/30/2025 20:43,Brașov,9,['Ceai verde'],1,9,9.99,35,Card,4,FALSE
+101758,11/30/2025 20:56,București,2,"['Tiramisu', 'Focaccia']",2,37,7.99,37,Card,,FALSE
+101759,11/30/2025 22:16,București,16,"['Waffle cu fructe', 'Cafea']",2,36,7.99,44,Card,3,FALSE
+101760,12/1/2025 16:00,Cluj-Napoca,7,"['Pad Thai', 'Supă Miso']",2,56,9.99,23,Card,,FALSE
+101761,12/1/2025 16:29,Brașov,12,"['Ciorbă de burtă', 'Limonadă']",2,34,9.99,29,Cash,,FALSE
+101762,12/1/2025 18:25,București,4,"['Cheeseburger', 'Milkshake']",2,54,9.99,31,Card,4,FALSE
+101763,12/2/2025 14:46,Iași,10,"['Papanași', 'Ciorbă de burtă']",2,46,12.99,24,Card,4,FALSE
+101764,12/2/2025 20:22,Iași,6,['Cola'],1,8,12.99,41,Card,4,FALSE
+101765,12/2/2025 21:21,Iași,2,"['Cola', 'Pizza Capricciosa']",2,49,9.99,15,Cash,4,FALSE
+101766,12/3/2025 13:09,Brașov,8,"['Supă Miso', 'Pad Thai', 'California Roll']",3,94,9.99,21,Card,,TRUE
+101767,12/3/2025 18:26,București,5,"['Milkshake', 'Burger BBQ']",2,59,7.99,27,Card,4,FALSE
+101768,12/3/2025 19:01,Timișoara,17,['Ayran'],1,7,7.99,35,Card,4,FALSE
+101769,12/3/2025 19:07,Timișoara,7,"['Ceai verde', 'Noodles cu pui']",2,45,7.99,41,Card,,FALSE
+101770,12/3/2025 20:10,Timișoara,9,"['Noodles cu pui', 'California Roll']",2,74,7.99,42,Cash,3,FALSE
+101771,12/3/2025 22:45,Cluj-Napoca,13,"['Salată Caesar', 'Bowl cu somon']",2,82,9.99,35,Cash,4,FALSE
+101772,12/4/2025 11:19,București,4,"['Onion rings', 'Burger BBQ', 'Milkshake', 'Cola']",4,81,12.99,34,Card,4,FALSE
+101773,12/4/2025 13:11,București,10,"['Sarmale cu mămăligă', 'Șnițel cu piure']",2,74,7.99,39,Card,,TRUE
+101774,12/4/2025 16:00,Timișoara,6,"['Cheeseburger', 'Burger BBQ']",2,79,12.99,17,Card,5,TRUE
+101775,12/4/2025 17:48,Cluj-Napoca,17,['Kebab la farfurie'],1,35,7.99,15,Cash,,TRUE
+101776,12/4/2025 21:03,Iași,2,"['Pizza Diavola', 'Focaccia', 'Pizza Margherita']",3,89,7.99,30,Cash,4,FALSE
+101777,12/5/2025 15:03,Timișoara,1,"['Pizza Capricciosa', 'Focaccia', 'Tiramisu']",3,78,12.99,29,Card,5,FALSE
+101778,12/5/2025 19:32,București,6,['Cartofi prăjiți'],1,12,7.99,32,Cash,,FALSE
+101779,12/5/2025 20:16,București,10,"['Mici cu muștar (5 buc)', 'Șnițel cu piure']",2,68,7.99,44,Cash,4,FALSE
+101780,12/5/2025 21:59,București,15,"['Clătite cu ciocolată', 'Cafea']",2,31,7.99,28,Card,5,FALSE
+101781,12/6/2025 13:53,Iași,10,['Mici cu muștar (5 buc)'],1,30,7.99,27,Card,3,FALSE
+101782,12/6/2025 16:10,Cluj-Napoca,18,"['Kebab la farfurie', 'Ayran', 'Cartofi prăjiți']",3,54,7.99,24,Card,5,TRUE
+101783,12/6/2025 18:02,Cluj-Napoca,2,['Focaccia'],1,18,7.99,,Cash,4,FALSE
+101784,12/6/2025 19:35,București,13,"['Bowl cu somon', 'Apă plată', 'Salată Caesar']",3,88,7.99,51,Card,,TRUE
+101785,12/6/2025 20:10,Iași,9,"['Noodles cu pui', 'Sushi Mix 16 buc', 'California Roll', 'Supă Miso']",4,154,0,37,Cash,4,FALSE
+101786,12/6/2025 20:30,București,3,"['Focaccia', 'Tiramisu']",2,37,12.99,42,Card,3,FALSE
+101787,12/6/2025 21:26,Brașov,3,"['Pizza Quattro Formaggi', 'Pizza Margherita', 'Tiramisu']",3,93,7.99,,Card,5,FALSE
+101788,12/7/2025 13:34,Brașov,9,"['California Roll', 'Supă Miso', 'Pad Thai', 'Ceai verde']",4,103,0,44,Card,3,FALSE
+101789,12/7/2025 14:01,București,10,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă', 'Ciorbă de burtă', 'Papanași']",4,112,0,30,Card,5,TRUE
+101790,12/7/2025 14:16,Cluj-Napoca,13,['Bowl vegan'],1,39,12.99,27,Card,,FALSE
+101791,12/7/2025 15:22,Cluj-Napoca,11,"['Ciorbă de burtă', 'Șnițel cu piure']",2,60,7.99,30,Card,4,FALSE
+101792,12/7/2025 16:24,Timișoara,17,['Falafel wrap'],1,25,7.99,26,Card,4,FALSE
+101793,12/7/2025 17:09,București,7,"['California Roll', 'Sushi Mix 16 buc', 'Noodles cu pui']",3,139,0,,Card,,FALSE
+101794,12/7/2025 18:01,Cluj-Napoca,1,"['Pizza Diavola', 'Cola']",2,47,7.99,30,Cash,,TRUE
+101795,12/7/2025 21:37,Iași,10,"['Ciorbă de burtă', 'Mici cu muștar (5 buc)']",2,52,7.99,39,Card,5,FALSE
+101796,12/7/2025 22:23,Cluj-Napoca,5,['Cola'],1,8,12.99,25,Card,5,FALSE
+101797,12/8/2025 13:48,Cluj-Napoca,5,"['Burger Clasic', 'Cola', 'Burger BBQ']",3,84,7.99,30,Card,,FALSE
+101798,12/8/2025 14:06,București,4,"['Burger Clasic', 'Onion rings']",2,48,12.99,37,Card,,FALSE
+101799,12/9/2025 13:13,Iași,13,"['Bowl cu somon', 'Smoothie', 'Salată Caesar', 'Apă plată']",4,106,0,36,Card,,TRUE
+101800,12/9/2025 13:15,București,14,['Salată Caesar'],1,34,9.99,42,Card,4,FALSE
+101801,12/9/2025 19:47,Iași,12,"['Sarmale cu mămăligă', 'Șnițel cu piure', 'Papanași']",3,98,9.99,37,Card,,FALSE
+101802,12/10/2025 12:37,Cluj-Napoca,16,"['Cafea', 'Waffle cu fructe']",2,36,7.99,33,Card,4,FALSE
+101803,12/10/2025 13:07,Cluj-Napoca,4,['Burger BBQ'],1,42,7.99,35,Card,,FALSE
+101804,12/10/2025 13:28,București,9,"['Sushi Mix 16 buc', 'Ceai verde', 'California Roll']",3,112,0,50,Cash,5,FALSE
+101805,12/10/2025 14:12,București,14,"['Wrap cu pui', 'Bowl cu somon', 'Bowl vegan', 'Apă plată']",4,124,0,36,Cash,,TRUE
+101806,12/10/2025 14:52,Brașov,7,"['Pad Thai', 'Noodles cu pui', 'Ceai verde', 'California Roll']",4,124,0,24,Card,4,FALSE
+101807,12/10/2025 18:17,Timișoara,10,"['Limonadă', 'Sarmale cu mămăligă', 'Șnițel cu piure']",3,86,7.99,32,Card,,FALSE
+101808,12/10/2025 22:05,Brașov,18,"['Ayran', 'Shaorma mare']",2,36,7.99,18,Card,5,FALSE
+101809,12/11/2025 11:31,Cluj-Napoca,4,['Cheeseburger'],1,37,12.99,16,Card,4,FALSE
+101810,12/11/2025 13:44,Cluj-Napoca,16,['Clătite cu ciocolată'],1,21,7.99,17,Card,4,FALSE
+101811,12/11/2025 13:47,București,6,"['Cartofi prăjiți', 'Burger BBQ']",2,54,7.99,40,Card,,FALSE
+101812,12/11/2025 14:19,București,2,"['Pizza Capricciosa', 'Pizza Margherita', 'Tiramisu']",3,92,7.99,34,Cash,5,FALSE
+101813,12/11/2025 16:27,Cluj-Napoca,12,"['Mici cu muștar (5 buc)', 'Papanași', 'Șnițel cu piure']",3,92,12.99,28,Card,,FALSE
+101814,12/11/2025 18:36,Timișoara,4,"['Onion rings', 'Cartofi prăjiți', 'Cheeseburger', 'Milkshake']",4,80,12.99,15,Card,4,FALSE
+101815,12/11/2025 19:29,București,3,"['Pizza Quattro Formaggi', 'Pizza Diavola', 'Pizza Margherita', 'Pizza Capricciosa']",4,154,0,40,Cash,4,TRUE
+101816,12/12/2025 11:12,București,6,"['Burger Clasic', 'Burger BBQ']",2,76,7.99,29,Card,5,FALSE
+101817,12/12/2025 12:39,Timișoara,5,"['Milkshake', 'Burger BBQ', 'Cartofi prăjiți']",3,71,12.99,26,Cash,,TRUE
+101818,12/12/2025 16:06,București,2,"['Cola', 'Tiramisu', 'Pizza Margherita', 'Focaccia']",4,77,9.99,29,Card,,TRUE
+101819,12/12/2025 19:21,Cluj-Napoca,17,"['Shaorma medie', 'Falafel wrap']",2,49,9.99,38,Card,5,FALSE
+101820,12/12/2025 19:35,Iași,11,"['Papanași', 'Șnițel cu piure', 'Ciorbă de burtă', 'Limonadă']",4,96,12.99,29,Card,5,FALSE
+101821,12/12/2025 20:01,Iași,2,"['Tiramisu', 'Pizza Capricciosa']",2,60,7.99,31,Card,,FALSE
+101822,12/12/2025 20:40,Timișoara,14,"['Bowl vegan', 'Wrap cu pui']",2,70,7.99,45,Card,5,FALSE
+101823,12/12/2025 20:52,București,12,"['Mici cu muștar (5 buc)', 'Limonadă']",2,42,9.99,41,Cash,3,FALSE
+101824,12/12/2025 20:53,Timișoara,1,"['Pizza Quattro Formaggi', 'Pizza Capricciosa']",2,83,9.99,30,Cash,,FALSE
+101825,12/12/2025 22:32,București,10,"['Mici cu muștar (5 buc)', 'Limonadă']",2,42,9.99,32,Card,,FALSE
+101826,12/13/2025 12:28,Cluj-Napoca,6,"['Burger Clasic', 'Cola']",2,42,12.99,49,Card,4,FALSE
+101827,12/13/2025 12:52,București,5,"['Burger BBQ', 'Cola', 'Burger Clasic', 'Cheeseburger']",4,121,0,36,Cash,5,FALSE
+101828,12/13/2025 13:58,Cluj-Napoca,12,"['Mici cu muștar (5 buc)', 'Papanași']",2,54,7.99,29,Card,5,FALSE
+101829,12/13/2025 14:41,Brașov,17,"['Falafel wrap', 'Shaorma mare']",2,54,9.99,22,Card,,TRUE
+101830,12/13/2025 15:10,București,12,"['Limonadă', 'Mici cu muștar (5 buc)', 'Papanași', 'Ciorbă de burtă']",4,88,9.99,25,Card,5,FALSE
+101831,12/14/2025 12:32,București,9,"['Noodles cu pui', 'Supă Miso', 'Pad Thai']",3,92,7.99,52,Cash,,FALSE
+101832,12/14/2025 15:12,Iași,6,"['Cola', 'Cartofi prăjiți']",2,20,9.99,14,Card,,TRUE
+101833,12/14/2025 16:20,București,8,"['Pad Thai', 'Ceai verde']",2,50,7.99,38,Card,3,FALSE
+101834,12/14/2025 18:38,București,9,"['Supă Miso', 'Sushi Mix 16 buc']",2,80,9.99,18,Card,,TRUE
+101835,12/14/2025 22:58,București,17,"['Falafel wrap', 'Kebab la farfurie', 'Shaorma mare', 'Cartofi prăjiți']",4,101,0,28,Card,4,FALSE
+101836,12/15/2025 12:49,Iași,9,"['Sushi Mix 16 buc', 'Noodles cu pui', 'Supă Miso']",3,116,0,45,Card,4,FALSE
+101837,12/15/2025 13:04,Iași,2,['Pizza Margherita'],1,32,7.99,13,Cash,5,FALSE
+101838,12/15/2025 15:43,București,17,"['Shaorma medie', 'Cartofi prăjiți', 'Shaorma mare']",3,65,9.99,23,Card,5,FALSE
+101839,12/15/2025 16:14,București,12,"['Ciorbă de burtă', 'Limonadă']",2,34,9.99,38,Cash,,FALSE
+101840,12/15/2025 18:18,București,13,"['Apă plată', 'Bowl cu somon']",2,54,9.99,30,Cash,4,FALSE
+101841,12/15/2025 21:58,Cluj-Napoca,1,"['Pizza Margherita', 'Tiramisu']",2,51,12.99,29,Card,5,TRUE
+101842,12/16/2025 12:57,București,10,"['Ciorbă de burtă', 'Limonadă']",2,34,7.99,43,Cash,,FALSE
+101843,12/16/2025 14:17,Iași,9,['Sushi Mix 16 buc'],1,65,7.99,29,Card,4,FALSE
+101844,12/16/2025 19:11,București,9,"['California Roll', 'Pad Thai', 'Ceai verde']",3,88,7.99,41,Card,,FALSE
+101845,12/16/2025 20:03,Brașov,7,"['Supă Miso', 'Pad Thai']",2,56,9.99,29,Card,4,FALSE
+101846,12/16/2025 23:56,Cluj-Napoca,7,"['Pad Thai', 'Supă Miso', 'Sushi Mix 16 buc', 'Noodles cu pui']",4,157,0,21,Card,5,FALSE
+101847,12/17/2025 12:37,Cluj-Napoca,13,['Wrap cu pui'],1,31,7.99,35,Cash,4,FALSE
+101848,12/17/2025 18:27,Iași,1,"['Pizza Margherita', 'Pizza Quattro Formaggi', 'Cola']",3,82,9.99,23,Card,4,FALSE
+101849,12/17/2025 19:57,Cluj-Napoca,18,['Falafel wrap'],1,25,9.99,28,Card,5,TRUE
+101850,12/18/2025 12:46,Cluj-Napoca,7,['Sushi Mix 16 buc'],1,65,9.99,30,Card,5,FALSE
+101851,12/18/2025 13:51,Cluj-Napoca,10,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă']",2,66,12.99,39,Cash,,FALSE
+101852,12/18/2025 16:10,București,11,['Șnițel cu piure'],1,38,7.99,27,Card,5,FALSE
+101853,12/18/2025 16:59,Cluj-Napoca,4,"['Burger BBQ', 'Cola']",2,50,7.99,,Card,5,TRUE
+101854,12/18/2025 17:16,Brașov,17,['Shaorma mare'],1,29,7.99,17,Card,,TRUE
+101855,12/18/2025 19:33,București,10,"['Sarmale cu mămăligă', 'Ciorbă de burtă']",2,58,9.99,41,Card,,FALSE
+101856,12/18/2025 20:06,Brașov,17,['Shaorma mare'],1,29,7.99,40,Card,4,TRUE
+101857,12/18/2025 21:10,Brașov,3,"['Focaccia', 'Pizza Capricciosa']",2,59,7.99,44,Cash,,TRUE
+101858,12/19/2025 11:39,București,8,"['Ceai verde', 'Supă Miso']",2,24,7.99,34,Card,,FALSE
+101859,12/19/2025 14:23,Brașov,6,['Onion rings'],1,14,7.99,23,Card,4,FALSE
+101860,12/19/2025 14:54,Timișoara,11,"['Limonadă', 'Șnițel cu piure']",2,50,7.99,19,Card,,TRUE
+101861,12/19/2025 15:18,București,6,"['Cheeseburger', 'Cartofi prăjiți', 'Burger BBQ']",3,91,7.99,25,Card,,FALSE
+101862,12/19/2025 19:23,Iași,8,"['Sushi Mix 16 buc', 'Noodles cu pui']",2,101,0,32,Card,,FALSE
+101863,12/20/2025 10:49,Cluj-Napoca,3,"['Pizza Margherita', 'Tiramisu']",2,51,9.99,12,Card,4,FALSE
+101864,12/20/2025 11:47,Cluj-Napoca,1,"['Focaccia', 'Pizza Diavola', 'Tiramisu']",3,76,9.99,29,Card,4,FALSE
+101865,12/20/2025 12:04,București,13,['Salată Caesar'],1,34,12.99,45,Cash,4,FALSE
+101866,12/20/2025 13:11,Timișoara,4,['Burger BBQ'],1,42,12.99,32,Card,4,FALSE
+101867,12/20/2025 13:37,București,7,"['Sushi Mix 16 buc', 'Noodles cu pui']",2,101,0,43,Card,,FALSE
+101868,12/20/2025 16:21,Brașov,13,"['Wrap cu pui', 'Salată Caesar']",2,65,12.99,12,Card,4,TRUE
+101869,12/20/2025 19:34,Iași,1,"['Pizza Capricciosa', 'Pizza Quattro Formaggi']",2,83,7.99,36,Card,3,FALSE
+101870,12/20/2025 19:54,București,1,"['Tiramisu', 'Pizza Capricciosa']",2,60,7.99,51,Cash,3,FALSE
+101871,12/20/2025 20:33,București,10,"['Mici cu muștar (5 buc)', 'Ciorbă de burtă', 'Papanași']",3,76,7.99,50,Card,4,FALSE
+101872,12/20/2025 21:41,București,18,"['Kebab la farfurie', 'Shaorma medie', 'Ayran']",3,66,7.99,38,Cash,4,FALSE
+101873,12/21/2025 12:52,București,3,['Pizza Margherita'],1,32,7.99,38,Card,4,FALSE
+101874,12/21/2025 13:19,București,12,['Șnițel cu piure'],1,38,7.99,,Card,5,TRUE
+101875,12/21/2025 13:20,București,11,"['Papanași', 'Limonadă', 'Mici cu muștar (5 buc)', 'Șnițel cu piure']",4,104,0,38,Card,5,FALSE
+101876,12/21/2025 14:08,București,6,"['Cola', 'Cheeseburger', 'Milkshake', 'Burger Clasic']",4,96,9.99,32,Card,4,FALSE
+101877,12/21/2025 15:25,București,3,"['Pizza Diavola', 'Pizza Quattro Formaggi']",2,81,9.99,33,Card,5,TRUE
+101878,12/21/2025 18:18,Timișoara,14,"['Bowl cu somon', 'Smoothie']",2,66,7.99,19,Card,5,FALSE
+101879,12/21/2025 18:51,Cluj-Napoca,1,"['Tiramisu', 'Cola']",2,27,7.99,26,Card,5,TRUE
+101880,12/22/2025 11:52,București,3,"['Tiramisu', 'Focaccia']",2,37,7.99,44,Card,4,TRUE
+101881,12/22/2025 12:21,Cluj-Napoca,16,"['Cafea', 'Înghețată', 'Papanași']",3,49,12.99,35,Cash,,FALSE
+101882,12/22/2025 12:43,Timișoara,8,"['Sushi Mix 16 buc', 'Supă Miso']",2,80,7.99,37,Card,5,FALSE
+101883,12/22/2025 15:28,Iași,2,"['Pizza Diavola', 'Tiramisu']",2,58,9.99,19,Cash,5,TRUE
+101884,12/22/2025 16:28,București,6,['Cheeseburger'],1,37,7.99,22,Card,5,FALSE
+101885,12/22/2025 21:37,Iași,13,"['Salată Caesar', 'Bowl vegan', 'Apă plată']",3,79,7.99,42,Card,5,FALSE
+101886,12/22/2025 22:26,Brașov,18,"['Cartofi prăjiți', 'Ayran', 'Shaorma medie', 'Shaorma mare']",4,72,12.99,25,Cash,4,FALSE
+101887,12/23/2025 14:15,București,13,['Bowl vegan'],1,39,9.99,41,Cash,,FALSE
+101888,12/24/2025 12:18,București,3,"['Pizza Margherita', 'Tiramisu']",2,51,9.99,35,Card,,FALSE
+101889,12/24/2025 13:11,Timișoara,3,"['Focaccia', 'Pizza Quattro Formaggi']",2,60,9.99,30,Card,,FALSE
+101890,12/24/2025 13:32,Cluj-Napoca,3,"['Focaccia', 'Tiramisu', 'Pizza Quattro Formaggi', 'Cola']",4,87,12.99,25,Card,,TRUE
+101891,12/24/2025 14:38,București,13,"['Bowl vegan', 'Apă plată', 'Wrap cu pui', 'Smoothie']",4,94,9.99,28,Card,5,TRUE
+101892,12/24/2025 17:12,Iași,12,"['Ciorbă de burtă', 'Papanași', 'Mici cu muștar (5 buc)']",3,76,9.99,24,Card,,FALSE
+101893,12/24/2025 19:55,Iași,12,['Ciorbă de burtă'],1,22,12.99,44,Card,3,FALSE
+101894,12/24/2025 20:12,București,5,"['Cartofi prăjiți', 'Cheeseburger', 'Burger Clasic']",3,83,9.99,40,Card,4,TRUE
+101895,12/24/2025 20:29,Cluj-Napoca,8,"['Sushi Mix 16 buc', 'Noodles cu pui', 'Supă Miso', 'Pad Thai']",4,157,0,38,Card,4,FALSE
+101896,12/25/2025 11:43,București,9,"['Sushi Mix 16 buc', 'Ceai verde', 'Supă Miso', 'California Roll']",4,127,0,37,Card,,FALSE
+101897,12/25/2025 12:45,București,10,"['Limonadă', 'Sarmale cu mămăligă', 'Șnițel cu piure']",3,86,7.99,49,Card,,TRUE
+101898,12/25/2025 16:47,Iași,16,['Cafea'],1,10,7.99,19,Card,4,FALSE
+101899,12/25/2025 18:04,Brașov,4,"['Burger Clasic', 'Onion rings', 'Cola']",3,56,7.99,13,Cash,,FALSE
+101900,12/25/2025 18:21,Brașov,17,['Shaorma mare'],1,29,9.99,23,Cash,5,TRUE
+101901,12/25/2025 18:55,Iași,17,['Ayran'],1,7,9.99,21,Card,,FALSE
+101902,12/25/2025 19:01,Timișoara,16,"['Cafea', 'Înghețată']",2,25,9.99,43,Card,3,FALSE
+101903,12/25/2025 19:47,Iași,17,['Shaorma medie'],1,24,7.99,31,Card,,FALSE
+101904,12/25/2025 20:48,Brașov,10,"['Mici cu muștar (5 buc)', 'Ciorbă de burtă']",2,52,7.99,23,Card,4,FALSE
+101905,12/26/2025 15:19,București,12,['Papanași'],1,24,9.99,43,Card,,TRUE
+101906,12/26/2025 16:20,Cluj-Napoca,5,['Cola'],1,8,12.99,25,Card,5,FALSE
+101907,12/26/2025 16:39,București,6,"['Onion rings', 'Cheeseburger', 'Cola']",3,59,12.99,24,Card,,FALSE
+101908,12/26/2025 16:54,București,18,"['Shaorma mare', 'Falafel wrap']",2,54,7.99,27,Card,4,TRUE
+101909,12/26/2025 17:05,Brașov,1,"['Pizza Quattro Formaggi', 'Focaccia']",2,60,9.99,24,Cash,,FALSE
+101910,12/26/2025 19:52,Cluj-Napoca,17,"['Shaorma mare', 'Kebab la farfurie', 'Falafel wrap']",3,89,7.99,26,Card,4,FALSE
+101911,12/26/2025 20:39,Cluj-Napoca,15,"['Cheesecake', 'Înghețată']",2,38,7.99,30,Card,,FALSE
+101912,12/26/2025 21:34,Cluj-Napoca,2,['Tiramisu'],1,19,12.99,39,Card,4,TRUE
+101913,12/27/2025 13:27,București,3,['Pizza Diavola'],1,39,7.99,46,Card,,FALSE
+101914,12/27/2025 13:58,București,13,"['Salată Caesar', 'Smoothie']",2,52,9.99,33,Card,,FALSE
+101915,12/27/2025 20:36,Timișoara,11,['Limonadă'],1,12,9.99,38,Card,4,FALSE
+101916,12/27/2025 21:38,Cluj-Napoca,18,"['Cartofi prăjiți', 'Kebab la farfurie']",2,47,12.99,31,Card,,FALSE
+101917,12/27/2025 21:45,Brașov,3,"['Pizza Diavola', 'Pizza Margherita', 'Focaccia']",3,89,9.99,25,Cash,,TRUE
+101918,12/28/2025 11:54,Brașov,2,"['Pizza Diavola', 'Pizza Capricciosa']",2,80,12.99,30,Cash,,FALSE
+101919,12/28/2025 13:11,Iași,13,"['Bowl vegan', 'Bowl cu somon']",2,87,9.99,58,Card,4,FALSE
+101920,12/28/2025 15:11,București,4,"['Cola', 'Milkshake']",2,25,12.99,22,Card,4,FALSE
+101921,12/28/2025 15:35,Brașov,12,"['Sarmale cu mămăligă', 'Șnițel cu piure']",2,74,7.99,22,Card,,TRUE
+101922,12/28/2025 19:16,București,1,"['Pizza Capricciosa', 'Pizza Diavola']",2,80,12.99,41,Card,3,FALSE
+101923,12/28/2025 20:33,Cluj-Napoca,4,"['Burger Clasic', 'Cola']",2,42,12.99,25,Card,,FALSE
+101924,12/28/2025 20:48,Timișoara,17,['Falafel wrap'],1,25,9.99,29,Card,5,TRUE
+101925,12/28/2025 21:04,Timișoara,3,"['Tiramisu', 'Focaccia']",2,37,7.99,27,Cash,,FALSE
+101926,12/28/2025 22:15,București,12,['Limonadă'],1,12,9.99,35,Card,5,FALSE
+101927,12/29/2025 13:09,Timișoara,5,['Milkshake'],1,17,9.99,35,Card,4,FALSE
+101928,12/29/2025 13:35,Cluj-Napoca,5,"['Onion rings', 'Milkshake', 'Cheeseburger']",3,68,7.99,28,Cash,,FALSE
+101929,12/29/2025 14:59,Cluj-Napoca,1,"['Pizza Diavola', 'Tiramisu']",2,58,7.99,20,Cash,4,FALSE
+101930,12/29/2025 15:34,Brașov,2,"['Pizza Diavola', 'Cola', 'Pizza Quattro Formaggi']",3,89,9.99,25,Card,,FALSE
+101931,12/29/2025 15:47,Iași,10,['Ciorbă de burtă'],1,22,7.99,28,Card,3,FALSE
+101932,12/29/2025 18:42,Cluj-Napoca,6,"['Onion rings', 'Cola']",2,22,9.99,17,Card,5,FALSE
+101933,12/29/2025 20:23,Cluj-Napoca,3,['Pizza Quattro Formaggi'],1,42,7.99,23,Card,5,FALSE
+101934,12/29/2025 21:10,București,7,"['Noodles cu pui', 'Supă Miso', 'Ceai verde']",3,60,9.99,45,Cash,5,FALSE
+101935,12/30/2025 11:05,București,12,['Limonadă'],1,12,9.99,38,Card,5,FALSE
+101936,12/30/2025 13:53,București,17,"['Falafel wrap', 'Shaorma mare']",2,54,7.99,43,Card,4,TRUE
+101937,12/30/2025 15:00,Cluj-Napoca,11,"['Ciorbă de burtă', 'Sarmale cu mămăligă', 'Limonadă']",3,70,7.99,38,Cash,5,FALSE
+101938,12/30/2025 17:16,Timișoara,6,['Onion rings'],1,14,7.99,19,Cash,4,FALSE
+101939,12/30/2025 19:54,Iași,3,"['Focaccia', 'Pizza Quattro Formaggi', 'Tiramisu', 'Pizza Capricciosa']",4,120,0,27,Card,5,FALSE
+101940,12/30/2025 20:41,Timișoara,14,"['Smoothie', 'Apă plată']",2,24,7.99,26,Card,5,FALSE
+101941,12/31/2025 12:45,Timișoara,17,['Ayran'],1,7,7.99,29,Card,,FALSE
+101942,12/31/2025 13:18,Cluj-Napoca,17,"['Shaorma medie', 'Kebab la farfurie', 'Cartofi prăjiți']",3,71,12.99,34,Card,4,FALSE
+101943,12/31/2025 15:49,București,16,['Papanași'],1,24,7.99,21,Cash,4,FALSE
+101944,12/31/2025 16:01,București,3,"['Pizza Diavola', 'Pizza Quattro Formaggi']",2,81,7.99,29,Card,5,TRUE
+101945,12/31/2025 18:02,Iași,1,"['Pizza Diavola', 'Cola']",2,47,7.99,28,Card,4,FALSE
+101946,12/31/2025 18:40,Cluj-Napoca,6,"['Milkshake', 'Burger BBQ', 'Cola', 'Cheeseburger']",4,104,0,24,Cash,5,FALSE
+101947,12/31/2025 18:56,Iași,18,"['Ayran', 'Shaorma mare', 'Shaorma medie']",3,60,12.99,25,Card,5,FALSE
+101948,12/31/2025 19:04,Timișoara,10,"['Mici cu muștar (5 buc)', 'Sarmale cu mămăligă']",2,66,7.99,36,Card,5,FALSE
+101949,12/31/2025 19:45,București,11,"['Ciorbă de burtă', 'Limonadă']",2,34,9.99,41,Card,3,FALSE
+101950,12/31/2025 22:37,Iași,13,"['Bowl vegan', 'Apă plată']",2,45,9.99,20,Card,4,TRUE
